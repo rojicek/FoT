@@ -1,0 +1,141 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  13 JUN 2023 20:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+ encTeX v. Jun. 2004, reencoding enabled
+**./fot.tex
+(fot.tex The format: csplain <Mar. 2022>.
+The cs-fonts are preloaded and A4 size implicitly defined.
+The utf8->iso8859-2 re-encoding of Czech+Slovak alphabet activated by encTeX
+(ctustyle2.tex
+CTUstyle2: Thesis at Czech Technical University in Prague, <beta(h) Mar.2021>
+\testinput=\read0
+
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac.tex
+This is OPmac (Olsak's Plain macros), version <May 2020>
+\tmpnum=\count28
+\tmpdim=\dimen16
+\iindent=\dimen17
+\ttindent=\dimen18
+\colsep=\dimen19
+\mnoteindent=\dimen20
+\mnotesize=\dimen21
+\titskip=\skip18
+\ptunit=\dimen22
+\fontdim=\dimen23
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\ams-math.tex
+FONT: AMS math fonts - \mathchardef's prepared, 12 math families preloaded.
+\ptmunit=\dimen24
+)
+The \^, \`, \', \v, \" and \r expands to characters by ISO-8859-2.
+\reffile=\write0
+\testin=\read1
+\chapnum=\count29
+\secnum=\count30
+\seccnum=\count31
+\nonumnum=\count32
+\remskipamount=\skip19
+\tnum=\count33
+\fnum=\count34
+\dnum=\count35
+\itemnum=\count36
+\mullines=\count37
+\oulnum=\count38
+\ttline=\count39
+\viline=\count40
+\vifile=\read2
+\tabdata=\toks12
+\colnum=\count41
+\drulewidth=\dimen25
+\picwidth=\dimen26
+\picheight=\dimen27
+\fnotenum=\count42
+\fnotenumlocal=\count43
+\mnotenum=\count44
+\mnoteskip=\dimen28
+\auxfile=\write1
+\bibnum=\count45
+\bibmark=\toks13
+\lastcitenum=\count46
+\lastpage=\count47
+\pgwidth=\dimen29
+\pgheight=\dimen30
+\shiftoffset=\dimen31
+ (fot.ref)
+\openout0 = `fot.ref'.
+
+)
+\faculty=\toks14
+\department=\toks15
+\title=\toks16
+\subtitle=\toks17
+\author=\toks18
+\supervisor=\toks19
+\date=\toks20
+\studyinfo=\toks21
+\authorinfo=\toks22
+\workinfo=\toks23
+\workname=\toks24
+\pagetwo=\toks25
+\titleEN=\toks26
+\titleCZ=\toks27
+\titleSK=\toks28
+\subtitleEN=\toks29
+\subtitleCZ=\toks30
+\subtitleSK=\toks31
+\abstractEN=\toks32
+\abstractCZ=\toks33
+\abstractSK=\toks34
+\keywordsEN=\toks35
+\keywordsCZ=\toks36
+\keywordsSK=\toks37
+\thanks=\toks38
+\declaration=\toks39
+\specification=\toks40
+
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\lmfonts.tex
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\ff-mac.tex)
+FONT: Latin Modern - {\caps \sans \ttset \slant \nbold \ttprop \ttlight \ttcond
+ \quotset \upital \dunhill } {\rm \bf \it \bi } +AMS
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\chars-8z.tex)){C
+:/Users/jiri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+\leftbox=\box16
+\rightbox=\box17
+\frontht=\dimen32
+\tocbox=\box18
+\tofbox=\box19
+\totbox=\box20
+\appnum=\count48
+\numA=\count49
+\numB=\count50
+\numC=\count51
+\numD=\count52
+\numE=\count53
+\maxglosindent=\dimen33
+\rfcnum=\count54
+)
+cs hyphenation used (\language=5). \frenchspacing is set on.
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac-bib.tex
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/generic/librarian\librarian.te
+x
+\lb@entrycount=\count55
+\lb@namecount=\count56
+\lb@tempcount=\count57
+\lb@sortnumber=\count58
+\NameCount=\count59
+\lb@read=\read3
+)) [-1{./xl2tech.enc} <./ctulogo-new.pdf>] [-2] [-3{C:/Users/jiri/AppData/Local
+/Programs/MiKTeX/fonts/enc/dvips/lm/lm-cs.enc}] [-4] [-5] [-6] [1] [2]
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac-bib-simple
+.tex) (fotbib.bib) [3{C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
+ps/lm/lm-cstt.enc}] )<./Technika-Bold.pfb><./Technika-Book.pfb><./Technika-Book
+Italic.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
+mr10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
+i10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt
+10.pfb>
+Output written on fot.pdf (9 pages, 163653 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+
