@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  13 JUN 2023 20:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  16 JUN 2023 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,16 +126,97 @@ x
 \lb@read=\read3
 )) [-1{./xl2tech.enc} <./ctulogo-new.pdf>] [-2] [-3{C:/Users/jiri/AppData/Local
 /Programs/MiKTeX/fonts/enc/dvips/lm/lm-cs.enc}] [-4] [-5] [-6] [1] [2]
+[3] [4] [5] [6] [7] [8]
+Overfull \vbox (28.8666pt too high) has occurred while \output is active
+\vbox(674.33032+0.0)x415.41025, glue set - 1.0
+.\vbox(0.0+0.0)x0.0, glue set 25.0fil
+..\kern -25.0
+..\pdfdest name{pg:.9} xyz
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\topskip) 10.0
+.\rule(0.0+0.0)x*
+.\penalty 10000
+.\glue 28.45274
+.\mark{}
+.\penalty 10000
+.\glue(\lineskip) 1.0
+.\hbox(31.29802+30.34135)x415.41025, glue set 11.3811fil
+..\pdfcolorstack 0 push {1 .43 0 0 k 1 .43 0 0 K}
+..\rule(31.29802+28.45274)x11.38109
+..\pdfcolorstack 0 push {0 g 0 G}
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\vbox(20.17499+30.34135)x392.64806
+...\hbox(20.17499+0.26233)x392.64806, glue set 306.80365fil
+....\thefont P
+....\thefont ř
+....\kern-0.06996
+....\thefont í
+....\thefont l
+....\thefont o
+....\thefont h
+....\thefont a
+....\glue 3.69005 plus 1.85376 minus 1.24167
+....\vbox(0.0+0.0)x0.0, glue set 41.99982fil
+.....\kern -41.99982
+.....\pdfdest name{toc:.A} xyz
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\write0<3>{\string \Xtoc {0}{\noexpand \bfshape }{A}{Zadání práce}{\the 
+\pageno \ETC.}
+....\thefont A
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\penalty 10000
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 6.57683
+...\hbox(16.66306+6.83914)x392.64806, glue set 284.36014fil
+....\pdfcolorstack 0 push {1 .43 0 0 k 1 .43 0 0 K}
+....\thefont Z
+....\kern0.10492
+....\thefont a
+....\thefont d
+....\thefont á
+....\thefont n
+....\thefont í
+....\glue 3.69005 plus 1.85376 minus 1.24167
+....\thefont p
+....\thefont r
+....\kern-0.76949
+....\thefont á
+....\thefont c
+....\thefont e
+....\rule(16.66306+6.83914)x0.0
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+..\pdfcolorstack 0 pop
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 pop
+.\penalty 10000
+.\glue 13.6 plus 4.53326 minus 4.53326
+.\mark{}
+.\penalty 10000
+.\glue(\lineskip) 1.0
+.\hbox(587.50458+0.0)x415.41025
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\hbox(587.50458+0.0)x415.41025
+...\pdfrefximage(587.50458+0.0)x415.41025
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\penalty 10000
+.\glue 6.8 plus 2.26653 minus 2.26653
+.\glue 0.0 plus 1.0fil
+
+
+[9 <./zadani-projektu-FOT.pdf>]
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac-bib-simple
-.tex) (fotbib.bib) [3{C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
-ps/lm/lm-cstt.enc}] )<./Technika-Bold.pfb><./Technika-Book.pfb><./Technika-Book
-Italic.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mr10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
-i10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt
-10.pfb>
-Output written on fot.pdf (9 pages, 163653 bytes).
+.tex) (fotbib.bib)
+l.92 OPmac WARNING: \usebib: entry [7] isn't found in .bib file(s).
+[10] )<./Technika-Bold.pfb><./Technika-Book.pfb><C:/Users/jiri/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/jiri/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
+Output written on fot.pdf (16 pages, 536829 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 

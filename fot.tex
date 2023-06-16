@@ -2,29 +2,35 @@
 
 \input ctustyle2
 \worktype [O/CZ]
-\workname {Ročníková práce nebo jak se to jmenuje}
+\workname {Semestrální projekt I}
 \faculty {F7}
-\department {Katedra permoníků}
+\department {Katedra biomedicínské techniky}
 \title {Model respiračního systému jako fantom pro metodu nucených oscilací }
 \author {Adéla Rojíčková}
 \date {červen 2023}
-\abstractEN {This document is to show how smart I am.}
-\abstractCZ {Tento dokument je abych měla prázdniny.}
-\declaration {Prohlašuji, že jsem se neflákala.}
-\thanks{díkes, díkes}
+\abstractEN {Abstract goes here}
+\abstractCZ {Tady patří abstrakt}
+\declaration {Prohlašuji, že jsem tuto práci vypracovala samostatně s použitím uvedených pramenů a literatury.}
+\thanks{Tady bude poděkování}
 \input opmac-bib
 
 \makefront
 
+\chap Úvod
+Respirační systém, jakožto jeden z nejdůležitějších systémů člověka, je třeba kontrolovat, aby prováděl správnou funkci. Bohužel často může docházet k různým onemocněním, které je třeba včas diagnostikovat. Metod pro měření respiračního systému je celá řada. Tento projekt se zabývá metodou nucených oscilací měřenou pomocí přístroje TremoFlo C-100. 
+TremoFlo C-100 je přístroj určený k hodnocení funkce respiračního systému pomocí metody nucených oscilací, což je neinvazivní měření. Cílem této práce je vytvořit model, který bude kompatibilní s přístrojem TremoFlo C-100. Oproti spirometrii je metoda nucených oscilací přístupnější, protože vyžaduje pouze minimální spolupráci pacienta, tudíž je vhodná jak pro děti, tak pro pacienty ve oslabeném stavu, kteří nejsou schopni provést měření podle pokynů lékaře. Vyšetření probíhá v klidu, kdy pacient spontánně dýchá přes jednorázový antibakteriální filtr do přístroje, který měří odpor dýchacích cest a tuhost plic. Hlavní výhoda oproti klasické spirometrii je ta, že metoda nucených oscilací neměří plíce jako jeden globální systém, ale dokážeme určit v jakých místech plic se daná patologie nachází. cite(baka) 
+ Přístroj generuje oscilace při různých frekvencích a amplitudách. Tyto oscilace jsou převedeny pomocí trubice nebo speciálního přívodu do pacientova dýchacího systému. Následně se zaznamenává odezva respiračního systému na tyto oscilace. Výsledkem měření nucených oscilací je rezistence dýchacích cest, pružnost plic a další charakteristiky dýchání. Tato data mohou být následně využívána při diagnostice různých patologických stavů jako je např. CHOPN nebo astma. 
+Aby se tato metoda dala využívat je třeba znát výsledky jednotlivých parametrů jak pro zdravé plíce, tak pro různé patologické stavy. Model plic pro tuto metodu zatím neexistuje a cílem této práce je ho zhotovit. 
+
 
 \chap Přehled současného stavu
+Respirační systém je jedním ze základních systémů lidského těla, který zajišťuje výměnů plynů mezi krví a okolním systémem, konkrétně úzce spolupracuje se srdcem a krví ve snaze extrahovat kyslík z vnějšího prostředí a zbavovat tělo nežádoucího oxidu uhličitého. \cite[lit2] Stejně jako ostatní části lidského těla je třeba kontrolovat i respirační systém a jeho správnou funkci. K tomu slouží metody jako spirometrie nebo metoda řízených oscilací. 
 
-Respirační systém \cite[VJgRTvR9gAkAHd6X], \cite[aaa] je jedním ze základních systémů lidského těla, který zajišťuje výměnů plynů mezi krví a okolním systémem, konkrétně úzce spolupracuje se srdcem a krví ve snaze extrahovat kyslík z vnějšího prostředí a zbavovat tělo nežádoucího oxidu uhličitého. [2] Stejně jako ostatní části lidského těla je třeba kontrolovat i respirační systém a jeho správnou funkci. K tomu slouží metody jako spirometrie nebo metoda řízených oscilací. 
-
-Spirometrie je diagnostická metoda pro měření ventilace respiračního systému. Je založena na měření tlaku na síťce uvnitř spirometru, který je úměrný objemu vzduchu. Základním fyzikálním principem je analogie Ohmova zákona, kdy ze známého průtoku vzduchu, tj obdoba proudu a známé překážky, tj obdobě odporu je vypočtena změna tlaku, tj obdoba napětí. Spirometr zaznamenává výsledek jako graf ukazující objem plic v závislosti na čase. [1] Spirometrie je určena pro měření statických a dynamických parametrů plic. Statický parametr  je velikost alveolárního prostoru, která informuje o případných restrikčních poruchách, příkladem je dechový objem, inspirační rezervní objem nebo vitální kapacita. Dynamický parametr je průběh proudění vzduchu v dýchacích cestách, který informuje o obstrukčních poruchách. Příkladem je časová vitální kapacita, maximální výdechový proud vzduchu nebo maximální volní ventilace. [3]
+Spirometrie je diagnostická metoda pro měření ventilace respiračního systému. Je založena na měření tlaku na síťce uvnitř spirometru, který je úměrný objemu vzduchu. Základním fyzikálním principem je analogie Ohmova zákona, kdy ze známého průtoku vzduchu, tj obdoba proudu a známé překážky, tj obdobě odporu je vypočtena změna tlaku, tj obdoba napětí. Spirometr zaznamenává výsledek jako graf ukazující objem plic v závislosti na čase.
+\cite[lit1] Spirometrie je určena pro měření statických a dynamických parametrů plic. Statický parametr  je velikost alveolárního prostoru, která informuje o případných restrikčních poruchách, příkladem je dechový objem, inspirační rezervní objem nebo vitální kapacita. Dynamický parametr je průběh proudění vzduchu v dýchacích cestách, který informuje o obstrukčních poruchách. Příkladem je časová vitální kapacita, maximální výdechový proud vzduchu nebo maximální volní ventilace. \cite[lit3]
 Spirometrie je v praxi velmi rozšířená diagnostická metoda i přes její základní nedostatek, kdy plíce jsou měřeny jako jeden globální systém a tudíž spirometrie není schopna rozlišit ve které části plic se nachází potenciální patologie.
 
-Metoda nucených oscilací je novější diagnostická metoda měření ventilace respiračního systému. Funguje na podobném principu jako ostatní konvenční metody měření funkce respiračního systému, s tím rozdílem, že proud vzduchu v tomhle případě blokuje překážka ve formě pohyblivé síťky. Pohybem překážky vznikají tlakové rázy o frekvenci v řádu desítek hertzů. Pro měření metodou FOT (forced oscillation technique) není třeba žádné speciální dýchání ze strany pacienta. Přístroj měří klasickou spirometrii a zároveň vysílá pulzy s nízkou amplitudou a proměnlivou frekvencí do respiračního systému a následně měří velikosti amplitud, které se vrátí zpátky do přístroje. [7]
+Metoda nucených oscilací je novější diagnostická metoda měření ventilace respiračního systému. Funguje na podobném principu jako ostatní konvenční metody měření funkce respiračního systému, s tím rozdílem, že proud vzduchu v tomhle případě blokuje překážka ve formě pohyblivé síťky. Pohybem překážky vznikají tlakové rázy o frekvenci v řádu desítek hertzů. Pro měření metodou FOT (forced oscillation technique) není třeba žádné speciální dýchání ze strany pacienta. Přístroj měří klasickou spirometrii a zároveň vysílá pulzy s nízkou amplitudou a proměnlivou frekvencí do respiračního systému a následně měří velikosti amplitud, které se vrátí zpátky do přístroje. \cite[7]
 
 Každá frekvence má jiný dosah do jiné hloubky plic, podle toho jaká amplituda oscilací se vrátí do přístroje, tak určí jaká je inertance neboli setrvačnost plic v daném místě. 
 
@@ -33,14 +39,54 @@ Výhodou tohoto vyšetření je jeho neinvazivnost a nenáročná spolupráce pa
 
 Tato metoda vyšetření se stává populární během posledních deseti let. Během té doby bylo vyvinuto mnoho variant FOT s různými konfiguracemi měření, frekvencí oscilací a principy hodnocení. 
 
-Přístroj TremoFlo C-100 využívá novou metodu oscilometrie pro zjištění odporu  v dýchacích cestách a tuhosti plic bez speciálního dýchání pacientů. Tato metoda patří mezi nejpokročilejší metody nucených oscilací. TremoFlo C-100 je zaměřen na měření plicních funkcí pomocí multifrekvenčních vln vysílaných do dechového oběhu pacienta. [4]
+Přístroj TremoFlo C-100 využívá novou metodu oscilometrie pro zjištění odporu  v dýchacích cestách a tuhosti plic bez speciálního dýchání pacientů. Tato metoda patří mezi nejpokročilejší metody nucených oscilací.. TremoFlo C-100 je zaměřen na měření plicních funkcí pomocí multifrekvenčních vln vysílaných do dechového oběhu pacienta. \cite[lit4]
 
 Přístroj slouží k zjištění odporu v dýchacích cestách, posouzení tuhosti plic a rozlišení postižení centrálních a periferních dýchacích cest. Je vhodný i pro nespolupracující pacienty a ty, pro které je provedení vyšetření klasické spirometrie náročné. 
-Výsledky měření se zobrazují v softwaru vytvořeného přímo pro tento přístroj. [4]
+Výsledky měření se zobrazují v softwaru vytvořeného přímo pro tento přístroj. \cite[lit4]
 
 Pro vyhodnocení jsou známá data pro zdravého pacienta a dále jsou známá data pro vybrané konkrétní nemoci a jiné patologické stavy.  Po změření pacienta se jeho data srovnají s daty zdravého pacienta a podle odchylek v grafu se identifikují a analyzují potenciální patologie. 
 
-Cílem projektu je vytvořit model respiračního systému pro aplikaci metody nucených oscilací. 
+\chap Cíle práce
+Cílem tohoto projektu je vytvořit dýchající model respiračního systému, který bude sloužit jako fantom pro měření respiračních parametrů a bude kompatibilní s přístrojem TremoFlo C-100. Dílčí cíle byly: sestavit model plic pomocí skleněné nádoby, plastových trubek a průtočných odporů. Cílem bylo zjistit vliv velikosti nádoby (poddajnosti modelu), délky trubice a velikost průtočných odporů na změnu naměřených parametrů. 
+
+
+\chap Metody
+Invazivní metody měření respiračního systému se v současné době nevyužívají. Častěji se využívají metody neinvazivní jako např. spirometrie nebo akustická oscilometrie. Akustická oscilometrie (dále AOS) má oproti spirometrii výhodu v tom, že vyžaduje pouze minimální spolupráci pacienta ve smyslu klidného spontánního dýchání. 
+Je založená na základě měření impedance dýchacích cest. Výsledkem měření je kombinace hodnot rezistance a reaktance, tudíž souhrnně impedance. AOS je realizována přístrojem tremoFlo C-100, které vytváří akustické vlnění pomocí pohybu síta v zařízení. Vlivem odporu dýchacích cest dochází k posunu a deformaci vysílaných vln. Oscilační akustická vlna, která prošla respiračním systémem je zpětně snímána senzory tlaku, kde je zároveň převedena na elektrické impulzy a následně počítačově zpracována. 
+Software tremoFlo využívá zaznamenaná hodnoty pro výpočet veličiny známe jako impedance respiračního systému Zrs. 
+
+rovnice 
+
+Kde P je tlak, Q je průtok a f je oscilační frekvence. Reálná část je označována jako rezistance (Rrs), imaginární část je reaktance (Xrs) a j = sqrt(-1). 
+Rrs představuje odpor vůči proudění vzduchu v plicích neboli, kolik tlaku je nutné pro průtok vzduchu dýchacími cestami. Xrs znázorňuje při nízkých frekvencích tuhost tkání dýchacích cest. 
+
+ 
+Respirační systém se skládá se z pravé a levé plíce a průdušnic. Model respiračního systému  byl sestrojen pomocí mechanických analogií, skleněné nádoby, plastové trubice a průtočného rezistoru..  Byly použity dvě velikosti nádob 54l a 35l, tři délky hadice (kolik cm), jeden díl, dva díly a tři díly a tři různé odpory 5, 20 a 50(čeho). 
+TremoFlo C-100 je přístroj, který pracuje při spontánním dýchání člověka, tudíž model plic musí dýchat. Toto bylo vyřešeno  
+Postupně pomocí těchto součástek byly sestrojeny všechny kombinace respiračního systému a změřena odezva přístroje TremoFlo C -100. 
+
+Metoda nucených oscilací je výhodná v tom, že vyžaduje minimální spolupráci pacienta, narozdíl od klasické spirometrie. 
+
+software 
+
+Přístroj byl propojen pomocí kabelu s počítačem. V počítači je nainstalován program přímo pro tento přístroj TremoFlo C-100, který se jmenuje (???). Na program je třeba mít licenci, tudíž měření je možné provádět pouze na fakultě na jednom počítači, kde je licence nainstalována. 
+
+
+Každé měření probíhalo 16s, během kterých byla ručně stlačována stříkačka, která simulovala spontánní dýchání člověka. Po 16s se data uložila do systému a mohlo probíhat další měření. 
+
+U každé kombinace byly provedeny 3 měření, které byly následně zprůměrovány, pro přesnější výsledek. 
+
+
+\chap Výsledky
+
+\chap Diskuze
+
+\chap Závěr
+
+\app Zadání práce
+\picw=\hsize % obrázek na šírku sazby
+\cinspic zadani-projektu-FOT.pdf
+
 
 \bibchap
 \usebib/c (simple) fotbib
