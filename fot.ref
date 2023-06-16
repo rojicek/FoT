@@ -4,8 +4,6 @@
 \Xpage{-2}
 \Xpage{-3}
 \Xpage{-4}
-\Xpage{-5}
-\Xpage{-6}
 \Xpage{1}
 \Xtoc{0}{\bfshape }{1}{Úvod}{1}
 \Xpage{2}
@@ -23,10 +21,11 @@
 \Xtoc{0}{\bfshape }{7}{Závěr}{8}
 \Xpage{9}
 \Xtoc{0}{\bfshape }{A}{Zadání práce}{9}
-\Xbib{lit2}{1}{, 1990}
-\Xbib{lit1}{2}{, 1990}
-\Xbib{lit3}{3}{, 1990}
-\Xbib{7}{4}{, }
-\Xbib{lit4}{5}{, 1990}
+\Xbib{baka_aku_osc}{1}{}
+\Xbib{lit2}{2}{}
+\Xbib{lit1}{3}{}
+\Xbib{lit3}{4}{}
+\Xbib{lit7}{5}{}
+\Xbib{lit4}{6}{}
 \Xpage{10}
 \Xtoc{0}{\bfshape }{!1}{Literatura}{10}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  16 JUN 2023 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  16 JUN 2023 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -114,19 +114,9 @@ FONT: Latin Modern - {\caps \sans \ttset \slant \nbold \ttprop \ttlight \ttcond
 \maxglosindent=\dimen33
 \rfcnum=\count54
 )
-cs hyphenation used (\language=5). \frenchspacing is set on.
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac-bib.tex
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/generic/librarian\librarian.te
-x
-\lb@entrycount=\count55
-\lb@namecount=\count56
-\lb@tempcount=\count57
-\lb@sortnumber=\count58
-\NameCount=\count59
-\lb@read=\read3
-)) [-1{./xl2tech.enc} <./ctulogo-new.pdf>] [-2] [-3{C:/Users/jiri/AppData/Local
-/Programs/MiKTeX/fonts/enc/dvips/lm/lm-cs.enc}] [-4] [-5] [-6] [1] [2]
-[3] [4] [5] [6] [7] [8]
+cs hyphenation used (\language=5). \frenchspacing is set on. [-1{./xl2tech.enc}
+ <./ctulogo-new.pdf>] [-2] [-3{C:/Users/jiri/AppData/Local/Programs/MiKTeX/font
+s/enc/dvips/lm/lm-cs.enc}] [-4] [1] [2] [3] [4] [5] [6] [7] [8]
 Overfull \vbox (28.8666pt too high) has occurred while \output is active
 \vbox(674.33032+0.0)x415.41025, glue set - 1.0
 .\vbox(0.0+0.0)x0.0, glue set 25.0fil
@@ -207,16 +197,13 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 .\glue 0.0 plus 1.0fil
 
 
-[9 <./zadani-projektu-FOT.pdf>]
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac-bib-simple
-.tex) (fotbib.bib)
-l.92 OPmac WARNING: \usebib: entry [7] isn't found in .bib file(s).
-[10] )<./Technika-Bold.pfb><./Technika-Book.pfb><C:/Users/jiri/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/jiri/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on fot.pdf (16 pages, 536829 bytes).
+[9 <./zadani-projektu-FOT.pdf>] (fot.bbl) [10] )<./Technika-Bold.pfb><./Technik
+a-Book.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
+mr10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
+i10.pfb>
+Output written on fot.pdf (14 pages, 535717 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
