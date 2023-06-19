@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  16 JUN 2023 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  19 JUN 2023 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -116,7 +116,26 @@ FONT: Latin Modern - {\caps \sans \ttset \slant \nbold \ttprop \ttlight \ttcond
 )
 cs hyphenation used (\language=5). \frenchspacing is set on. [-1{./xl2tech.enc}
  <./ctulogo-new.pdf>] [-2] [-3{C:/Users/jiri/AppData/Local/Programs/MiKTeX/font
-s/enc/dvips/lm/lm-cs.enc}] [-4] [1] [2] [3] [4] [5] [6] [7] [8]
+s/enc/dvips/lm/lm-cs.enc}] [-4] [-5] [-6] [1] [2] [3] [4] [5] [6] (tabulka2.tex
+)
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+[]\tenrm tesdfsdf 
+
+\hbox(7.57762+0.0)x415.41025, glue set 198.15822
+.\hbox(0.0+0.0)x11.66563
+.\tenrm t
+.\tenrm e
+.\tenrm s
+.\tenrm d
+.\tenrm f
+.\tenrm s
+.\tenrm d
+.\tenrm f
+.\glue 3.66666 plus 1.83333 minus 1.22221
+.\penalty -10000
+.\glue(\rightskip) 0.0
+
+[7] [8]
 Overfull \vbox (28.8666pt too high) has occurred while \output is active
 \vbox(674.33032+0.0)x415.41025, glue set - 1.0
 .\vbox(0.0+0.0)x0.0, glue set 25.0fil
@@ -201,9 +220,9 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 a-Book.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 mr10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
 i10.pfb>
-Output written on fot.pdf (14 pages, 535717 bytes).
+Output written on fot.pdf (16 pages, 538644 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
