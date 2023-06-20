@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  20 JUN 2023 20:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  20 JUN 2023 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -117,30 +117,12 @@ cs hyphenation used (\language=5). \frenchspacing is set on. [-1{xl2tech.enc} <
 ./ctulogo-new.pdf>] [-2] [-3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-c
 s.enc}] [-4] [-5] [-6] [1{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-math
 it.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
-[3] [4] [5] [6] [7] [8] (./tabulka2.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
-[]\tenrm tesdfsdf 
-
-\hbox(7.57762+0.0)x415.41025, glue set 198.15822
-.\hbox(0.0+0.0)x11.66563
-.\tenrm t
-.\tenrm e
-.\tenrm s
-.\tenrm d
-.\tenrm f
-.\tenrm s
-.\tenrm d
-.\tenrm f
-.\glue 3.66666 plus 1.83333 minus 1.22221
-.\penalty -10000
-.\glue(\rightskip) 0.0
-
-[9] [10]
+[3] [4] [5] [6] [7] [8] [9] [10] (./tabulky19.tex) [11]
 Overfull \vbox (28.8666pt too high) has occurred while \output is active
 \vbox(674.33032+0.0)x415.41025, glue set - 1.0
 .\vbox(0.0+0.0)x0.0, glue set 25.0fil
 ..\kern -25.0
-..\pdfdest name{pg:.11} xyz
+..\pdfdest name{pg:.12} xyz
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue(\topskip) 10.0
 .\rule(0.0+0.0)x*
@@ -155,7 +137,7 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 ..\pdfcolorstack 0 push {0 g 0 G}
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 ..\vbox(20.17499+30.34135)x392.64806
-...\hbox(20.17499+0.26233)x392.64806, glue set 306.80363fil
+...\hbox(20.17499+0.26233)x392.64806, glue set 306.98366fil
 ....\thefont P
 ....\thefont ř
 ....\kern-0.06996
@@ -167,11 +149,11 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 ....\glue 3.69005 plus 1.85376 minus 1.24167
 ....\vbox(0.0+0.0)x0.0, glue set 41.99982fil
 .....\kern -41.99982
-.....\pdfdest name{toc:.A} xyz
+.....\pdfdest name{toc:.B} xyz
 .....\glue 0.0 plus 1.0fil minus 1.0fil
-....\write0<3>{\string \Xtoc {0}{\noexpand \bfshape }{A}{Zadání práce}{\the 
+....\write0<3>{\string \Xtoc {0}{\noexpand \bfshape }{B}{Zadání práce}{\the 
 \pageno \ETC.}
-....\thefont A
+....\thefont B
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
@@ -216,15 +198,16 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 .\glue 0.0 plus 1.0fil
 
 
-[11 <./zadani-projektu-FOT.pdf>] (./fot.bbl) [12] )<./Technika-Bold.pfb><./Tech
+[12 <./zadani-projektu-FOT.pdf>] (./fot.bbl) [13] )<./Technika-Bold.pfb><./Tech
 nika-Book.pfb><./Technika-BookItalic.pfb><c:/texlive/2023/texmf-dist/fonts/type
 1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.
 pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/202
-3/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on fot.pdf (18 pages, 538842 bytes).
+3/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2023/texmf-dist/fonts/t
+ype1/public/lm/lmsy10.pfb>
+Output written on fot.pdf (19 pages, 566862 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
- 37 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

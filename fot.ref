@@ -26,11 +26,21 @@
 \Xtoc{0}{\bfshape }{6}{Výsledky}{8}
 \Xpage{9}
 \Xtoc{0}{\bfshape }{7}{Diskuze}{9}
-\Xtab{tabulka1}{7.1}{Tabulka ABC}
-\Xlabel{tabulka1}{7.1}
 \Xpage{10}
 \Xtoc{0}{\bfshape }{8}{Závěr}{10}
 \Xpage{11}
-\Xtoc{0}{\bfshape }{A}{Zadání práce}{11}
+\Xtoc{0}{\bfshape }{A}{Výsledky měření}{11}
+\Xtab{tvar1}{A.1}{Tabulka varianta 1}
+\Xlabel{tvar1}{A.1}
+\Xtab{tvar2}{A.2}{Tabulka varianta 2}
+\Xlabel{tvar2}{A.2}
+\Xtab{tvar3}{A.3}{Tabulka varianta 3}
+\Xlabel{tvar3}{A.3}
+\Xtab{tvar4}{A.4}{Tabulka varianta 4}
+\Xlabel{tvar4}{A.4}
+\Xtab{tvar5}{A.5}{Tabulka varianta 5}
+\Xlabel{tvar5}{A.5}
 \Xpage{12}
-\Xtoc{0}{\bfshape }{!1}{Literatura}{12}
+\Xtoc{0}{\bfshape }{B}{Zadání práce}{12}
+\Xpage{13}
+\Xtoc{0}{\bfshape }{!1}{Literatura}{13}
