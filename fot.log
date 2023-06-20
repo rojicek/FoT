@@ -1,17 +1,17 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdfcsplain 2023.6.13)  19 JUN 2023 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  20 JUN 2023 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
  encTeX v. Jun. 2004, reencoding enabled
-**./fot.tex
-(fot.tex The format: csplain <Mar. 2022>.
+**fot
+(./fot.tex The format: csplain <Mar. 2022>.
 The cs-fonts are preloaded and A4 size implicitly defined.
 The utf8->iso8859-2 re-encoding of Czech+Slovak alphabet activated by encTeX
-(ctustyle2.tex
+(./ctustyle2.tex
 CTUstyle2: Thesis at Czech Technical University in Prague, <beta(h) Mar.2021>
 \testinput=\read0
 
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/opmac\opmac.tex
+(c:/texlive/2023/texmf-dist/tex/csplain/opmac/opmac.tex
 This is OPmac (Olsak's Plain macros), version <May 2020>
 \tmpnum=\count28
 \tmpdim=\dimen16
@@ -23,7 +23,7 @@ This is OPmac (Olsak's Plain macros), version <May 2020>
 \titskip=\skip18
 \ptunit=\dimen22
 \fontdim=\dimen23
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\ams-math.tex
+(c:/texlive/2023/texmf-dist/tex/csplain/fonts/ams-math.tex
 FONT: AMS math fonts - \mathchardef's prepared, 12 math families preloaded.
 \ptmunit=\dimen24
 )
@@ -61,7 +61,7 @@ The \^, \`, \', \v, \" and \r expands to characters by ISO-8859-2.
 \pgwidth=\dimen29
 \pgheight=\dimen30
 \shiftoffset=\dimen31
- (fot.ref)
+ (./fot.ref)
 \openout0 = `fot.ref'.
 
 )
@@ -92,13 +92,12 @@ The \^, \`, \', \v, \" and \r expands to characters by ISO-8859-2.
 \thanks=\toks38
 \declaration=\toks39
 \specification=\toks40
-
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\lmfonts.tex
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\ff-mac.tex)
+(c:/texlive/2023/texmf-dist/tex/csplain/fonts/lmfonts.tex
+(c:/texlive/2023/texmf-dist/tex/csplain/fonts/ff-mac.tex)
 FONT: Latin Modern - {\caps \sans \ttset \slant \nbold \ttprop \ttlight \ttcond
  \quotset \upital \dunhill } {\rm \bf \it \bi } +AMS
-(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/csplain/fonts\chars-8z.tex)){C
-:/Users/jiri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+(c:/texlive/2023/texmf-dist/tex/csplain/fonts/chars-8z.tex)){c:/texlive/2023/te
+xmf-var/fonts/map/pdftex/updmap/pdftex.map}
 \leftbox=\box16
 \rightbox=\box17
 \frontht=\dimen32
@@ -114,11 +113,12 @@ FONT: Latin Modern - {\caps \sans \ttset \slant \nbold \ttprop \ttlight \ttcond
 \maxglosindent=\dimen33
 \rfcnum=\count54
 )
-cs hyphenation used (\language=5). \frenchspacing is set on. [-1{./xl2tech.enc}
- <./ctulogo-new.pdf>] [-2] [-3{C:/Users/jiri/AppData/Local/Programs/MiKTeX/font
-s/enc/dvips/lm/lm-cs.enc}] [-4] [-5] [-6] [1] [2] [3] [4] [5] [6] (tabulka2.tex
-)
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+cs hyphenation used (\language=5). \frenchspacing is set on. [-1{xl2tech.enc} <
+./ctulogo-new.pdf>] [-2] [-3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-c
+s.enc}] [-4] [-5] [-6] [1{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-math
+it.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
+[3] [4] [5] [6] [7] [8] (./tabulka2.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 []\tenrm tesdfsdf 
 
 \hbox(7.57762+0.0)x415.41025, glue set 198.15822
@@ -135,12 +135,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--86
 .\penalty -10000
 .\glue(\rightskip) 0.0
 
-[7] [8]
+[9] [10]
 Overfull \vbox (28.8666pt too high) has occurred while \output is active
 \vbox(674.33032+0.0)x415.41025, glue set - 1.0
 .\vbox(0.0+0.0)x0.0, glue set 25.0fil
 ..\kern -25.0
-..\pdfdest name{pg:.9} xyz
+..\pdfdest name{pg:.11} xyz
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue(\topskip) 10.0
 .\rule(0.0+0.0)x*
@@ -155,7 +155,7 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 ..\pdfcolorstack 0 push {0 g 0 G}
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 ..\vbox(20.17499+30.34135)x392.64806
-...\hbox(20.17499+0.26233)x392.64806, glue set 306.80365fil
+...\hbox(20.17499+0.26233)x392.64806, glue set 306.80363fil
 ....\thefont P
 ....\thefont ř
 ....\kern-0.06996
@@ -216,13 +216,15 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 .\glue 0.0 plus 1.0fil
 
 
-[9 <./zadani-projektu-FOT.pdf>] (fot.bbl) [10] )<./Technika-Bold.pfb><./Technik
-a-Book.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mr10.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
-i10.pfb>
-Output written on fot.pdf (16 pages, 538644 bytes).
+[11 <./zadani-projektu-FOT.pdf>] (./fot.bbl) [12] )<./Technika-Bold.pfb><./Tech
+nika-Book.pfb><./Technika-BookItalic.pfb><c:/texlive/2023/texmf-dist/fonts/type
+1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.
+pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/202
+3/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on fot.pdf (18 pages, 538842 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
