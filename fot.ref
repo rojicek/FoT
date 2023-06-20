@@ -41,6 +41,27 @@
 \Xtab{tvar5}{A.5}{Tabulka varianta 5}
 \Xlabel{tvar5}{A.5}
 \Xpage{12}
-\Xtoc{0}{\bfshape }{B}{Zadání práce}{12}
+\Xtab{tvar6}{A.6}{Tabulka varianta 6}
+\Xlabel{tvar6}{A.6}
+\Xtab{tvar7}{A.7}{Tabulka varianta 7}
+\Xlabel{tvar7}{A.7}
+\Xtab{tvar8}{A.8}{Tabulka varianta 8}
+\Xlabel{tvar8}{A.8}
+\Xtab{tvar9}{A.9}{Tabulka varianta 9}
+\Xlabel{tvar9}{A.9}
+\Xtab{tvar10}{A.10}{Tabulka varianta 10}
+\Xlabel{tvar10}{A.10}
+\Xtab{tvar11}{A.11}{Tabulka varianta 11}
+\Xlabel{tvar11}{A.11}
 \Xpage{13}
-\Xtoc{0}{\bfshape }{!1}{Literatura}{13}
+\Xtoc{0}{\bfshape }{B}{Zadání práce}{13}
+\Xbib{Oostveen}{1}{}
+\Xbib{MEFANET}{2}{}
+\Xbib{PulmoScan}{3}{}
+\Xbib{Nasinec}{4}{}
+\Xbib{lekfak}{5}{}
+\Xbib{muni}{6}{}
+\Xbib{Medicon}{7}{}
+\Xbib{Vlcek2018}{8}{}
+\Xpage{14}
+\Xtoc{0}{\bfshape }{!1}{Literatura}{14}

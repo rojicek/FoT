@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  20 JUN 2023 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  20 JUN 2023 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -117,12 +117,12 @@ cs hyphenation used (\language=5). \frenchspacing is set on. [-1{xl2tech.enc} <
 ./ctulogo-new.pdf>] [-2] [-3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-c
 s.enc}] [-4] [-5] [-6] [1{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-math
 it.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
-[3] [4] [5] [6] [7] [8] [9] [10] (./tabulky19.tex) [11]
+[3] [4] [5] [6] [7] [8] [9] [10] (./tabulky19.tex) [11] [12]
 Overfull \vbox (28.8666pt too high) has occurred while \output is active
 \vbox(674.33032+0.0)x415.41025, glue set - 1.0
 .\vbox(0.0+0.0)x0.0, glue set 25.0fil
 ..\kern -25.0
-..\pdfdest name{pg:.12} xyz
+..\pdfdest name{pg:.13} xyz
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue(\topskip) 10.0
 .\rule(0.0+0.0)x*
@@ -198,16 +198,59 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 .\glue 0.0 plus 1.0fil
 
 
-[12 <./zadani-projektu-FOT.pdf>] (./fot.bbl) [13] )<./Technika-Bold.pfb><./Tech
-nika-Book.pfb><./Technika-BookItalic.pfb><c:/texlive/2023/texmf-dist/fonts/type
-1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.
-pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/202
-3/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2023/texmf-dist/fonts/t
-ype1/public/lm/lmsy10.pfb>
-Output written on fot.pdf (19 pages, 566862 bytes).
+[13 <./zadani-projektu-FOT.pdf>] (./fot.bbl)
+Underfull \hbox (badness 1264) in paragraph at lines 129--129
+\tenit ci-lo-me-t-rie (AOS) / MR Di-a-gnos-tic \tenrm [on-line]. [cit. 2023-06-
+20]. Do-stupné z:
+
+\hbox(8.25+2.75)x392.07898, glue set 2.33154
+.\tenit c
+.\tenit i
+.\discretionary
+..\tenit -
+.\tenit l
+.\tenit o
+.\discretionary
+..\tenit -
+.\tenit m
+.\tenit e
+.\discretionary
+..\tenit -
+.\tenit t
+.\discretionary
+..\tenit -
+.\tenit r
+.\tenit i
+.\tenit e
+.\glue 3.93555 plus 1.68666 minus 1.12444
+.\tenit (
+.\tenit A
+.\kern-0.56223
+.\tenit O
+.\tenit S
+.\tenit )
+.\glue 3.93555 plus 1.68497 minus 1.12555
+.\tenit /
+.\glue 3.93555 plus 1.68666 minus 1.12444
+.\tenit M
+.\tenit R
+.\glue 3.93555 plus 1.68497 minus 1.12555
+.\tenit D
+.\tenit i
+.\discretionary
+..\tenit -
+.etc.
+
+[14] )<./Technika-Bold.pfb><./Technika-Book.pfb><./Technika-BookItalic.pfb><c:/
+texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf
+-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
+ublic/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb><
+c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2023/te
+xmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on fot.pdf (20 pages, 598703 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 239 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 326 PDF objects out of 1000 (max. 8388607)
+ 282 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

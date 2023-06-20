@@ -19,6 +19,7 @@
 
 \chap Testy
 
+Tahle část přijde smazat
 $$
   {P(f) \over Q(f)} = Z_{rs}(f) = R_{rs}(f) + j X_{rs}(f) \eqmark
 $$
@@ -27,10 +28,21 @@ Reálná část je označována jako rezistance $R_{rs}$, imaginární část je
 $R_{rs}$ představuje odpor vůči proudění vzduchu v plicích neboli, kolik tlaku je nutné pro průtok vzduchu dýchacími cestami. $X_{rs}$ znázorňuje při nízkých frekvencích tuhost tkání dýchacích cest. 
 
 
+Citace aby se objevily
+
+
+\cite[Oostveen]
+\cite[MEFANET]
+\cite[PulmoScan]
+\cite[Nasinec]
+\cite[lekfak]
+\cite[muni]
+\cite[Medicon]
+
 
 \chap Úvod
 Respirační systém, jakožto jeden z nejdůležitějších systémů člověka, je třeba kontrolovat, aby prováděl správnou funkci. Může docházet k různým onemocněním, které je třeba včas diagnostikovat. Metod pro měření respiračního systému je několik. Tento projekt se zabývá metodou nucených oscilací realizovanou pomocí přístroje TremoFlo C -100. 
-TremoFlo C -100 je přístroj určený k analýze respiračního systému pomocí metody nucených oscilací, což je neinvazivní metoda. Cílem této práce je vytvořit model plic, který bude kompatibilní s přístrojem TremoFlo C-100 a bude možnost na něm provádět testovací měření. Oproti spirometrii je metoda nucených oscilací přístupnější, protože vyžaduje pouze minimální spolupráci pacienta, tudíž je vhodná jak pro děti, tak pro pacienty v oslabeném stavu pro které by bylo obtížné provést měření, při kterém je třeba vyvíjet větší úsilí. Vyšetření probíhá v klidu, kdy pacient spontánně dýchá přes jednorázový antibakteriální filtr do přístroje. Vyhodnocuje se odpor dýchacích cest a tuhost plic. Hlavní výhoda oproti klasické spirometrii je ta, že metoda nucených oscilací neměří plíce jako jeden globální systém, ale je možnost určit v jakých místech plic se daná patologie nachází. cite(baka) 
+TremoFlo C -100 je přístroj určený k analýze respiračního systému pomocí metody nucených oscilací, což je neinvazivní metoda. Cílem této práce je vytvořit model plic, který bude kompatibilní s přístrojem TremoFlo C-100 a bude možnost na něm provádět testovací měření. Oproti spirometrii je metoda nucených oscilací přístupnější, protože vyžaduje pouze minimální spolupráci pacienta, tudíž je vhodná jak pro děti, tak pro pacienty v oslabeném stavu pro které by bylo obtížné provést měření, při kterém je třeba vyvíjet větší úsilí. Vyšetření probíhá v klidu, kdy pacient spontánně dýchá přes jednorázový antibakteriální filtr do přístroje. Vyhodnocuje se odpor dýchacích cest a tuhost plic. Hlavní výhoda oproti klasické spirometrii je ta, že metoda nucených oscilací neměří plíce jako jeden globální systém, ale je možnost určit v jakých místech plic se daná patologie nachází. \cite[Vlcek2018] 
 Přístroj generuje oscilace při různých frekvencích a amplitudách. Tyto oscilace jsou převedeny pomocí trubice nebo speciálního přívodu do pacientova dýchacího systému. Následně se zaznamenává odezva respiračního systému na tyto oscilace. Výsledkem měření nucených oscilací je rezistence dýchacích cest, pružnost plic a další charakteristiky dýchání. Tato data mohou být následně využívána při diagnostice různých patologických stavů jako je např. CHOPN nebo astma. 
 
 Aby se tato metoda dala využívat je třeba znát výsledky jednotlivých parametrů jak pro zdravé plíce, tak pro různé patologické stavy se kterými se naměřené hodnoty mohou porovnat. Model plic pro tuto metodu zatím neexistuje a cílem této práce je ho zhotovit. 
@@ -80,7 +92,8 @@ Reálná část je označována jako rezistance $R_{rs}$, imaginární část je
 $R_{rs}$ představuje odpor vůči proudění vzduchu v plicích neboli, kolik tlaku je nutné pro průtok vzduchu dýchacími cestami. $X_{rs}$ znázorňuje při nízkých frekvencích tuhost tkání dýchacích cest. 
 
 \sec Kalibrace zařízení tremoFlo 
-Přístroj, kterým bylo měření prováděno se jmenuje TremoFlo C-100 (THORASYS Thoracic Medical Systems Inc., Kanada) a vyžaduje kalibraci před každým použitím. Kalibrace se provádí pomocí kalibrační zátěže, která je součástí balení. Kalibrační zátěž má je označena konkrétním kódem, který se opíše do systému, následně  se nasadí na přenosný díl a spustí se kalibrace. Pro spolehlivé a přesné měření musí být přesnost v rozmezí 10% nebo 0,1 cmH2O.s/l. Pokud je tato podmínka splněna může se provést měření.  cite (baka) 
+Přístroj, kterým bylo měření prováděno se jmenuje TremoFlo C-100 (THORASYS Thoracic Medical Systems Inc., Kanada) a vyžaduje kalibraci před každým použitím. Kalibrace se provádí pomocí kalibrační zátěže, která je součástí balení. Kalibrační zátěž má je označena konkrétním kódem, který se opíše do systému, následně  se nasadí na přenosný díl a spustí se kalibrace. Pro spolehlivé a přesné měření musí být přesnost 
+v rozmezí 10\% nebo 0,1 cmH2O.s/l. Pokud je tato podmínka splněna může se provést měření.  \cite[Vlcek2018]
 
 \sec Sestavení modelu 
 Respirační systém se skládá se z pravé a levé plíce a průdušnic. Model respiračního systému  byl sestrojen pomocí mechanických analogií, skleněné nádoby, plastové trubice a průtočného rezistoru..  Byly použity dvě velikosti nádob 54l a 35l, tři délky hadice (kolik cm), jeden díl, dva díly a tři díly a tři různé odpory 5, 20 a 50(čeho). 
