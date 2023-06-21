@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  21 JUN 2023 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdfcsplain 2023.6.20)  21 JUN 2023 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -115,18 +115,10 @@ xmf-var/fonts/map/pdftex/updmap/pdftex.map}
 )
 cs hyphenation used (\language=5). \frenchspacing is set on. [-1{xl2tech.enc} <
 ./ctulogo-new.pdf>] [-2] [-3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-c
-s.enc}] [-4]
-l.34 OPmac WARNING: The cite [Oostveen] unknown. Try to TeX me again.
-l.35 OPmac WARNING: The cite [MEFANET] unknown. Try to TeX me again.
-l.36 OPmac WARNING: The cite [PulmoScan] unknown. Try to TeX me again.
-l.37 OPmac WARNING: The cite [Nasinec] unknown. Try to TeX me again.
-l.38 OPmac WARNING: The cite [lekfak] unknown. Try to TeX me again.
-l.39 OPmac WARNING: The cite [muni] unknown. Try to TeX me again.
-l.40 OPmac WARNING: The cite [Medicon] unknown. Try to TeX me again.
-[1{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2023
-/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-l.45 OPmac WARNING: The cite [Vlcek2018] unknown. Try to TeX me again.
-[2] [3] [4] [5] [6] [7] [8] [9] [10] (./tabulky19.tex) [11] [12] [13]
+s.enc}] [-4] [-5] [-6] [1{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-math
+it.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
+l.47 OPmac WARNING: The cite [MEDICON] unknown. Try to TeX me again.
+[3] [4] [5] [6] [7] [8] [9] [10] (./tabulky19.tex) [11] [12] [13]
 Underfull \vbox (badness 10000) has occurred while \output is active
 \vbox(674.33032+0.0)x415.41025, glue set 50.41225
 .\vbox(0.0+0.0)x0.0, glue set 25.0fil
@@ -1297,7 +1289,7 @@ Overfull \vbox (28.8666pt too high) has occurred while \output is active
 
 
 [15 <./zadani-projektu-FOT.pdf>] (./fot.bbl)
-Underfull \hbox (badness 1264) in paragraph at lines 129--129
+Underfull \hbox (badness 1264) in paragraph at lines 122--122
 \tenit ci-lo-me-t-rie (AOS) / MR Di-a-gnos-tic \tenrm [on-line]. [cit. 2023-06-
 20]. Do-stupné z:
 
@@ -1345,10 +1337,10 @@ texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2023/texmf
 ublic/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb><
 c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2023/te
 xmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on fot.pdf (20 pages, 602768 bytes).
+Output written on fot.pdf (22 pages, 604322 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
- 241 compressed objects within 3 object streams
- 65 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 353 PDF objects out of 1000 (max. 8388607)
+ 306 compressed objects within 4 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
