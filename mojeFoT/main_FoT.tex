@@ -32,12 +32,13 @@
 \usepackage{array}                      % rozšíření práce s tabulkami
 \usepackage{helvet}                     % předefinuje \sfdefault to uhv (pro úvodní stránku)
 \usepackage[flushleft]{threeparttable}  % prostředí pro tabulky - přidává vysvětlující poznámky pod tabulku
+\usepackage{makecell}
+\usepackage[title]{appendix}
 
 % Následující balíčky řeší citace v dokumentu. 
 \usepackage{csquotes}                       
 \usepackage[style=iso-numeric]{biblatex}     
 \addbibresource{citace.bib}             % zdrojový soubor s citacemi
-\nocite{*}
 
 %% Přidání balíčků podporujících různé funkcionality - VOLITELNÉ, DOPLŇKOVÉ
 % Existuje celá řada dalších
@@ -86,7 +87,7 @@
 \newcommand{\autor}{Adéla Rojíčková}
 \newcommand{\vedouci}{Ing. Václav Ort}
 \newcommand{\nazev}{Model respiračního systému jako fantom pro metodu nucených oscilací}
-\newcommand{\nazevENG}{Název v angličtině}
+\newcommand{\nazevENG}{My English title}
 \newcommand{\typ}{Semestrální práce I}
 \newcommand{\rok}{2023}
 % Pro program a obor jsou instrukce zde: http://www.fbmi.cvut.cz/fakulta/uredni-deska 
@@ -189,6 +190,7 @@
     \pagestyle{plain}	% Číslování stránek začíná odsud
 	
 	\tableofcontents			% Vloží obsah
+        \listoftables
 
 	\clearpage
 

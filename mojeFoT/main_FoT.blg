@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'main_FoT.blg'
+[337] biber-MSWIN64:340> INFO - === 
+[438] Biber.pm:419> INFO - Reading 'main_FoT.bcf'
+[769] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[819] Biber.pm:4419> INFO - Processing section 0
+[860] Biber.pm:4610> INFO - Looking for bibtex file 'citace.bib' for section 0
+[962] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1015] bibtex.pm:1519> INFO - Found BibTeX data source 'citace.bib'
+[1189] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1190] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1190] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'cs-CZ'
+[1220] bbl.pm:660> INFO - Writing 'main_FoT.bbl' with encoding 'UTF-8'
+[1227] bbl.pm:763> INFO - Output to main_FoT.bbl

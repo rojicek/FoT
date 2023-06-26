@@ -1,52 +1,59 @@
-@online{muni,
+@misc{VMcN4auv4je6sika,
   title = {Funkce respiračního systému},
   address = {Masarykova univerzita},
-  urldate = {2023-06-20},
-  url = {https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf},
 }
 
-@online{lekfak,
+@misc{JcKgKHmN4rYlmb96,
   title = {Síť lékařských fakult ČR a SR.},
   subtitle = {Spirometrie, Plicní Objemy},
-  urldate = {2023-06-20},
-  url = {https://www.wikiskripta.eu/w/Spirometrie,_plicn\%C3\%AD_objemy},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://www.wikiskripta.eu/w/Spirometrie,_plicn\%C3\%AD_objemy},
 }
 
-@online{Oostveen,
+@misc{tJlksFBxETO8PaYa,
   title = {Oostveen, E., MacLeod, D., Lorino, H., Farre, R., Hantos, Z., Desager, K., \& Marchal, F.},
   subtitle = {The forced oscillation technique in clinical practice: methodology, recommendations and future developments. In European Respiratory Journal (Roč. 22, Issue 6, s. 1026–1041). European Respiratory Society (ERS).},
-  urldate = {2023-06-20},
-  url = {https://pubmed.ncbi.nlm.nih.gov/14680096/},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://pubmed.ncbi.nlm.nih.gov/14680096/},
 }
 
-@online{MEFANET,
+@misc{XpF3zX9BKAkPlzYg,
   title = {MEFANET, síť lékařských fakult ČR a SR},
   subtitle = {Spirometrie},
-  urldate = {2023-06-20},
-  url = {https://www.wikiskripta.eu/w/Spirometrie},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://www.wikiskripta.eu/w/Spirometrie},
 }
 
-@online{PulmoScan,
+@misc{b4TeS4bqsM1kS8Gt,
   title = {Simple effort-free lung function assessment. PulmoScan.},
-  urldate = {2023-06-20},
-  url = {https://pulmoscan.cognitalabs.com/},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://pulmoscan.cognitalabs.com/},
 }
 
-@online{Nasinec,
+@misc{6sie9GHksty0NWAf,
   title = {Vit Nasinec, V.},
   subtitle = {Tremoflo C-100 , Oscilometrie (AOS). tremoFlo C-100, oscilometrie (AOS) / MR Diagnostic},
-  urldate = {2023-06-20},
-  url = {https://www.mr-diagnostic.cz/tremoflo},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://www.mr-diagnostic.cz/tremoflo},
 }
 
-@online{Medicon,
+@misc{YToGvNmiGbRPC0vV,
   title = {Spirometrie: Polikliniky Medicon},
   subtitle = {Spirometrie | Polikliniky MEDICON},
-  urldate = {2023-06-20},
-  url = {https://www.mediconas.cz/cs/spirometrie},
+  medium = {online},
+  accessed = {2023-06-20},
+  URL = {https://www.mediconas.cz/cs/spirometrie},
 }
 
-@thesis{Vlcek2018,
+@masterthesis{Vlcek2018,
   author = {Tomáš Vlček},
   title = {Akustická oscilometrie},
   address = {Kladno},
@@ -54,3 +61,4 @@
   school = {České vysoké učení technické},
   type = {Bakalářská práce},
 }
+

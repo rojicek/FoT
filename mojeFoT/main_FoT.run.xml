@@ -41,13 +41,13 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>main_BP.bcf</file>
+      <file>main_FoT.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>main_BP.bbl</file>
+      <file>main_FoT.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -64,23 +64,23 @@
       <file>czech-iso.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>main_BP</infile>
+      <infile>main_FoT</infile>
     </cmdline>
     <input>
-      <file>main_BP.bcf</file>
+      <file>main_FoT.bcf</file>
     </input>
     <output>
-      <file>main_BP.bbl</file>
+      <file>main_FoT.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>main_BP.bbl</file>
+      <file>main_FoT.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>main_BP.bcf</file>
+      <file>main_FoT.bcf</file>
     </requires>
     <requires type="editable">
       <file>citace.bib</file>

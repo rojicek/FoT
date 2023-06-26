@@ -1,0 +1,145 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Vlcek2018}{masterthesis}{}
+      \name{author}{1}{}{%
+        {{hash=94bbefa9b50f735660754d36cff143c3}{%
+           family={Vlček},
+           familyi={V\bibinitperiod},
+           given={Tomáš},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {České vysoké učení technické}%
+      }
+      \list{location}{1}{%
+        {Kladno}%
+      }
+      \strng{namehash}{94bbefa9b50f735660754d36cff143c3}
+      \strng{fullhash}{94bbefa9b50f735660754d36cff143c3}
+      \strng{bibnamehash}{94bbefa9b50f735660754d36cff143c3}
+      \strng{authorbibnamehash}{94bbefa9b50f735660754d36cff143c3}
+      \strng{authornamehash}{94bbefa9b50f735660754d36cff143c3}
+      \strng{authorfullhash}{94bbefa9b50f735660754d36cff143c3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Akustická oscilometrie}
+      \field{type}{Bakalářská práce}
+      \field{year}{2018}
+    \endentry
+    \entry{muni}{misc}{}
+      \list{location}{1}{%
+        {Masarykova univerzita}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{Funkce respiračního systému}
+      \verb{urlraw}
+      \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
+      \endverb
+    \endentry
+    \entry{MEFANET}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Spirometrie}
+      \field{title}{MEFANET, síť lékařských fakult ČR a SR}
+      \verb{urlraw}
+      \verb https://www.wikiskripta.eu/w/Spirometrie
+      \endverb
+      \verb{url}
+      \verb https://www.wikiskripta.eu/w/Spirometrie
+      \endverb
+    \endentry
+    \entry{Medicon}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Spirometrie | Polikliniky MEDICON}
+      \field{title}{Spirometrie: Polikliniky Medicon}
+      \verb{urlraw}
+      \verb https://www.mediconas.cz/cs/spirometrie
+      \endverb
+      \verb{url}
+      \verb https://www.mediconas.cz/cs/spirometrie
+      \endverb
+    \endentry
+    \entry{lekfak}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Spirometrie, Plicní Objemy}
+      \field{title}{Síť lékařských fakult ČR a SR.}
+      \verb{urlraw}
+      \verb https://www.wikiskripta.eu/w/Spirometrie,_plicn\%C3\%AD_objemy
+      \endverb
+      \verb{url}
+      \verb https://www.wikiskripta.eu/w/Spirometrie,_plicn%5C%C3%5C%AD_objemy
+      \endverb
+    \endentry
+    \entry{Oostveen}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The forced oscillation technique in clinical practice: methodology, recommendations and future developments. In European Respiratory Journal (Roč. 22, Issue 6, s. 1026–1041). European Respiratory Society (ERS).}
+      \field{title}{Oostveen, E., MacLeod, D., Lorino, H., Farre, R., Hantos, Z., Desager, K., \& Marchal, F.}
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/14680096/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/14680096/
+      \endverb
+    \endentry
+    \entry{Nasinec}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Tremoflo C-100 , Oscilometrie (AOS). tremoFlo C-100, oscilometrie (AOS) / MR Diagnostic}
+      \field{title}{Vit Nasinec, V.}
+      \verb{urlraw}
+      \verb https://www.mr-diagnostic.cz/tremoflo
+      \endverb
+      \verb{url}
+      \verb https://www.mr-diagnostic.cz/tremoflo
+      \endverb
+    \endentry
+    \entry{PulmoScan}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Simple effort-free lung function assessment. PulmoScan.}
+      \verb{urlraw}
+      \verb https://pulmoscan.cognitalabs.com/
+      \endverb
+      \verb{url}
+      \verb https://pulmoscan.cognitalabs.com/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
