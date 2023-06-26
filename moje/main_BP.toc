@@ -9,11 +9,7 @@
 \contentsline {section}{\numberline {6}Diskuse}{13}{}%
 \contentsline {section}{\numberline {7}Závěr}{14}{}%
 \contentsline {section}{Seznam použité literatury}{15}{}%
-\babel@toc {czech}{}\relax 
-\babel@toc {czech}{}\relax 
-\babel@toc {czech}{}\relax 
-\babel@toc {czech}{}\relax 
-\contentsline {section}{Příloha A: Požadavky na formátování práce}{16}{}%
-\contentsline {section}{Příloha B: Základní typografické zásady}{17}{}%
-\contentsline {section}{Příloha C: Další doporučení pro přehlednost textu}{18}{}%
-\contentsline {section}{Příloha D: Obsah přiloženého CD/DVD}{19}{}%
+\contentsline {section}{Příloha A: Požadavky na formátování práce}{15}{}%
+\contentsline {section}{Příloha B: Základní typografické zásady}{16}{}%
+\contentsline {section}{Příloha C: Další doporučení pro přehlednost textu}{17}{}%
+\contentsline {section}{Příloha D: Obsah přiloženého CD/DVD}{18}{}%
