@@ -9,9 +9,9 @@
 \contentsline {subsection}{\numberline {4.3}Sestavení modelu}{13}{}%
 \contentsline {subsection}{\numberline {4.4}Průběh měření}{13}{}%
 \contentsline {section}{\numberline {5}Výsledky}{14}{}%
-\contentsline {section}{\numberline {6}Diskuse}{15}{}%
-\contentsline {section}{\numberline {7}Závěr}{16}{}%
-\contentsline {section}{Seznam použité literatury}{17}{}%
+\contentsline {section}{\numberline {6}Diskuse}{25}{}%
+\contentsline {section}{\numberline {7}Závěr}{26}{}%
+\contentsline {section}{Seznam použité literatury}{27}{}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -26,4 +26,4 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {section}{\numberline {A}Výsledky měření}{18}{}%
+\contentsline {section}{\numberline {A}Výsledky měření}{28}{}%
