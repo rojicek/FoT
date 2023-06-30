@@ -14,7 +14,7 @@ Reálná část je označována jako rezistance $R_{rs}$, imaginární část je
 $R_{rs}$ představuje odpor vůči proudění vzduchu v plicích neboli, kolik tlaku je nutné pro průtok vzduchu dýchacími cestami. $X_{rs}$ znázorňuje při nízkých frekvencích tuhost tkání dýchacích cest. 
 
 
-Technika nucených oscilací vysílá oscilace o velikosti přibližně 1-2~cm sloupce $H_{2}O$, které se vytvoří v přístroji pomocí reproduktoru a následně se šíří do respiračního systému člověka. Reproduktor vytváří oscilační tlakové vlny na různých frekvencích. Nízké frekvence se šíří hluboko do plic, odkud se následně odrážejí zpátky do přístroje a vyšší frekvence se nedostanou hlouběji do plic, protože se  odrážejí zpátky do přístroje hned z periferních cest dýchacích. Tato skutečnost je zapříčeněna fyzikálními vlastnostmi, především velikostí a tvarem tkáňového složení lidského hrudníku. \cite{Vlcek2018} Frekvencí se k měření používá devět (5, 11, 13, 17, 19, 23, 31 a 37 Hz). 
+Technika nucených oscilací vysílá oscilace o velikosti přibližně 1-2~cm sloupce $H_{2}O$, které se vytvoří v přístroji pomocí reproduktoru a následně se šíří do respiračního systému člověka. Reproduktor vytváří oscilační tlakové vlny na různých frekvencích. Nízké frekvence se šíří hluboko do plic, odkud se následně odrážejí zpátky do přístroje a vyšší frekvence se nedostanou hlouběji do plic, protože se  odrážejí zpátky do přístroje hned z periferních cest dýchacích. Tato skutečnost je zapříčeněna fyzikálními vlastnostmi, především velikostí a tvarem tkáňového složení lidského hrudníku. \cite{Vlcek2018} Frekvencí se k měření používá devět (5, 11, 13, 17, 19, 23, 31 a 37~Hz). 
 
 V přístroji je umístěn snímač tlaku a průtoku a ty přeměřují inspirační a expirační tlak plic a průtok dýchacích cest. 
 
@@ -26,19 +26,19 @@ Respirační impedance je součet rezistance a reaktance a je vypočítán z pom
 \end{equation}
 
 
-V tomto projektu byl použit přístroj tremoflo C-100, který měří impedanci na frekvencích 5-37 Hz. Reaktance a rezistance jsou označovány $X$ a $R$ a v dolním indexu se nachází velikost frekvence na které byly měřeny, tj. např. pro frekvenci 5 Hz bude vypadat označení reaktance $X_5$ a rezistence $R_5$. 
+V tomto projektu byl použit přístroj tremoflo C-100, který měří impedanci na frekvencích 5-37~Hz. Reaktance a rezistance jsou označovány $X$ a $R$ a v dolním indexu se nachází velikost frekvence na které byly měřeny, tj. např. pro frekvenci 5~Hz bude vypadat označení reaktance $X_5$ a rezistence $R_5$. 
 
-Rezistance ($R_{rs}$) je veličina, která určuje centrální a periferní velikost odporu dýchacích cest. Velikost odporu dýchacích cest je zapříčiněna průchodností tlakové vlny vygenerované zařízením. Základní pevná frekvence pro oscilující tlaky je 5 Hz. Další frekvence se odvozují od tohoto základu odvozují. Do odvozených skupin frekvencí patří nízkofrekvenční signály (5-17 Hz), které se dostávají do obvodu centra plic, a vysokofrekvenční signály (19-37 Hz), jež pronikají pouze do proximálních dýchacích cest. 
+Rezistance ($R_{rs}$) je veličina, která určuje centrální a periferní velikost odporu dýchacích cest. Velikost odporu dýchacích cest je zapříčiněna průchodností tlakové vlny vygenerované zařízením. Základní pevná frekvence pro oscilující tlaky je 5~Hz. Další frekvence se odvozují od tohoto základu odvozují. Do odvozených skupin frekvencí patří nízkofrekvenční signály (5-17~Hz), které se dostávají do obvodu centra plic, a vysokofrekvenční signály (19-37~Hz), jež pronikají pouze do proximálních dýchacích cest. 
 
 Reaktance je imaginární část impedance. Jedná se o měřítko tuhosti plic, obzvlášť při nižších frekvencích. Toto měření vyplývá z pohybu vzduchu  a zpětné elasticitě plicní tkáně. Vzhledem k elastickým vlastnostem se tedy plíce při nízkých frekvencích pasivně rozšiřují a dochází tak k malému zpětnému rázu. Se zvyšující se energii dochází k přechodu plic z pasivního roztažení na aktivní. Čím vyšší je frekvence, tím víc energie putuje do plicního systému. Reakce na postupné zvyšování obsahu plic lze přirovnat k nafukování balónu - při jeho nafukování dojdeme k bodu, kdy při příjmu další energie začne balón vytvářet odpor, přičemž další přísun energie by mohl způsobit v balónu odraz.
 
 
 \subsection{Kalibrace zařízení tremoflo}
-Přístroj, kterým bylo měření prováděno se jmenuje TremoFlo C-100 (Thorasys Thoracic Medical Systems Inc., Kanada) a vyžaduje kalibraci před každým použitím. Kalibrace se provádí pomocí kalibrační zátěže, která je součástí balení. Kalibrační zátěž má je označena konkrétním kódem, který se opíše do systému, následně  se nasadí na přenosný díl a spustí se kalibrace. Pro spolehlivé a přesné měření musí být přesnost 
+Přístroj, kterým bylo měření prováděno se nazývá TremoFlo C-100 (Thorasys Thoracic Medical Systems Inc., Kanada). Zařízení vyžaduje kalibraci před každým použitím. Kalibrace se provádí pomocí kalibrační zátěže, která je součástí balení. Kalibrační zátěž má je označena konkrétním kódem, který se opíše do systému, následně  se nasadí na přenosný díl a spustí se kalibrace. Pro spolehlivé a přesné měření musí být přesnost 
 v rozmezí 10\% nebo 0,1 $cm \cdot H_{2}O \cdot s/L$. Pokud je tato podmínka splněna může se provést měření. \cite{Vlcek2018}
 
 \subsection{Sestavení modelu}
-Respirační systém se skládá se z pravé a levé plíce a průdušnic. Model respiračního systému  byl sestrojen pomocí mechanických analogií, skleněné nádoby, plastové trubice a průtočného rezistoru. Byly použity dvě velikosti nádob 54l a 35l, tři délky hadice (kolik cm??), jeden díl, dva díly a tři díly a tři různé průtočné odpory 5, 20 a 50 (čeho?). 
+Respirační systém se skládá se z pravé a levé plíce a průdušnic. Model respiračního systému  byl sestrojen pomocí mechanických analogií, skleněné nádoby, plastové trubice a průtočného rezistoru. Byly použity dvě velikosti nádob 54l a 35l, tři délky plastové trubice, 20 cm, 40 cm, 60 cm  a tři různé parabolické rezistory PneuFlo Rp5, Rp20 a Rp50 (Michigan Instruments, Michigan). 
 Tremoflo C-100 je přístroj, který superponuje oscilace na spontánní dýchání člověka, tudíž model plic musí simulovat dýchání. Toto bylo vyřešeno mechanicky stříkačkou, která byla nastavena na 1L, tudíž při každém stlačení vpustila do systému 1l vzduchu. 
 Postupně pomocí těchto součástek byly sestrojeny všechny kombinace respiračního systému a změřena odezva přístroje tremoflo C-100.
 

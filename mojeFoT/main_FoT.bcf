@@ -2392,13 +2392,13 @@
     <bcf:citekey order="8" intorder="1">Medicon</bcf:citekey>
     <bcf:citekey order="9" intorder="1">lekfak</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Oostveen</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Vlcek2018</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Nasinec</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Oostveen</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Vlcek2018</bcf:citekey>
     <bcf:citekey order="13" intorder="1">Nasinec</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Vlcek2018</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Nasinec</bcf:citekey>
     <bcf:citekey order="15" intorder="1">Vlcek2018</bcf:citekey>
     <bcf:citekey order="16" intorder="1">Vlcek2018</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">PulmoScan</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Vlcek2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
