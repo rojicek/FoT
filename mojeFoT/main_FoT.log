@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  30 JUN 2023 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  1 JUL 2023 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -973,20 +973,26 @@ Overfull \hbox (16.88678pt too wide) in paragraph at lines 23--31
 (03_cile_prace.tex) [10
 
 ] (04_metody.tex
-Overfull \hbox (3.8453pt too wide) in paragraph at lines 2--5
+Overfull \hbox (3.8453pt too wide) in paragraph at lines 3--6
 \OT1/cmr/m/n/12 Invazivn^^S^^P me-tody m^^Te^^Tren^^S^^P re-spira^^Tcn^^S^^Pho 
 syst^^Semu se v sou^^Tcasn^^Se dob^^Te ne-vyu^^Tz^^S^^Pvaj^^S^^P. []Cast^^Teji
  []
 
 
+Overfull \hbox (9.41707pt too wide) in paragraph at lines 7--9
+[]\OT1/cmr/m/n/12 AOS je m^^Te^^Trena po-moc^^S^^P p^^Tr^^S^^Pstroje tre-moflo 
+C-100. Pod-sta-tou funkce to-hoto p^^Tr^^S^^Pstroje
+ []
+
+
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 10.
+(amsmath)                 on input line 12.
 
 [11
 
 ]
-Overfull \hbox (15.91455pt too wide) in paragraph at lines 37--39
+Overfull \hbox (15.91455pt too wide) in paragraph at lines 39--41
 \OT1/cmr/m/n/12 ra-cic Me-di-cal Sys-tems Inc., Ka-nada). Za^^Tr^^S^^Pzen^^S^^P
  vy^^Tzaduje ka-lib-raci p^^Tred ka^^Tzd^^Sym pou^^Tzit^^S^^Pm.
  []
@@ -1004,37 +1010,24 @@ File: obrazky/rezistance_delka_20_cm_nadoba_54_L.png Graphic file (type png)
 Package pdftex.def Info: obrazky/rezistance_delka_20_cm_nadoba_54_L.png  used o
 n input line 16.
 (pdftex.def)             Requested size: 426.79135pt x 258.65674pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_delka_40_cm_naboba_54_L.png, id=60, 362.445pt x 219.876pt>
 File: obrazky/rezistance_delka_40_cm_naboba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_40_cm_naboba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_40_cm_naboba_54_L.png  used o
 n input line 24.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_delka_40_cm_nadoba_35_L.png, id=61, 362.883pt x 219.657pt>
 File: obrazky/rezistance_delka_40_cm_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_40_cm_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_40_cm_nadoba_35_L.png  used o
 n input line 32.
 (pdftex.def)             Requested size: 426.79135pt x 258.34503pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_delka_60_cm_nadoba_35_L.png, id=62, 363.759pt x 220.533pt>
 File: obrazky/rezistance_delka_60_cm_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_60_cm_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_60_cm_nadoba_35_L.png  used o
 n input line 40.
 (pdftex.def)             Requested size: 426.79135pt x 258.75278pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_délka_60_cm_nádoba_54_L.png, id=63, 362.445pt x 226.884pt
 >
 File: obrazky/rezistance_délka_60_cm_nádoba_54_L.png Graphic file (type png)
@@ -1042,135 +1035,90 @@ File: obrazky/rezistance_délka_60_cm_nádoba_54_L.png Graphic file (type png)
 Package pdftex.def Info: obrazky/rezistance_délka_60_cm_nádoba_54_L.png  used
  on input line 48.
 (pdftex.def)             Requested size: 426.79135pt x 267.16687pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_20_delka_20_cm.png, id=64, 362.664pt x 225.132pt>
 File: obrazky/rezistance_odpor_20_delka_20_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_delka_20_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_delka_20_cm.png  used on i
 nput line 57.
 (pdftex.def)             Requested size: 426.79135pt x 264.94235pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_20_delka_40_cm.png, id=65, 362.445pt x 225.132pt>
 File: obrazky/rezistance_odpor_20_delka_40_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_delka_40_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_delka_40_cm.png  used on i
 nput line 66.
 (pdftex.def)             Requested size: 426.79135pt x 265.1038pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_20_delka_60_cm.png, id=66, 361.569pt x 221.628pt>
 File: obrazky/rezistance_odpor_20_delka_60_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_delka_60_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_delka_60_cm.png  used on i
 nput line 74.
 (pdftex.def)             Requested size: 426.79135pt x 261.61008pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_5_delka_20_cm.png, id=67, 362.664pt x 224.475pt>
 File: obrazky/rezistance_odpor_5_delka_20_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_delka_20_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_delka_20_cm.png  used on in
 put line 82.
 (pdftex.def)             Requested size: 426.79135pt x 264.16917pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_5_delka_40_cm.png, id=68, 361.569pt x 221.847pt>
 File: obrazky/rezistance_odpor_5_delka_40_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_delka_40_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_delka_40_cm.png  used on in
 put line 90.
 (pdftex.def)             Requested size: 426.79135pt x 261.86858pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_5_delka_60_cm.png, id=69, 361.569pt x 222.066pt>
 File: obrazky/rezistance_odpor_5_delka_60_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_delka_60_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_delka_60_cm.png  used on in
 put line 98.
 (pdftex.def)             Requested size: 426.79135pt x 262.12706pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_50_delka_20_cm.png, id=70, 362.664pt x 219.876pt>
 File: obrazky/rezistance_odpor_50_delka_20_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_delka_20_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_delka_20_cm.png  used on i
 nput line 106.
 (pdftex.def)             Requested size: 426.79135pt x 258.75693pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_50_delka_40_cm.png, id=71, 362.883pt x 219.657pt>
 File: obrazky/rezistance_odpor_50_delka_40_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_delka_40_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_delka_40_cm.png  used on i
 nput line 114.
 (pdftex.def)             Requested size: 426.79135pt x 258.34503pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_5_nadoba_35_L.png, id=72, 362.664pt x 219.657pt>
 File: obrazky/rezistance_odpor_5_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_nadoba_35_L.png  used on in
 put line 122.
 (pdftex.def)             Requested size: 426.79135pt x 258.4992pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_5_nadoba_54_L.png, id=73, 362.445pt x 226.884pt>
 File: obrazky/rezistance_odpor_5_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_nadoba_54_L.png  used on in
 put line 130.
 (pdftex.def)             Requested size: 426.79135pt x 267.16687pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_20_nadoba_35_L.png, id=74, 362.445pt x 219.876pt>
 File: obrazky/rezistance_odpor_20_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_nadoba_35_L.png  used on i
 nput line 138.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_20_nadoba_54_L.png, id=75, 362.445pt x 219.876pt>
 File: obrazky/rezistance_odpor_20_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_nadoba_54_L.png  used on i
 nput line 146.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_50_nadoba_35_L.png, id=76, 362.445pt x 219.876pt>
 File: obrazky/rezistance_odpor_50_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_nadoba_35_L.png  used on i
 nput line 154.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <obrazky/rezistance_odpor_50_nadoba_54_L.png, id=77, 362.445pt x 219.657pt>
 File: obrazky/rezistance_odpor_50_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_nadoba_54_L.png  used on i
 nput line 162.
 (pdftex.def)             Requested size: 426.79135pt x 258.65674pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 ) [14
 
  <./obrazky/rezistance_delka_20_cm_nadoba_35_L.png>] [15 <./obrazky/rezistance_
@@ -1181,15 +1129,15 @@ _L.png> <./obrazky/rezistance_odpor_20_delka_20_cm.png>] [18 <./obrazky/rezista
 nce_odpor_20_delka_40_cm.png> <./obrazky/rezistance_odpor_20_delka_60_cm.png>] 
 [19 <./obrazky/rezistance_odpor_5_delka_20_cm.png> <./obrazky/rezistance_odpor_
 5_delka_40_cm.png>] [20 <./obrazky/rezistance_odpor_5_delka_60_cm.png> <./obraz
-ky/rezistance_odpor_50_delka_20_cm.png>] [21 <./obrazky/rezistance_odpor_50_del
-ka_40_cm.png> <./obrazky/rezistance_odpor_5_nadoba_35_L.png>] [22 <./obrazky/re
-zistance_odpor_5_nadoba_54_L.png> <./obrazky/rezistance_odpor_20_nadoba_35_L.pn
-g>] [23 <./obrazky/rezistance_odpor_20_nadoba_54_L.png> <./obrazky/rezistance_o
-dpor_50_nadoba_35_L.png>] [24 <./obrazky/rezistance_odpor_50_nadoba_54_L.png>] 
-(06_diskuse.tex)
-Overfull \hbox (3.80585pt too wide) in paragraph at lines 5--229
+ky/rezistance_odpor_50_delka_20_cm.png>]
+[21 <./obrazky/rezistance_odpor_50_delka_40_cm.png> <./obrazky/rezistance_odpor
+_5_nadoba_35_L.png>] [22 <./obrazky/rezistance_odpor_5_nadoba_54_L.png> <./obra
+zky/rezistance_odpor_20_nadoba_35_L.png>] [23 <./obrazky/rezistance_odpor_20_na
+doba_54_L.png> <./obrazky/rezistance_odpor_50_nadoba_35_L.png>] [24 <./obrazky/
+rezistance_odpor_50_nadoba_54_L.png>] (06_diskuse.tex)
+Overfull \hbox (2.82669pt too wide) in paragraph at lines 5--229
 []\OT1/cmr/m/n/12 P^^Tr^^S^^Pstroj m^^Te^^Tr^^S^^P na 8 r^^Wuzn^^Sych frek-venc
-^^S^^Pch, jak bylo ji^^Tz zm^^S^^Pn^^Ten^^Se v me-tod^^Sach. N^^Sasledn^^Te
+^^S^^Pch, jak bylo ji^^Tz zm^^S^^Pn^^Ten^^Se v ka-pi-tole 4[]. N^^Sasledn^^Te
  []
 
 [25
@@ -1210,53 +1158,7 @@ Package biblatex Warning: No driver for 'masterthesis'.
 [27
 
 
-] (08_prilohy.tex (tabulky19.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)) [28
+] (08_prilohy.tex (tabulky19.tex)) [28
 
 ] [29] [30] [31] (main_FoT.aux)
  ***********
@@ -1277,13 +1179,13 @@ Package logreq Info: Writing requests to 'main_FoT.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16322 strings out of 476036
- 301616 string characters out of 5778880
+ 16324 strings out of 476036
+ 301639 string characters out of 5778880
  1910763 words of memory out of 5000000
- 36796 multiletter control sequences out of 15000+600000
+ 36798 multiletter control sequences out of 15000+600000
  528105 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,17n,81p,1509b,2727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,17n,81p,1487b,2727s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\e675237\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1200.pk><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type
@@ -1296,7 +1198,7 @@ rs/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.
 pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uh
 vb8a.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
 ic/uhvr8a.pfb>
-Output written on main_FoT.pdf (32 pages, 927307 bytes).
+Output written on main_FoT.pdf (32 pages, 927364 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
