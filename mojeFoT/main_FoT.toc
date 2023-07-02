@@ -6,7 +6,7 @@
 \contentsline {section}{\numberline {4}Metody}{11}{}%
 \contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{11}{}%
 \contentsline {subsection}{\numberline {4.2}Kalibrace zařízení tremoflo}{12}{}%
-\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{13}{}%
+\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{12}{}%
 \contentsline {subsection}{\numberline {4.4}Průběh měření}{13}{}%
 \contentsline {section}{\numberline {5}Výsledky}{14}{}%
 \contentsline {section}{\numberline {6}Diskuse}{25}{}%

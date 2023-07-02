@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  2 JUL 2023 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  2 JUL 2023 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1042,7 +1042,7 @@ C-100. Pod-sta-tou funkce to-hoto p^^Tr^^S^^Pstroje
 [11
 
 ]
-Overfull \hbox (15.91455pt too wide) in paragraph at lines 39--41
+Overfull \hbox (15.91455pt too wide) in paragraph at lines 38--40
 \OT1/cmr/m/n/12 ra-cic Me-di-cal Sys-tems Inc., Ka-nada). Za^^Tr^^S^^Pzen^^S^^P
  vy^^Tzaduje ka-lib-raci p^^Tred ka^^Tzd^^Sym pou^^Tzit^^S^^Pm.
  []
@@ -1234,7 +1234,7 @@ rs/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.
 pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uh
 vb8a.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
 ic/uhvr8a.pfb>
-Output written on main_FoT.pdf (32 pages, 928181 bytes).
+Output written on main_FoT.pdf (32 pages, 927856 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
