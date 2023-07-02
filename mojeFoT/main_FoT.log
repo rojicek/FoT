@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  2 JUL 2023 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  2 JUL 2023 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -351,34 +351,22 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count290
 \c@@ppsavesec=\count291
 \c@@ppsaveapp=\count292
-)
-(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+) (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2023-06-12 v3.2.6 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen175
+\l__siunitx_angle_marker_box=\box105
+\l__siunitx_angle_unit_box=\box106
+\l__siunitx_compound_count_int=\count293
+
+(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/translations\translat
+ions.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
 
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count293
+\etb@tempcnta=\count294
 )
-\csq@reset=\count294
-\csq@gtype=\count295
-\csq@glevel=\count296
-\csq@qlevel=\count297
-\csq@maxlvl=\count298
-\csq@tshold=\count299
-\csq@ltx@everypar=\toks31
-
-(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
-)
-Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
-Package csquotes Info: ... configuration file loaded successfully.
-
-(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
-File: csquotes.cfg 
-))
-(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
-Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
-
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
 ds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -394,7 +382,52 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count295
+\l__siunitx_number_min_decimal_int=\count296
+\l__siunitx_number_min_integer_int=\count297
+\l__siunitx_number_round_precision_int=\count298
+\l__siunitx_number_lower_threshold_int=\count299
+\l__siunitx_number_upper_threshold_int=\count300
+\l__siunitx_number_group_first_int=\count301
+\l__siunitx_number_group_size_int=\count302
+\l__siunitx_number_group_minimum_int=\count303
+\l__siunitx_table_tmp_box=\box107
+\l__siunitx_table_tmp_dim=\dimen176
+\l__siunitx_table_column_width_dim=\dimen177
+\l__siunitx_table_integer_box=\box108
+\l__siunitx_table_decimal_box=\box109
+\l__siunitx_table_uncert_box=\box110
+\l__siunitx_table_before_box=\box111
+\l__siunitx_table_after_box=\box112
+\l__siunitx_table_before_dim=\dimen178
+\l__siunitx_table_carry_dim=\dimen179
+\l__siunitx_unit_tmp_int=\count304
+\l__siunitx_unit_position_int=\count305
+\l__siunitx_unit_total_int=\count306
 )
+(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count307
+\csq@gtype=\count308
+\csq@glevel=\count309
+\csq@qlevel=\count310
+\csq@maxlvl=\count311
+\csq@tshold=\count312
+\csq@ltx@everypar=\toks31
+
+(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+(C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
 ty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -405,7 +438,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count300
+\lrq@indent=\count313
 
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -413,49 +446,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count301
-\c@listtotal=\count302
-\c@listcount=\count303
-\c@liststart=\count304
-\c@liststop=\count305
-\c@citecount=\count306
-\c@citetotal=\count307
-\c@multicitecount=\count308
-\c@multicitetotal=\count309
-\c@instcount=\count310
-\c@maxnames=\count311
-\c@minnames=\count312
-\c@maxitems=\count313
-\c@minitems=\count314
-\c@citecounter=\count315
-\c@maxcitecounter=\count316
-\c@savedcitecounter=\count317
-\c@uniquelist=\count318
-\c@uniquename=\count319
-\c@refsection=\count320
-\c@refsegment=\count321
-\c@maxextratitle=\count322
-\c@maxextratitleyear=\count323
-\c@maxextraname=\count324
-\c@maxextradate=\count325
-\c@maxextraalpha=\count326
-\c@abbrvpenalty=\count327
-\c@highnamepenalty=\count328
-\c@lownamepenalty=\count329
-\c@maxparens=\count330
-\c@parenlevel=\count331
-\blx@tempcnta=\count332
-\blx@tempcntb=\count333
-\blx@tempcntc=\count334
-\c@blx@maxsection=\count335
-\blx@maxsegment@0=\count336
-\blx@notetype=\count337
-\blx@parenlevel@text=\count338
-\blx@parenlevel@foot=\count339
-\blx@sectionciteorder@0=\count340
-\blx@sectionciteorderinternal@0=\count341
-\blx@entrysetcounter=\count342
-\blx@biblioinstance=\count343
+\c@tabx@nest=\count314
+\c@listtotal=\count315
+\c@listcount=\count316
+\c@liststart=\count317
+\c@liststop=\count318
+\c@citecount=\count319
+\c@citetotal=\count320
+\c@multicitecount=\count321
+\c@multicitetotal=\count322
+\c@instcount=\count323
+\c@maxnames=\count324
+\c@minnames=\count325
+\c@maxitems=\count326
+\c@minitems=\count327
+\c@citecounter=\count328
+\c@maxcitecounter=\count329
+\c@savedcitecounter=\count330
+\c@uniquelist=\count331
+\c@uniquename=\count332
+\c@refsection=\count333
+\c@refsegment=\count334
+\c@maxextratitle=\count335
+\c@maxextratitleyear=\count336
+\c@maxextraname=\count337
+\c@maxextradate=\count338
+\c@maxextraalpha=\count339
+\c@abbrvpenalty=\count340
+\c@highnamepenalty=\count341
+\c@lownamepenalty=\count342
+\c@maxparens=\count343
+\c@parenlevel=\count344
+\blx@tempcnta=\count345
+\blx@tempcntb=\count346
+\blx@tempcntc=\count347
+\c@blx@maxsection=\count348
+\blx@maxsegment@0=\count349
+\blx@notetype=\count350
+\blx@parenlevel@text=\count351
+\blx@parenlevel@foot=\count352
+\blx@sectionciteorder@0=\count353
+\blx@sectionciteorderinternal@0=\count354
+\blx@entrysetcounter=\count355
+\blx@biblioinstance=\count356
 \labelnumberwidth=\skip68
 \labelalphawidth=\skip69
 \biblabelsep=\skip70
@@ -467,9 +500,9 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count344
-\c@maxcomprange=\count345
-\c@mincompwidth=\count346
+\c@mincomprange=\count357
+\c@maxcomprange=\count358
+\c@mincompwidth=\count359
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -485,76 +518,76 @@ File: iso-numeric.dbx 2022/03/20 v0.4.1 ISO 690 biblatex data model extension
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count347
-\c@savedafterword=\count348
-\c@annotator=\count349
-\c@savedannotator=\count350
-\c@author=\count351
-\c@savedauthor=\count352
-\c@bookauthor=\count353
-\c@savedbookauthor=\count354
-\c@commentator=\count355
-\c@savedcommentator=\count356
-\c@editor=\count357
-\c@savededitor=\count358
-\c@editora=\count359
-\c@savededitora=\count360
-\c@editorb=\count361
-\c@savededitorb=\count362
-\c@editorc=\count363
-\c@savededitorc=\count364
-\c@foreword=\count365
-\c@savedforeword=\count366
-\c@holder=\count367
-\c@savedholder=\count368
-\c@introduction=\count369
-\c@savedintroduction=\count370
-\c@namea=\count371
-\c@savednamea=\count372
-\c@nameb=\count373
-\c@savednameb=\count374
-\c@namec=\count375
-\c@savednamec=\count376
-\c@translator=\count377
-\c@savedtranslator=\count378
-\c@shortauthor=\count379
-\c@savedshortauthor=\count380
-\c@shorteditor=\count381
-\c@savedshorteditor=\count382
-\c@supervisor=\count383
-\c@savedsupervisor=\count384
-\c@labelname=\count385
-\c@savedlabelname=\count386
-\c@institution=\count387
-\c@savedinstitution=\count388
-\c@lista=\count389
-\c@savedlista=\count390
-\c@listb=\count391
-\c@savedlistb=\count392
-\c@listc=\count393
-\c@savedlistc=\count394
-\c@listd=\count395
-\c@savedlistd=\count396
-\c@liste=\count397
-\c@savedliste=\count398
-\c@listf=\count399
-\c@savedlistf=\count400
-\c@location=\count401
-\c@savedlocation=\count402
-\c@organization=\count403
-\c@savedorganization=\count404
-\c@origlocation=\count405
-\c@savedoriglocation=\count406
-\c@origpublisher=\count407
-\c@savedorigpublisher=\count408
-\c@publisher=\count409
-\c@savedpublisher=\count410
-\c@language=\count411
-\c@savedlanguage=\count412
-\c@origlanguage=\count413
-\c@savedoriglanguage=\count414
-\c@pageref=\count415
-\c@savedpageref=\count416
+\c@afterword=\count360
+\c@savedafterword=\count361
+\c@annotator=\count362
+\c@savedannotator=\count363
+\c@author=\count364
+\c@savedauthor=\count365
+\c@bookauthor=\count366
+\c@savedbookauthor=\count367
+\c@commentator=\count368
+\c@savedcommentator=\count369
+\c@editor=\count370
+\c@savededitor=\count371
+\c@editora=\count372
+\c@savededitora=\count373
+\c@editorb=\count374
+\c@savededitorb=\count375
+\c@editorc=\count376
+\c@savededitorc=\count377
+\c@foreword=\count378
+\c@savedforeword=\count379
+\c@holder=\count380
+\c@savedholder=\count381
+\c@introduction=\count382
+\c@savedintroduction=\count383
+\c@namea=\count384
+\c@savednamea=\count385
+\c@nameb=\count386
+\c@savednameb=\count387
+\c@namec=\count388
+\c@savednamec=\count389
+\c@translator=\count390
+\c@savedtranslator=\count391
+\c@shortauthor=\count392
+\c@savedshortauthor=\count393
+\c@shorteditor=\count394
+\c@savedshorteditor=\count395
+\c@supervisor=\count396
+\c@savedsupervisor=\count397
+\c@labelname=\count398
+\c@savedlabelname=\count399
+\c@institution=\count400
+\c@savedinstitution=\count401
+\c@lista=\count402
+\c@savedlista=\count403
+\c@listb=\count404
+\c@savedlistb=\count405
+\c@listc=\count406
+\c@savedlistc=\count407
+\c@listd=\count408
+\c@savedlistd=\count409
+\c@liste=\count410
+\c@savedliste=\count411
+\c@listf=\count412
+\c@savedlistf=\count413
+\c@location=\count414
+\c@savedlocation=\count415
+\c@organization=\count416
+\c@savedorganization=\count417
+\c@origlocation=\count418
+\c@savedoriglocation=\count419
+\c@origpublisher=\count420
+\c@savedorigpublisher=\count421
+\c@publisher=\count422
+\c@savedpublisher=\count423
+\c@language=\count424
+\c@savedlanguage=\count425
+\c@origlanguage=\count426
+\c@savedoriglanguage=\count427
+\c@pageref=\count428
+\c@savedpageref=\count429
 \shorthandwidth=\skip76
 \shortjournalwidth=\skip77
 \shortserieswidth=\skip78
@@ -581,19 +614,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count417
-\c@textcitetotal=\count418
-\c@textcitemaxnames=\count419
-\c@biburlbigbreakpenalty=\count420
-\c@biburlbreakpenalty=\count421
-\c@biburlnumpenalty=\count422
-\c@biburlucpenalty=\count423
-\c@biburllcpenalty=\count424
+\c@textcitecount=\count430
+\c@textcitetotal=\count431
+\c@textcitemaxnames=\count432
+\c@biburlbigbreakpenalty=\count433
+\c@biburlbreakpenalty=\count434
+\c@biburlnumpenalty=\count435
+\c@biburlucpenalty=\count436
+\c@biburllcpenalty=\count437
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count425
+\c@smartand=\count438
 )
 Package biblatex Info: Trying to load bibliography style 'iso-numeric'...
 Package biblatex Info: ... file 'iso-numeric.bbx' found.
@@ -679,8 +712,8 @@ Package: expl3 2023-06-16 L3 programming layer (loader)
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count426
-\l__pdf_internal_box=\box105
+\l__color_backend_stack_int=\count439
+\l__pdf_internal_box=\box113
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2023-06-16 L3 programming layer (loader) 
@@ -698,13 +731,13 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm
 2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count427
+\c@AlgoLine=\count440
 \algocf@hangindent=\skip90
 
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.s
 ty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count428
+\c@checkoddpage=\count441
 ) (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
@@ -718,33 +751,33 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip96
 \algomargin=\skip97
 \skipalgocfslide=\skip98
-\algowidth=\dimen175
-\inoutsize=\dimen176
-\inoutindent=\dimen177
-\interspacetitleruled=\dimen178
-\interspacealgoruled=\dimen179
-\interspacetitleboxruled=\dimen180
+\algowidth=\dimen180
+\inoutsize=\dimen181
+\inoutindent=\dimen182
+\interspacetitleruled=\dimen183
+\interspacealgoruled=\dimen184
+\interspacetitleboxruled=\dimen185
 \algocf@ruledwidth=\skip99
-\algocf@inoutbox=\box106
-\algocf@inputbox=\box107
+\algocf@inoutbox=\box114
+\algocf@inputbox=\box115
 \AlCapSkip=\skip100
 \AlCapHSkip=\skip101
 \algoskipindent=\skip102
-\algocf@nlbox=\box108
-\algocf@hangingbox=\box109
-\algocf@untilbox=\box110
+\algocf@nlbox=\box116
+\algocf@hangingbox=\box117
+\algocf@untilbox=\box118
 \algocf@skipuntil=\skip103
-\algocf@capbox=\box111
+\algocf@capbox=\box119
 \algocf@lcaptionbox=\skip104
 \algoheightruledefault=\skip105
 \algoheightrule=\skip106
 \algotitleheightruledefault=\skip107
 \algotitleheightrule=\skip108
-\c@algocfline=\count429
-\c@algocfproc=\count430
-\c@algocf=\count431
-\algocf@algoframe=\box112
-\algocf@algobox=\box113
+\c@algocfline=\count442
+\c@algocfproc=\count443
+\c@algocf=\count444
+\algocf@algoframe=\box120
+\algocf@algobox=\box121
 ) (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
@@ -774,8 +807,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip132
 \cftfigindent=\skip133
 \cftfignumwidth=\skip134
-\c@lofdepth=\count432
-\c@lotdepth=\count433
+\c@lofdepth=\count445
+\c@lotdepth=\count446
 \cftbeforelottitleskip=\skip135
 \cftafterlottitleskip=\skip136
 \cftbeforetabskip=\skip137
@@ -789,20 +822,20 @@ Package csquotes Info: Redefining alias 'default' -> 'czech'.
  (main_FoT.aux)
 \openout1 = `main_FoT.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -842,16 +875,16 @@ LaTeX Font Info:    ... okay on input line 99.
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count434
-\scratchdimen=\dimen181
-\scratchbox=\box114
-\nofMPsegments=\count435
-\nofMParguments=\count436
+\scratchcounter=\count447
+\scratchdimen=\dimen186
+\scratchbox=\box122
+\nofMPsegments=\count448
+\nofMParguments=\count449
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count437
-\MPscratchDim=\dimen182
-\MPnumerator=\count438
-\makeMPintoPDFobject=\count439
+\MPscratchCnt=\count450
+\MPscratchDim=\dimen187
+\MPnumerator=\count451
+\makeMPintoPDFobject=\count452
 \everyMPtoPDFconversion=\toks33
 )
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
@@ -864,6 +897,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package translations Info: no dictionary file `translations-basic-dictionary-cz
+ech.trsl' found. on input line 102.
 Package biblatex Info: Trying to load language 'czech' -> 'czech-iso'...
 Package biblatex Info: ... file 'czech-iso.lbx' found.
 
@@ -892,26 +927,26 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main_FoT.bbl' found.
  (main_FoT.bbl)
-Package biblatex Info: Reference section=0 on input line 99.
-Package biblatex Info: Reference segment=0 on input line 99.
+Package biblatex Info: Reference section=0 on input line 102.
+Package biblatex Info: Reference segment=0 on input line 102.
 <obrazky/symbol_cvut_konturova_verze.pdf, id=1, 126.78566pt x 96.54268pt>
 File: obrazky/symbol_cvut_konturova_verze.pdf Graphic file (type pdf)
 <use obrazky/symbol_cvut_konturova_verze.pdf>
 Package pdftex.def Info: obrazky/symbol_cvut_konturova_verze.pdf  used on input
- line 107.
+ line 110.
 (pdftex.def)             Requested size: 85.35696pt x 64.99702pt.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-09.
+12.
 
 (C:\Users\e675237\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
 
  []
 
@@ -920,7 +955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--129
 {C:/Users/e675237/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/e6
 75237/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./obrazky/sym
 bol_cvut_konturova_verze.pdf>]
-Overfull \hbox (35.56094pt too wide) in paragraph at lines 150--151
+Overfull \hbox (35.56094pt too wide) in paragraph at lines 153--154
 [] \OT1/cmr/m/n/12 Nem^^Sam z^^Sava^^Tzn^^Sy d^^Wuvod proti u^^Tzit^^S^^P to-ho
 to ^^Tskoln^^S^^Pho d^^S^^Pla ve smyslu \TS1/cmr/m/n/12 §\OT1/cmr/m/n/12 60 Z^^
 Sakona ^^Tc.121/2000 Sb.,
@@ -954,12 +989,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `main_FoT.lot'.
 
  [5] (00_seznam_symbolu_a_zkratek.tex
-Overfull \hbox (14.6604pt too wide) in paragraph at lines 7--15
+Overfull \hbox (1.76335pt too wide) in paragraph at lines 12--12
+[]|$[][][]\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 L$| 
+ []
+
+
+Overfull \hbox (1.76335pt too wide) in paragraph at lines 13--13
+[]|$[][][]\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 L$| 
+ []
+
+
+Overfull \hbox (1.76335pt too wide) in paragraph at lines 14--14
+[]|$[][][]\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 L$| 
+ []
+
+
+Overfull \hbox (1.76335pt too wide) in paragraph at lines 18--18
+[]|$[][][]\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 L$| 
+ []
+
+
+Overfull \hbox (14.6604pt too wide) in paragraph at lines 7--24
  [] 
  []
 
 
-Overfull \hbox (16.88678pt too wide) in paragraph at lines 23--31
+Overfull \hbox (16.88678pt too wide) in paragraph at lines 32--43
  [] 
  []
 
@@ -1130,7 +1185,7 @@ _5_nadoba_35_L.png>] [22 <./obrazky/rezistance_odpor_5_nadoba_54_L.png> <./obra
 zky/rezistance_odpor_20_nadoba_35_L.png>] [23 <./obrazky/rezistance_odpor_20_na
 doba_54_L.png> <./obrazky/rezistance_odpor_50_nadoba_35_L.png>] [24 <./obrazky/
 rezistance_odpor_50_nadoba_54_L.png>] (06_diskuse.tex)
-Overfull \hbox (2.82669pt too wide) in paragraph at lines 5--229
+Overfull \hbox (2.82669pt too wide) in paragraph at lines 5--232
 []\OT1/cmr/m/n/12 P^^Tr^^S^^Pstroj m^^Te^^Tr^^S^^P na 8 r^^Wuzn^^Sych frek-venc
 ^^S^^Pch, jak bylo ji^^Tz zm^^S^^Pn^^Ten^^Se v ka-pi-tole 4[]. N^^Sasledn^^Te
  []
@@ -1138,7 +1193,7 @@ Overfull \hbox (2.82669pt too wide) in paragraph at lines 5--229
 [25
 
 ] (07_zaver.tex)
-Overfull \hbox (20.42206pt too wide) in paragraph at lines 1--233
+Overfull \hbox (20.42206pt too wide) in paragraph at lines 1--236
 \OT1/cmr/m/n/12 Semestr^^Saln^^S^^P pro-jekt zkoum^^Sa vztah mezi jed-not-liv^^
 Symi kom-bi-na-cemi mo-delu a nam^^Te^^Tren^^Sych
  []
@@ -1160,13 +1215,13 @@ Package logreq Info: Writing requests to 'main_FoT.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16321 strings out of 476036
- 301508 string characters out of 5778880
+ 19621 strings out of 476036
+ 400080 string characters out of 5778880
  1910763 words of memory out of 5000000
- 36795 multiletter control sequences out of 15000+600000
+ 40088 multiletter control sequences out of 15000+600000
  528105 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,17n,81p,1506b,2727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,17n,81p,1539b,2727s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\e675237\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1200.pk><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type
@@ -1179,7 +1234,7 @@ rs/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.
 pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uh
 vb8a.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
 ic/uhvr8a.pfb>
-Output written on main_FoT.pdf (32 pages, 926868 bytes).
+Output written on main_FoT.pdf (32 pages, 928187 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

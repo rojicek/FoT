@@ -34,6 +34,9 @@
 \usepackage[flushleft]{threeparttable}  % prostředí pro tabulky - přidává vysvětlující poznámky pod tabulku
 \usepackage{makecell}
 \usepackage[title]{appendix}
+\usepackage{siunitx}
+
+\sisetup{output-decimal-marker = {,}}
 
 % Následující balíčky řeší citace v dokumentu. 
 \usepackage{csquotes}                       
@@ -85,7 +88,7 @@
 
 %% Deklarace názvů - přepsat dle autora
 \newcommand{\autor}{Adéla Rojíčková}
-\newcommand{\vedouci}{Ing. Václav Ort}
+\newcommand{\vedouci}{Ing. Václav Ort, Ph.D.}
 \newcommand{\nazev}{Model respiračního systému jako fantom pro metodu nucených oscilací}
 \newcommand{\nazevENG}{A model of the respiratory system as a phantom for the forced oscillation method}
 \newcommand{\typ}{Semestrální práce I}
@@ -145,13 +148,13 @@
 	\null\vfill
 	\section*{Prohlášení}
 	% \hspace ruší odsazení odstavce - v šabloně u prohlášení odstavce odsazené nejsou. 
-    Prohlašuji, že jsem bakalářskou práci s názvem \uv{\nazev} vypracovala samostatně a~použila k~tomu úplný výčet citací použitých pramenů, které uvádím v seznamu přiloženém k~bakalářské práci.
+    Prohlašuji, že jsem seminární práci s názvem \uv{\nazev} vypracovala samostatně a~použila k~tomu úplný výčet citací použitých pramenů, které uvádím v seznamu přiloženém k~seminární práci.
 
     \hspace{-0.75cm}Nemám závažný důvod proti užití tohoto školního díla ve smyslu \S 60 Zákona č.121/2000~Sb., o~právu autorském, o~právech souvisejících s právem autorským a~o~změně některých zákonů (autorský zákon), ve znění pozdějších předpisů. 
     
     \vspace{1em}
     
-    \hspace{-0.75cm}V Kladně dne \ldots \ldots \ldots \hfill \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots
+    \hspace{-0.75cm}V Kladně dne \today \hfill 
 
     \hspace{10cm} \textbf{\autor}
 
@@ -162,9 +165,9 @@
 	\null\vfill	
 	\section*{ABSTRAKT}
         \subsection*{\nazev:}
-	    Výstižná charakteristika cílů, metod, výsledků, (diskuse) a závěrů bakalářské práce v rozsahu asi 10 řádků. 
+	    Hlavním cílem této práce bylo zjistit závislost odezvy modelu plic na~jeho jednotlivých použitých komponentách. Model plic se skládal ze~skleněné nádoby, jejíž objem simuloval poddajnost plic, z~plastové trubice, která simulovala inertanci modelu a z~parabolického rezistoru. K~modelu byla připojena mechanická stříkačka, kterou se do~systému vháněl vzduch. Postupně byly použity 2 velikosti skleněných nádob, 3 délky plastových trubic a 3 velikosti parabolických rezistorů. Měření reaktance a rezistence bylo prováděno metodou nucených oscilací pomocí přístroje tremoflo C-100 a probíhalo na~20 různých kombinacích modelu. Z~naměřených dat byla vyhodnocena reaktance a rezistence modelu v~závislosti na jeho aktuální konfiguraci.
 	\subsection*{Klíčová slova}
-		výčet tří až pěti klíčových slov nebo sousloví charakterizujících obsah bakalářské práce
+		Akustická oscilometrie, metoda nucených oscilací, rezistence a reaktance modelu respiračního systému.
 	\clearpage
 		
 		
@@ -175,7 +178,7 @@
         A concise summary of aims, methods, results, discussion (if needed) and conclusions of the Bachelor’s Thesis within the range of about 10 lines.
     
 	\subsection*{Key words}
-		Listing 3 to 5 key words characterizing the subject-matter of the Bachelor's Thesis.
+		Airwave oscillometry, forced oscillations technique, resistace and reactance of respiratory system model.
 	\clearpage
 	
     \pagestyle{plain}	% Číslování stránek začíná odsud
