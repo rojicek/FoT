@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{Vlcek2018}{masterthesis}{}
+    \entry{Vlcek2018}{thesis}{}
       \name{author}{1}{}{%
         {{hash=94bbefa9b50f735660754d36cff143c3}{%
            family={Vlček},
@@ -125,18 +125,6 @@
       \endverb
       \verb{url}
       \verb https://www.mr-diagnostic.cz/tremoflo
-      \endverb
-    \endentry
-    \entry{PulmoScan}{misc}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labeltitlesource}{title}
-      \field{title}{Simple effort-free lung function assessment. PulmoScan.}
-      \verb{urlraw}
-      \verb https://pulmoscan.cognitalabs.com/
-      \endverb
-      \verb{url}
-      \verb https://pulmoscan.cognitalabs.com/
       \endverb
     \endentry
   \enddatalist
