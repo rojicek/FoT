@@ -9,7 +9,11 @@
 \contentsline {subsection}{\numberline {4.3}Sestavení modelu}{12}{}%
 \contentsline {subsection}{\numberline {4.4}Průběh měření}{13}{}%
 \contentsline {section}{\numberline {5}Výsledky}{14}{}%
+\contentsline {subsection}{\numberline {5.1}Rezistance}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Reaktance}{14}{}%
 \contentsline {section}{\numberline {6}Diskuse}{25}{}%
+\contentsline {subsection}{\numberline {6.1}v1}{25}{}%
+\contentsline {subsection}{\numberline {6.2}v2}{25}{}%
 \contentsline {section}{\numberline {7}Závěr}{26}{}%
 \contentsline {section}{Seznam použité literatury}{27}{}%
 \babel@toc {czech}{}\relax 
