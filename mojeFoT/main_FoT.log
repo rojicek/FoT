@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.26)  8 JUL 2023 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.26)  8 JUL 2023 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,15 +406,40 @@ Package pdftexcmds Info: \pdfdraftmode found.
 \l__siunitx_unit_tmp_int=\count304
 \l__siunitx_unit_position_int=\count305
 \l__siunitx_unit_total_int=\count306
+) (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen180
+\captionmargin=\dimen181
+\caption@leftmargin=\dimen182
+\caption@rightmargin=\dimen183
+\caption@width=\dimen184
+\caption@indent=\dimen185
+\caption@parindent=\dimen186
+\caption@hangindent=\dimen187
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count307
+\c@continuedfloat=\count308
+Package caption Info: float package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+(C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count309
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count310
 )
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count307
-\csq@gtype=\count308
-\csq@glevel=\count309
-\csq@qlevel=\count310
-\csq@maxlvl=\count311
-\csq@tshold=\count312
+\csq@reset=\count311
+\csq@gtype=\count312
+\csq@glevel=\count313
+\csq@qlevel=\count314
+\csq@maxlvl=\count315
+\csq@tshold=\count316
 \csq@ltx@everypar=\toks31
 
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
@@ -436,7 +461,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count313
+\lrq@indent=\count317
 
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -444,49 +469,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count314
-\c@listtotal=\count315
-\c@listcount=\count316
-\c@liststart=\count317
-\c@liststop=\count318
-\c@citecount=\count319
-\c@citetotal=\count320
-\c@multicitecount=\count321
-\c@multicitetotal=\count322
-\c@instcount=\count323
-\c@maxnames=\count324
-\c@minnames=\count325
-\c@maxitems=\count326
-\c@minitems=\count327
-\c@citecounter=\count328
-\c@maxcitecounter=\count329
-\c@savedcitecounter=\count330
-\c@uniquelist=\count331
-\c@uniquename=\count332
-\c@refsection=\count333
-\c@refsegment=\count334
-\c@maxextratitle=\count335
-\c@maxextratitleyear=\count336
-\c@maxextraname=\count337
-\c@maxextradate=\count338
-\c@maxextraalpha=\count339
-\c@abbrvpenalty=\count340
-\c@highnamepenalty=\count341
-\c@lownamepenalty=\count342
-\c@maxparens=\count343
-\c@parenlevel=\count344
-\blx@tempcnta=\count345
-\blx@tempcntb=\count346
-\blx@tempcntc=\count347
-\c@blx@maxsection=\count348
-\blx@maxsegment@0=\count349
-\blx@notetype=\count350
-\blx@parenlevel@text=\count351
-\blx@parenlevel@foot=\count352
-\blx@sectionciteorder@0=\count353
-\blx@sectionciteorderinternal@0=\count354
-\blx@entrysetcounter=\count355
-\blx@biblioinstance=\count356
+\c@tabx@nest=\count318
+\c@listtotal=\count319
+\c@listcount=\count320
+\c@liststart=\count321
+\c@liststop=\count322
+\c@citecount=\count323
+\c@citetotal=\count324
+\c@multicitecount=\count325
+\c@multicitetotal=\count326
+\c@instcount=\count327
+\c@maxnames=\count328
+\c@minnames=\count329
+\c@maxitems=\count330
+\c@minitems=\count331
+\c@citecounter=\count332
+\c@maxcitecounter=\count333
+\c@savedcitecounter=\count334
+\c@uniquelist=\count335
+\c@uniquename=\count336
+\c@refsection=\count337
+\c@refsegment=\count338
+\c@maxextratitle=\count339
+\c@maxextratitleyear=\count340
+\c@maxextraname=\count341
+\c@maxextradate=\count342
+\c@maxextraalpha=\count343
+\c@abbrvpenalty=\count344
+\c@highnamepenalty=\count345
+\c@lownamepenalty=\count346
+\c@maxparens=\count347
+\c@parenlevel=\count348
+\blx@tempcnta=\count349
+\blx@tempcntb=\count350
+\blx@tempcntc=\count351
+\c@blx@maxsection=\count352
+\blx@maxsegment@0=\count353
+\blx@notetype=\count354
+\blx@parenlevel@text=\count355
+\blx@parenlevel@foot=\count356
+\blx@sectionciteorder@0=\count357
+\blx@sectionciteorderinternal@0=\count358
+\blx@entrysetcounter=\count359
+\blx@biblioinstance=\count360
 \labelnumberwidth=\skip68
 \labelalphawidth=\skip69
 \biblabelsep=\skip70
@@ -498,9 +523,9 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count357
-\c@maxcomprange=\count358
-\c@mincompwidth=\count359
+\c@mincomprange=\count361
+\c@maxcomprange=\count362
+\c@mincompwidth=\count363
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -516,76 +541,76 @@ File: iso-numeric.dbx 2022/03/20 v0.4.1 ISO 690 biblatex data model extension
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count360
-\c@savedafterword=\count361
-\c@annotator=\count362
-\c@savedannotator=\count363
-\c@author=\count364
-\c@savedauthor=\count365
-\c@bookauthor=\count366
-\c@savedbookauthor=\count367
-\c@commentator=\count368
-\c@savedcommentator=\count369
-\c@editor=\count370
-\c@savededitor=\count371
-\c@editora=\count372
-\c@savededitora=\count373
-\c@editorb=\count374
-\c@savededitorb=\count375
-\c@editorc=\count376
-\c@savededitorc=\count377
-\c@foreword=\count378
-\c@savedforeword=\count379
-\c@holder=\count380
-\c@savedholder=\count381
-\c@introduction=\count382
-\c@savedintroduction=\count383
-\c@namea=\count384
-\c@savednamea=\count385
-\c@nameb=\count386
-\c@savednameb=\count387
-\c@namec=\count388
-\c@savednamec=\count389
-\c@translator=\count390
-\c@savedtranslator=\count391
-\c@shortauthor=\count392
-\c@savedshortauthor=\count393
-\c@shorteditor=\count394
-\c@savedshorteditor=\count395
-\c@supervisor=\count396
-\c@savedsupervisor=\count397
-\c@labelname=\count398
-\c@savedlabelname=\count399
-\c@institution=\count400
-\c@savedinstitution=\count401
-\c@lista=\count402
-\c@savedlista=\count403
-\c@listb=\count404
-\c@savedlistb=\count405
-\c@listc=\count406
-\c@savedlistc=\count407
-\c@listd=\count408
-\c@savedlistd=\count409
-\c@liste=\count410
-\c@savedliste=\count411
-\c@listf=\count412
-\c@savedlistf=\count413
-\c@location=\count414
-\c@savedlocation=\count415
-\c@organization=\count416
-\c@savedorganization=\count417
-\c@origlocation=\count418
-\c@savedoriglocation=\count419
-\c@origpublisher=\count420
-\c@savedorigpublisher=\count421
-\c@publisher=\count422
-\c@savedpublisher=\count423
-\c@language=\count424
-\c@savedlanguage=\count425
-\c@origlanguage=\count426
-\c@savedoriglanguage=\count427
-\c@pageref=\count428
-\c@savedpageref=\count429
+\c@afterword=\count364
+\c@savedafterword=\count365
+\c@annotator=\count366
+\c@savedannotator=\count367
+\c@author=\count368
+\c@savedauthor=\count369
+\c@bookauthor=\count370
+\c@savedbookauthor=\count371
+\c@commentator=\count372
+\c@savedcommentator=\count373
+\c@editor=\count374
+\c@savededitor=\count375
+\c@editora=\count376
+\c@savededitora=\count377
+\c@editorb=\count378
+\c@savededitorb=\count379
+\c@editorc=\count380
+\c@savededitorc=\count381
+\c@foreword=\count382
+\c@savedforeword=\count383
+\c@holder=\count384
+\c@savedholder=\count385
+\c@introduction=\count386
+\c@savedintroduction=\count387
+\c@namea=\count388
+\c@savednamea=\count389
+\c@nameb=\count390
+\c@savednameb=\count391
+\c@namec=\count392
+\c@savednamec=\count393
+\c@translator=\count394
+\c@savedtranslator=\count395
+\c@shortauthor=\count396
+\c@savedshortauthor=\count397
+\c@shorteditor=\count398
+\c@savedshorteditor=\count399
+\c@supervisor=\count400
+\c@savedsupervisor=\count401
+\c@labelname=\count402
+\c@savedlabelname=\count403
+\c@institution=\count404
+\c@savedinstitution=\count405
+\c@lista=\count406
+\c@savedlista=\count407
+\c@listb=\count408
+\c@savedlistb=\count409
+\c@listc=\count410
+\c@savedlistc=\count411
+\c@listd=\count412
+\c@savedlistd=\count413
+\c@liste=\count414
+\c@savedliste=\count415
+\c@listf=\count416
+\c@savedlistf=\count417
+\c@location=\count418
+\c@savedlocation=\count419
+\c@organization=\count420
+\c@savedorganization=\count421
+\c@origlocation=\count422
+\c@savedoriglocation=\count423
+\c@origpublisher=\count424
+\c@savedorigpublisher=\count425
+\c@publisher=\count426
+\c@savedpublisher=\count427
+\c@language=\count428
+\c@savedlanguage=\count429
+\c@origlanguage=\count430
+\c@savedoriglanguage=\count431
+\c@pageref=\count432
+\c@savedpageref=\count433
 \shorthandwidth=\skip76
 \shortjournalwidth=\skip77
 \shortserieswidth=\skip78
@@ -610,19 +635,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count430
-\c@textcitetotal=\count431
-\c@textcitemaxnames=\count432
-\c@biburlbigbreakpenalty=\count433
-\c@biburlbreakpenalty=\count434
-\c@biburlnumpenalty=\count435
-\c@biburlucpenalty=\count436
-\c@biburllcpenalty=\count437
+\c@textcitecount=\count434
+\c@textcitetotal=\count435
+\c@textcitemaxnames=\count436
+\c@biburlbigbreakpenalty=\count437
+\c@biburlbreakpenalty=\count438
+\c@biburlnumpenalty=\count439
+\c@biburlucpenalty=\count440
+\c@biburllcpenalty=\count441
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count438
+\c@smartand=\count442
 )
 Package biblatex Info: Trying to load bibliography style 'iso-numeric'...
 Package biblatex Info: ... file 'iso-numeric.bbx' found.
@@ -707,7 +732,7 @@ Package: expl3 2023-06-16 L3 programming layer (loader)
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count439
+\l__color_backend_stack_int=\count443
 \l__pdf_internal_box=\box113
 ))
 Package biblatex Info: ... and expl3
@@ -726,12 +751,12 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm2e.
 sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count440
+\c@AlgoLine=\count444
 \algocf@hangindent=\skip90
 
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count441
+\c@checkoddpage=\count445
 ) (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
@@ -746,12 +771,12 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip96
 \algomargin=\skip97
 \skipalgocfslide=\skip98
-\algowidth=\dimen180
-\inoutsize=\dimen181
-\inoutindent=\dimen182
-\interspacetitleruled=\dimen183
-\interspacealgoruled=\dimen184
-\interspacetitleboxruled=\dimen185
+\algowidth=\dimen188
+\inoutsize=\dimen189
+\inoutindent=\dimen190
+\interspacetitleruled=\dimen191
+\interspacealgoruled=\dimen192
+\interspacetitleboxruled=\dimen193
 \algocf@ruledwidth=\skip99
 \algocf@inoutbox=\box114
 \algocf@inputbox=\box115
@@ -768,9 +793,9 @@ Package: relsize 2013/03/29 ver 4.1
 \algoheightrule=\skip106
 \algotitleheightruledefault=\skip107
 \algotitleheightrule=\skip108
-\c@algocfline=\count442
-\c@algocfproc=\count443
-\c@algocf=\count444
+\c@algocfline=\count446
+\c@algocfproc=\count447
+\c@algocf=\count448
 \algocf@algoframe=\box120
 \algocf@algobox=\box121
 )
@@ -803,8 +828,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip132
 \cftfigindent=\skip133
 \cftfignumwidth=\skip134
-\c@lofdepth=\count445
-\c@lotdepth=\count446
+\c@lofdepth=\count449
+\c@lotdepth=\count450
 \cftbeforelottitleskip=\skip135
 \cftafterlottitleskip=\skip136
 \cftbeforetabskip=\skip137
@@ -819,20 +844,20 @@ Package csquotes Info: Redefining alias 'default' -> 'czech'.
 (main_FoT.aux)
 \openout1 = `main_FoT.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -872,16 +897,16 @@ LaTeX Font Info:    ... okay on input line 102.
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count447
-\scratchdimen=\dimen186
+\scratchcounter=\count451
+\scratchdimen=\dimen194
 \scratchbox=\box122
-\nofMPsegments=\count448
-\nofMParguments=\count449
+\nofMPsegments=\count452
+\nofMParguments=\count453
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count450
-\MPscratchDim=\dimen187
-\MPnumerator=\count451
-\makeMPintoPDFobject=\count452
+\MPscratchCnt=\count454
+\MPscratchDim=\dimen195
+\MPnumerator=\count455
+\makeMPintoPDFobject=\count456
 \everyMPtoPDFconversion=\toks33
 )
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
@@ -895,7 +920,9 @@ g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package translations Info: no dictionary file `translations-basic-dictionary-cz
-ech.trsl' found. on input line 102.
+ech.trsl' found. on input line 107.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'czech' -> 'czech-iso'...
 Package biblatex Info: ... file 'czech-iso.lbx' found.
 
@@ -922,26 +949,26 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main_FoT.bbl' found.
 (main_FoT.bbl)
-Package biblatex Info: Reference section=0 on input line 102.
-Package biblatex Info: Reference segment=0 on input line 102.
+Package biblatex Info: Reference section=0 on input line 107.
+Package biblatex Info: Reference segment=0 on input line 107.
 <obrazky/symbol_cvut_konturova_verze.pdf, id=1, 126.78566pt x 96.54268pt>
 File: obrazky/symbol_cvut_konturova_verze.pdf Graphic file (type pdf)
 <use obrazky/symbol_cvut_konturova_verze.pdf>
 Package pdftex.def Info: obrazky/symbol_cvut_konturova_verze.pdf  used on input
- line 110.
+ line 115.
 (pdftex.def)             Requested size: 85.35696pt x 64.99702pt.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-12.
+17.
 
 (C:\Users\jiri\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
@@ -950,7 +977,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--132
 {C:/Users/jiri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/jiri/
 AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./obrazky/symbol_cv
 ut_konturova_verze.pdf>]
-Overfull \hbox (35.56094pt too wide) in paragraph at lines 153--154
+Overfull \hbox (35.56094pt too wide) in paragraph at lines 158--159
 [] \OT1/cmr/m/n/12 Nem^^Sam z^^Sava^^Tzn^^Sy d^^Wuvod proti u^^Tzit^^S^^P to-ho
 to ^^Tskoln^^S^^Pho d^^S^^Pla ve smyslu \TS1/cmr/m/n/12 �\OT1/cmr/m/n/12 60 Z^^
 Sakona ^^Tc.121/2000 Sb.,
@@ -1043,142 +1070,157 @@ Overfull \hbox (15.91455pt too wide) in paragraph at lines 38--40
  []
 
 [12]) [13] (05_vysledky.tex
-<obrazky/rezistance_delka_20_cm_nadoba_35_L.png, id=58, 362.664pt x 219.657pt>
+<obrazky/n_reaktance_odpor_5_nadoba__L.png, id=58, 421.575pt x 316.0608pt>
+File: obrazky/n_reaktance_odpor_5_nadoba__L.png Graphic file (type png)
+<use obrazky/n_reaktance_odpor_5_nadoba__L.png>
+Package pdftex.def Info: obrazky/n_reaktance_odpor_5_nadoba__L.png  used on inp
+ut line 27.
+(pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
+<obrazky/n_rezistance_odpor_5_nadoba__L.png, id=59, 421.575pt x 316.0608pt>
+File: obrazky/n_rezistance_odpor_5_nadoba__L.png Graphic file (type png)
+<use obrazky/n_rezistance_odpor_5_nadoba__L.png>
+Package pdftex.def Info: obrazky/n_rezistance_odpor_5_nadoba__L.png  used on in
+put line 33.
+(pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
+ [14
+
+]
+<obrazky/rezistance_delka_20_cm_nadoba_35_L.png, id=63, 362.664pt x 219.657pt>
 File: obrazky/rezistance_delka_20_cm_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_20_cm_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_20_cm_nadoba_35_L.png  used o
-n input line 23.
+n input line 48.
 (pdftex.def)             Requested size: 426.79135pt x 258.4992pt.
-<obrazky/rezistance_delka_20_cm_nadoba_54_L.png, id=59, 362.445pt x 219.657pt>
+<obrazky/rezistance_delka_20_cm_nadoba_54_L.png, id=64, 362.445pt x 219.657pt>
 File: obrazky/rezistance_delka_20_cm_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_20_cm_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_20_cm_nadoba_54_L.png  used o
-n input line 31.
+n input line 56.
 (pdftex.def)             Requested size: 426.79135pt x 258.65674pt.
-<obrazky/rezistance_delka_40_cm_naboba_54_L.png, id=60, 362.445pt x 219.876pt>
+<obrazky/rezistance_delka_40_cm_naboba_54_L.png, id=65, 362.445pt x 219.876pt>
 File: obrazky/rezistance_delka_40_cm_naboba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_40_cm_naboba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_40_cm_naboba_54_L.png  used o
-n input line 39.
+n input line 64.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-<obrazky/rezistance_delka_40_cm_nadoba_35_L.png, id=61, 362.883pt x 219.657pt>
+<obrazky/rezistance_delka_40_cm_nadoba_35_L.png, id=66, 362.883pt x 219.657pt>
 File: obrazky/rezistance_delka_40_cm_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_40_cm_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_40_cm_nadoba_35_L.png  used o
-n input line 47.
+n input line 72.
 (pdftex.def)             Requested size: 426.79135pt x 258.34503pt.
-<obrazky/rezistance_delka_60_cm_nadoba_35_L.png, id=62, 363.759pt x 220.533pt>
+<obrazky/rezistance_delka_60_cm_nadoba_35_L.png, id=67, 363.759pt x 220.533pt>
 File: obrazky/rezistance_delka_60_cm_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_delka_60_cm_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_delka_60_cm_nadoba_35_L.png  used o
-n input line 55.
+n input line 80.
 (pdftex.def)             Requested size: 426.79135pt x 258.75278pt.
-<obrazky/rezistance_délka_60_cm_nádoba_54_L.png, id=63, 362.445pt x 226.884pt
+<obrazky/rezistance_délka_60_cm_nádoba_54_L.png, id=68, 362.445pt x 226.884pt
 >
 File: obrazky/rezistance_délka_60_cm_nádoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_délka_60_cm_nádoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_délka_60_cm_nádoba_54_L.png  used
- on input line 63.
+ on input line 88.
 (pdftex.def)             Requested size: 426.79135pt x 267.16687pt.
-<obrazky/rezistance_odpor_20_delka_20_cm.png, id=64, 362.664pt x 225.132pt>
+<obrazky/rezistance_odpor_20_delka_20_cm.png, id=69, 362.664pt x 225.132pt>
 File: obrazky/rezistance_odpor_20_delka_20_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_delka_20_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_delka_20_cm.png  used on i
-nput line 72.
+nput line 97.
 (pdftex.def)             Requested size: 426.79135pt x 264.94235pt.
-<obrazky/rezistance_odpor_20_delka_40_cm.png, id=65, 362.445pt x 225.132pt>
+<obrazky/rezistance_odpor_20_delka_40_cm.png, id=70, 362.445pt x 225.132pt>
 File: obrazky/rezistance_odpor_20_delka_40_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_delka_40_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_delka_40_cm.png  used on i
-nput line 81.
+nput line 106.
 (pdftex.def)             Requested size: 426.79135pt x 265.1038pt.
-<obrazky/rezistance_odpor_20_delka_60_cm.png, id=66, 361.569pt x 221.628pt>
+<obrazky/rezistance_odpor_20_delka_60_cm.png, id=71, 361.569pt x 221.628pt>
 File: obrazky/rezistance_odpor_20_delka_60_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_delka_60_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_delka_60_cm.png  used on i
-nput line 89.
+nput line 114.
 (pdftex.def)             Requested size: 426.79135pt x 261.61008pt.
-<obrazky/rezistance_odpor_5_delka_20_cm.png, id=67, 362.664pt x 224.475pt>
+<obrazky/rezistance_odpor_5_delka_20_cm.png, id=72, 362.664pt x 224.475pt>
 File: obrazky/rezistance_odpor_5_delka_20_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_delka_20_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_delka_20_cm.png  used on in
-put line 97.
+put line 122.
 (pdftex.def)             Requested size: 426.79135pt x 264.16917pt.
-<obrazky/rezistance_odpor_5_delka_40_cm.png, id=68, 361.569pt x 221.847pt>
+<obrazky/rezistance_odpor_5_delka_40_cm.png, id=73, 361.569pt x 221.847pt>
 File: obrazky/rezistance_odpor_5_delka_40_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_delka_40_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_delka_40_cm.png  used on in
-put line 105.
+put line 130.
 (pdftex.def)             Requested size: 426.79135pt x 261.86858pt.
-<obrazky/rezistance_odpor_5_delka_60_cm.png, id=69, 361.569pt x 222.066pt>
+<obrazky/rezistance_odpor_5_delka_60_cm.png, id=74, 361.569pt x 222.066pt>
 File: obrazky/rezistance_odpor_5_delka_60_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_delka_60_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_delka_60_cm.png  used on in
-put line 113.
+put line 138.
 (pdftex.def)             Requested size: 426.79135pt x 262.12706pt.
-<obrazky/rezistance_odpor_50_delka_20_cm.png, id=70, 362.664pt x 219.876pt>
+<obrazky/rezistance_odpor_50_delka_20_cm.png, id=75, 362.664pt x 219.876pt>
 File: obrazky/rezistance_odpor_50_delka_20_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_delka_20_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_delka_20_cm.png  used on i
-nput line 121.
+nput line 146.
 (pdftex.def)             Requested size: 426.79135pt x 258.75693pt.
-<obrazky/rezistance_odpor_50_delka_40_cm.png, id=71, 362.883pt x 219.657pt>
+<obrazky/rezistance_odpor_50_delka_40_cm.png, id=76, 362.883pt x 219.657pt>
 File: obrazky/rezistance_odpor_50_delka_40_cm.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_delka_40_cm.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_delka_40_cm.png  used on i
-nput line 129.
+nput line 154.
 (pdftex.def)             Requested size: 426.79135pt x 258.34503pt.
-<obrazky/rezistance_odpor_5_nadoba_35_L.png, id=72, 362.664pt x 219.657pt>
+<obrazky/rezistance_odpor_5_nadoba_35_L.png, id=77, 362.664pt x 219.657pt>
 File: obrazky/rezistance_odpor_5_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_nadoba_35_L.png  used on in
-put line 137.
+put line 162.
 (pdftex.def)             Requested size: 426.79135pt x 258.4992pt.
-<obrazky/rezistance_odpor_5_nadoba_54_L.png, id=73, 362.445pt x 226.884pt>
+<obrazky/rezistance_odpor_5_nadoba_54_L.png, id=78, 362.445pt x 226.884pt>
 File: obrazky/rezistance_odpor_5_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_nadoba_54_L.png  used on in
-put line 145.
+put line 170.
 (pdftex.def)             Requested size: 426.79135pt x 267.16687pt.
-<obrazky/rezistance_odpor_20_nadoba_35_L.png, id=74, 362.445pt x 219.876pt>
+<obrazky/rezistance_odpor_20_nadoba_35_L.png, id=79, 362.445pt x 219.876pt>
 File: obrazky/rezistance_odpor_20_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_nadoba_35_L.png  used on i
-nput line 153.
+nput line 178.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-<obrazky/rezistance_odpor_20_nadoba_54_L.png, id=75, 362.445pt x 219.876pt>
+<obrazky/rezistance_odpor_20_nadoba_54_L.png, id=80, 362.445pt x 219.876pt>
 File: obrazky/rezistance_odpor_20_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_nadoba_54_L.png  used on i
-nput line 161.
+nput line 186.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-<obrazky/rezistance_odpor_50_nadoba_35_L.png, id=76, 362.445pt x 219.876pt>
+<obrazky/rezistance_odpor_50_nadoba_35_L.png, id=81, 362.445pt x 219.876pt>
 File: obrazky/rezistance_odpor_50_nadoba_35_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_nadoba_35_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_nadoba_35_L.png  used on i
-nput line 169.
+nput line 194.
 (pdftex.def)             Requested size: 426.79135pt x 258.91461pt.
-<obrazky/rezistance_odpor_50_nadoba_54_L.png, id=77, 362.445pt x 219.657pt>
+<obrazky/rezistance_odpor_50_nadoba_54_L.png, id=82, 362.445pt x 219.657pt>
 File: obrazky/rezistance_odpor_50_nadoba_54_L.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_nadoba_54_L.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_nadoba_54_L.png  used on i
-nput line 177.
+nput line 202.
 (pdftex.def)             Requested size: 426.79135pt x 258.65674pt.
-) [14
-
-] [15 <./obrazky/rezistance_delka_20_cm_nadoba_35_L.png> <./obrazky/rezistance_
-delka_20_cm_nadoba_54_L.png>] [16 <./obrazky/rezistance_delka_40_cm_naboba_54_L
-.png> <./obrazky/rezistance_delka_40_cm_nadoba_35_L.png>] [17 <./obrazky/rezist
-ance_delka_60_cm_nadoba_35_L.png> <./obrazky/rezistance_délka_60_cm_nádoba_54
-_L.png>] [18 <./obrazky/rezistance_odpor_20_delka_20_cm.png> <./obrazky/rezista
-nce_odpor_20_delka_40_cm.png>] [19 <./obrazky/rezistance_odpor_20_delka_60_cm.p
-ng> <./obrazky/rezistance_odpor_5_delka_20_cm.png>] [20 <./obrazky/rezistance_o
-dpor_5_delka_40_cm.png> <./obrazky/rezistance_odpor_5_delka_60_cm.png>] [21 <./
-obrazky/rezistance_odpor_50_delka_20_cm.png> <./obrazky/rezistance_odpor_50_del
-ka_40_cm.png>] [22 <./obrazky/rezistance_odpor_5_nadoba_35_L.png> <./obrazky/re
-zistance_odpor_5_nadoba_54_L.png>] [23 <./obrazky/rezistance_odpor_20_nadoba_35
-_L.png> <./obrazky/rezistance_odpor_20_nadoba_54_L.png>] [24 <./obrazky/rezista
-nce_odpor_50_nadoba_35_L.png> <./obrazky/rezistance_odpor_50_nadoba_54_L.png>] 
+) [15 <./obrazky/n_reaktance_odpor_5_nadoba__L.png (PNG copy)> <./obrazky/n_rez
+istance_odpor_5_nadoba__L.png (PNG copy)> <./obrazky/rezistance_delka_20_cm_nad
+oba_35_L.png>] [16 <./obrazky/rezistance_delka_20_cm_nadoba_54_L.png> <./obrazk
+y/rezistance_delka_40_cm_naboba_54_L.png>]
+[17 <./obrazky/rezistance_delka_40_cm_nadoba_35_L.png> <./obrazky/rezistance_de
+lka_60_cm_nadoba_35_L.png>] [18 <./obrazky/rezistance_délka_60_cm_nádoba_54_L
+.png> <./obrazky/rezistance_odpor_20_delka_20_cm.png>] [19 <./obrazky/rezistanc
+e_odpor_20_delka_40_cm.png> <./obrazky/rezistance_odpor_20_delka_60_cm.png>]
+[20 <./obrazky/rezistance_odpor_5_delka_20_cm.png> <./obrazky/rezistance_odpor_
+5_delka_40_cm.png>] [21 <./obrazky/rezistance_odpor_5_delka_60_cm.png> <./obraz
+ky/rezistance_odpor_50_delka_20_cm.png>] [22 <./obrazky/rezistance_odpor_50_del
+ka_40_cm.png> <./obrazky/rezistance_odpor_5_nadoba_35_L.png>] [23 <./obrazky/re
+zistance_odpor_5_nadoba_54_L.png> <./obrazky/rezistance_odpor_20_nadoba_35_L.pn
+g>] [24 <./obrazky/rezistance_odpor_20_nadoba_54_L.png> <./obrazky/rezistance_o
+dpor_50_nadoba_35_L.png>] [25 <./obrazky/rezistance_odpor_50_nadoba_54_L.png>]
 (06_diskuse.tex
 Overfull \hbox (2.82669pt too wide) in paragraph at lines 6--7
 []\OT1/cmr/m/n/12 P^^Tr^^S^^Pstroj m^^Te^^Tr^^S^^P na 8 r^^Wuzn^^Sych frek-venc
@@ -1191,30 +1233,34 @@ Overfull \hbox (3.80585pt too wide) in paragraph at lines 11--12
 ^^S^^Pch, jak bylo ji^^Tz zm^^S^^Pn^^Ten^^Se v me-tod^^Sach. N^^Sasledn^^Te
  []
 
-) [25
+) [26
 
-] (07_zaver.tex) [26
+] (07_zaver.tex) [27
 
-] [27
+] [28
 
 
-] (08_prilohy.tex (tabulky19.tex)) [28
+] (08_prilohy.tex (tabulky19.tex)) [29
 
-] [29]
-[30] [31] (main_FoT.aux)
+] [30]
+[31] [32] (main_FoT.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'main_FoT.run.xml'.
 \openout1 = `main_FoT.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19621 strings out of 476036
- 399375 string characters out of 5780296
- 1910763 words of memory out of 5000000
- 40088 multiletter control sequences out of 15000+600000
+ 21056 strings out of 476036
+ 427956 string characters out of 5780296
+ 1912763 words of memory out of 5000000
+ 41515 multiletter control sequences out of 15000+600000
  528105 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,17n,81p,1539b,2727s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1229,9 +1275,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jiri/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jiri/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jiri/App
 Data/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main_FoT.pdf (32 pages, 931031 bytes).
+Output written on main_FoT.pdf (33 pages, 1010994 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 204 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
