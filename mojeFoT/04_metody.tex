@@ -1,4 +1,5 @@
- \label{kap-metody}
+\label{kap-metody}
+
 \subsection {Akustická oscilometrie}
 Invazivní metody měření respiračního systému se v současné době nevyužívají. Častěji se využívají metody neinvazivní jako např. spirometrie nebo akustická oscilometrie. Spirometrie je jedna z nejčastěji využívaných metod pro analýzu dýchacího systému, avšak k jejímu provedení je třeba spolupráce pacienta, který musí provádět hluboké nádechy a výdechy.
 Akustická oscilometrie (dále AOS) má oproti spirometrii výhodu v tom, že vyžaduje pouze minimální spolupráci pacienta ve smyslu klidného spontánního dýchání. 
@@ -28,11 +29,16 @@ Respirační impedance je součet rezistance a reaktance a je vypočítán z pom
 \end{equation}
 
 
-V tomto projektu byl použit přístroj tremoflo C-100, který měří impedanci na frekvencích \SI{5}{Hz}-\SI{37}{Hz}. Reaktance a rezistance jsou označovány $X$ a $R$ a v dolním indexu se nachází velikost frekvence na které byly měřeny, tj. např. pro frekvenci 5~Hz bude vypadat označení reaktance $X_5$ a rezistence $R_5$. 
+V tomto projektu byl použit přístroj tremoflo C-100, který měří impedanci na frekvencích \SI{5}{Hz}-\SI{37}{Hz}. Reaktance a rezistance jsou označovány $X$ a $R$ a v dolním indexu se nachází velikost frekvence na které byly měřeny, tj. např. pro frekvenci \SI{5}{Hz} bude vypadat označení reaktance $X_5$ a rezistence $R_5$. 
+
 
 Rezistance ($R_{rs}$) je veličina, která určuje centrální a periferní velikost odporu dýchacích cest. Velikost odporu dýchacích cest je zapříčiněna průchodností tlakové vlny vygenerované zařízením. Základní pevná frekvence pro oscilující tlaky je 5~Hz. Další frekvence se odvozují od tohoto základu odvozují. Do odvozených skupin frekvencí patří nízkofrekvenční signály (\SI{5}{Hz}-\SI{17}{Hz}), které se dostávají do obvodu centra plic, a vysokofrekvenční signály (\SI{19}{Hz}-\SI{37}{Hz}), jež pronikají pouze do proximálních dýchacích cest. 
 
 Reaktance je imaginární část impedance. Jedná se o měřítko tuhosti plic, obzvlášť při nižších frekvencích. Toto měření vyplývá z pohybu vzduchu  a zpětné elasticitě plicní tkáně. Vzhledem k elastickým vlastnostem se tedy plíce při nízkých frekvencích pasivně rozšiřují a dochází tak k malému zpětnému rázu. Se zvyšující se energii dochází k přechodu plic z pasivního roztažení na aktivní. Čím vyšší je frekvence, tím víc energie putuje do plicního systému. 
+
+Poddajnost je fyzikální veličina, která popisuje míru schopnosti tělesa měnit tvar působením vnější síly při pružné deformaci. \cite{Poddajnost}
+
+Inertance je fyzikální veličina, která funguje jako měřítko odporu proti změně rychlosti toku plynu do plic. \cite{Inertance}
 
 \subsection{Kalibrace zařízení tremoflo}\label{kalibrace}
 Přístroj, kterým bylo měření prováděno se nazývá TremoFlo C-100 (Thorasys Thoracic Medical Systems Inc., Kanada). Zařízení vyžaduje kalibraci před každým použitím. Kalibrace se provádí pomocí kalibrační zátěže, která je součástí balení. Kalibrační zátěž je označena konkrétním kódem, který se vloží do systému, následně  se nasadí na přenosný díl a spustí se kalibrace. Pro spolehlivé a přesné měření musí být přesnost 

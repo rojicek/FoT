@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.26)  9 JUL 2023 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.26)  9 JUL 2023 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,13 +1053,13 @@ Overfull \hbox (16.88678pt too wide) in paragraph at lines 32--43
 (03_cile_prace.tex) [10
 
 ] (04_metody.tex
-Overfull \hbox (3.8453pt too wide) in paragraph at lines 3--6
+Overfull \hbox (3.8453pt too wide) in paragraph at lines 4--7
 \OT1/cmr/m/n/12 Invazivn^^S^^P me-tody m^^Te^^Tren^^S^^P re-spira^^Tcn^^S^^Pho 
 syst^^Semu se v sou^^Tcasn^^Se dob^^Te ne-vyu^^Tz^^S^^Pvaj^^S^^P. []Cast^^Teji
  []
 
 
-Overfull \hbox (9.41707pt too wide) in paragraph at lines 7--9
+Overfull \hbox (9.41707pt too wide) in paragraph at lines 8--10
 []\OT1/cmr/m/n/12 AOS je m^^Te^^Trena po-moc^^S^^P p^^Tr^^S^^Pstroje tre-moflo 
 C-100. Pod-sta-tou funkce to-hoto p^^Tr^^S^^Pstroje
  []
@@ -1067,7 +1067,7 @@ C-100. Pod-sta-tou funkce to-hoto p^^Tr^^S^^Pstroje
 [11
 
 ]
-Overfull \hbox (15.91455pt too wide) in paragraph at lines 38--40
+Overfull \hbox (15.91455pt too wide) in paragraph at lines 44--46
 \OT1/cmr/m/n/12 ra-cic Me-di-cal Sys-tems Inc., Ka-nada). Za^^Tr^^S^^Pzen^^S^^P
  vy^^Tzaduje ka-lib-raci p^^Tred ka^^Tzd^^Sym pou^^Tzit^^S^^Pm.
  []
@@ -1076,7 +1076,7 @@ Overfull \hbox (15.91455pt too wide) in paragraph at lines 38--40
 <obrazky/schema.png, id=55, 704.6325pt x 536.75531pt>
 File: obrazky/schema.png Graphic file (type png)
 <use obrazky/schema.png>
-Package pdftex.def Info: obrazky/schema.png  used on input line 48.
+Package pdftex.def Info: obrazky/schema.png  used on input line 54.
 (pdftex.def)             Requested size: 426.79135pt x 325.11061pt.
  [13 <./obrazky/schema.png>]) [14] (05_vysledky.tex
 <obrazky/rezistance_dily_20_odpor_5.png, id=62, 421.575pt x 316.0608pt>
@@ -1384,18 +1384,27 @@ Overfull \hbox (2.82669pt too wide) in paragraph at lines 6--7
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main_FoT
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main_FoT.run.xml'.
 \openout1 = `main_FoT.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21317 strings out of 476036
- 437064 string characters out of 5780296
- 1912763 words of memory out of 5000000
- 41772 multiletter control sequences out of 15000+600000
+ 21323 strings out of 476036
+ 437429 string characters out of 5780296
+ 1910763 words of memory out of 5000000
+ 41778 multiletter control sequences out of 15000+600000
  528105 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,17n,81p,1539b,2727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,17n,81p,1539b,2732s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jiri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 200.pk><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb><C:/Users/jiri/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1407,7 +1416,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jiri/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jiri/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jiri/App
 Data/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main_FoT.pdf (30 pages, 1937231 bytes).
+Output written on main_FoT.pdf (30 pages, 1937655 bytes).
 PDF statistics:
  195 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

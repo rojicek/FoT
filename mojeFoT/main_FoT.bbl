@@ -127,6 +127,46 @@
       \verb https://www.mr-diagnostic.cz/tremoflo
       \endverb
     \endentry
+    \entry{Inertance}{misc}{}
+      \list{location}{1}{%
+        {San Francisco (CA)}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia: the free encyclopedia}
+      \field{title}{Inertance}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://en.m.wikipedia.org/wiki/Inertance
+      \endverb
+      \verb{url}
+      \verb https://en.m.wikipedia.org/wiki/Inertance
+      \endverb
+    \endentry
+    \entry{Poddajnost}{misc}{}
+      \list{location}{1}{%
+        {San Francisco (CA)}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia: the free encyclopedia}
+      \field{title}{Poddajnost}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://cs.m.wikipedia.org/wiki/Poddajnost
+      \endverb
+      \verb{url}
+      \verb https://cs.m.wikipedia.org/wiki/Poddajnost
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
