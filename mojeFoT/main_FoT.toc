@@ -1,21 +1,21 @@
 \babel@toc {czech}{}\relax 
-\contentsline {section}{Seznam symbolů zkratek}{6}{}%
-\contentsline {section}{\numberline {1}Úvod}{7}{}%
-\contentsline {section}{\numberline {2}Přehled současného stavu}{8}{}%
-\contentsline {section}{\numberline {3}Cíle práce}{10}{}%
-\contentsline {section}{\numberline {4}Metody}{11}{}%
-\contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{11}{}%
-\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení tremoflo}{12}{}%
-\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{13}{}%
-\contentsline {subsection}{\numberline {4.4}Průběh měření}{13}{}%
-\contentsline {section}{\numberline {5}Výsledky}{15}{}%
-\contentsline {subsection}{\numberline {5.1}Rezistance}{15}{}%
-\contentsline {subsection}{\numberline {5.2}Reaktance}{15}{}%
-\contentsline {section}{\numberline {6}Diskuse}{23}{}%
-\contentsline {subsection}{\numberline {6.1}v1}{23}{}%
-\contentsline {subsection}{\numberline {6.2}v2}{23}{}%
-\contentsline {section}{\numberline {7}Závěr}{24}{}%
-\contentsline {section}{Seznam použité literatury}{25}{}%
+\contentsline {section}{Seznam symbolů zkratek}{8}{}%
+\contentsline {section}{\numberline {1}Úvod}{9}{}%
+\contentsline {section}{\numberline {2}Přehled současného stavu}{10}{}%
+\contentsline {section}{\numberline {3}Cíle práce}{12}{}%
+\contentsline {section}{\numberline {4}Metody}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{13}{}%
+\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení tremoflo}{14}{}%
+\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{15}{}%
+\contentsline {subsection}{\numberline {4.4}Průběh měření}{15}{}%
+\contentsline {section}{\numberline {5}Výsledky}{17}{}%
+\contentsline {subsection}{\numberline {5.1}Rezistance}{17}{}%
+\contentsline {subsection}{\numberline {5.2}Reaktance}{17}{}%
+\contentsline {section}{\numberline {6}Diskuse}{25}{}%
+\contentsline {subsection}{\numberline {6.1}v1}{25}{}%
+\contentsline {subsection}{\numberline {6.2}v2}{25}{}%
+\contentsline {section}{\numberline {7}Závěr}{26}{}%
+\contentsline {section}{Seznam použité literatury}{27}{}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -32,4 +32,4 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {section}{\numberline {A}Výsledky měření}{26}{}%
+\contentsline {section}{\numberline {A}Výsledky měření}{28}{}%
