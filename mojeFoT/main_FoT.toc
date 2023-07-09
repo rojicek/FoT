@@ -8,14 +8,14 @@
 \contentsline {subsection}{\numberline {4.2}Kalibrace zařízení tremoflo}{12}{}%
 \contentsline {subsection}{\numberline {4.3}Sestavení modelu}{12}{}%
 \contentsline {subsection}{\numberline {4.4}Průběh měření}{13}{}%
-\contentsline {section}{\numberline {5}Výsledky}{14}{}%
-\contentsline {subsection}{\numberline {5.1}Rezistance}{14}{}%
-\contentsline {subsection}{\numberline {5.2}Reaktance}{14}{}%
-\contentsline {section}{\numberline {6}Diskuse}{22}{}%
-\contentsline {subsection}{\numberline {6.1}v1}{22}{}%
-\contentsline {subsection}{\numberline {6.2}v2}{22}{}%
-\contentsline {section}{\numberline {7}Závěr}{23}{}%
-\contentsline {section}{Seznam použité literatury}{24}{}%
+\contentsline {section}{\numberline {5}Výsledky}{15}{}%
+\contentsline {subsection}{\numberline {5.1}Rezistance}{15}{}%
+\contentsline {subsection}{\numberline {5.2}Reaktance}{15}{}%
+\contentsline {section}{\numberline {6}Diskuse}{23}{}%
+\contentsline {subsection}{\numberline {6.1}v1}{23}{}%
+\contentsline {subsection}{\numberline {6.2}v2}{23}{}%
+\contentsline {section}{\numberline {7}Závěr}{24}{}%
+\contentsline {section}{Seznam použité literatury}{25}{}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -28,4 +28,4 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {section}{\numberline {A}Výsledky měření}{25}{}%
+\contentsline {section}{\numberline {A}Výsledky měření}{26}{}%
