@@ -85,7 +85,8 @@ for i_dily=1:length(dily_arr)
        if min(lx) < max(lx) 
            plot(mdl_r, "Marker", "none")
            xlim([minx-5 maxx+5]);
-           ylim([miny_r-0.2 maxy_r+0.2]);
+           %ylim([miny_r-0.2 maxy_r+0.2]);
+           ylim([2 4]);
        end 
        
        if lr_rb>0
@@ -111,7 +112,8 @@ for i_dily=1:length(dily_arr)
        if min(lx) < max(lx) 
            plot(mdl_x, "Marker", "none")
            xlim([minx-5 maxx+5]);
-           ylim([miny_x-0.2 maxy_x+0.2]);
+           %ylim([miny_x-0.2 maxy_x+0.2]);
+           ylim([-0.4 0.6]);
        end
        
        if lr_xb>0
@@ -217,7 +219,8 @@ for i_dily=1:length(dily_arr)
        if (min(lx) < max(lx)) && ~isempty(minx) && ~isempty(maxx )&& ~isempty(miny_r) && ~isempty(maxy_r)
            plot(mdl_r, "Marker", "none")
            xlim([minx-5 maxx+5]);
-           ylim([miny_r-0.2 maxy_r+0.2]);
+           %ylim([miny_r-0.2 maxy_r+0.2]);
+           ylim([2 4]);
        else
            print ("PROBLEM!");
        end 
@@ -244,7 +247,8 @@ for i_dily=1:length(dily_arr)
        if min(lx) < max(lx) && ~isempty(lx) && ~isempty(minx) && ~isempty(maxx )&& ~isempty(miny_x) && ~isempty(maxy_x)
            plot(mdl_x, "Marker", "none")
            xlim([minx-5 maxx+5]);
-           ylim([miny_x-0.2 maxy_x+0.2]);
+           %ylim([miny_x-0.2 maxy_x+0.2]);
+           ylim([-0.4 0.6]);
        else
            print ("PROBLEM!");
        end
@@ -340,7 +344,8 @@ for i_nadoba=1:length(nadoba_arr)
        if min(lx) < max(lx)  && ~isempty(lx) && ~isempty(minx) && ~isempty(maxx )&& ~isempty(miny_r) && ~isempty(maxy_r)
            plot(mdl_r, "Marker", "none")
            xlim([minx-5 maxx+5]);
-           ylim([miny_r-0.2 maxy_r+0.2]);
+           %ylim([miny_r-0.2 maxy_r+0.2]);
+           ylim([2 4]);
        else
            print ("PROBLEM! r - nadoba");
        end 
@@ -367,7 +372,8 @@ for i_nadoba=1:length(nadoba_arr)
        if min(lx) < max(lx) && ~isempty(lx) && ~isempty(minx) && ~isempty(maxx )&& ~isempty(miny_x) && ~isempty(maxy_x)
            plot(mdl_x, "Marker", "none")
            xlim([minx-5 maxx+5]);
-           ylim([miny_x-0.2 maxy_x+0.2]);
+           %ylim([miny_x-0.2 maxy_x+0.2]);
+           ylim([-0.4 0.6]);
        else
            print ("PROBLEM! x - nadoba");
        end
