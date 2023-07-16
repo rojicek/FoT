@@ -2402,6 +2402,7 @@
     <bcf:citekey order="18" intorder="1">Vlcek2018</bcf:citekey>
     <bcf:citekey order="19" intorder="1">Poddajnost</bcf:citekey>
     <bcf:citekey order="20" intorder="1">Inertance</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Vlcek2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
