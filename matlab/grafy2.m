@@ -7,6 +7,12 @@ dily_arr = [20, 40, 60];
 odpor_arr = [5,20,50];
 nadoba_arr = [35, 54];
 
+y_r_lim = [2 4];
+y_x_lim = [-0.4 0.6];
+
+x_font_size = 13;
+y_font_size = 13;
+t_font_size = 13;
 
 
 barvy = ["#0072BD", "#A2142F", "#77AC30"];
@@ -86,7 +92,7 @@ for i_dily=1:length(dily_arr)
            plot(mdl_r, "Marker", "none")
            xlim([minx-5 maxx+5]);
            %ylim([miny_r-0.2 maxy_r+0.2]);
-           ylim([2 4]);
+           ylim(y_r_lim);
        end 
        
        if lr_rb>0
@@ -102,9 +108,9 @@ for i_dily=1:length(dily_arr)
      
        
        legend(legenda1_r);
-       xlabel("Nádoba [L]");
-       ylabel("R5 [cm H2O s/L]");
-       title (strcat("Rezistance: délka trubice ",string(dil), " cm, Rp ", string(odpor) ));
+       xlabel("Nádoba [L]", "FontSize", x_font_size);
+       ylabel("R5 [cm H2O s/L]", "FontSize", y_font_size);
+       title (strcat("Rezistance: délka trubice ",string(dil), " cm, Rp ", string(odpor) ), "FontSize", t_font_size);
        saveas(gcf,strcat("pic\", "rezistance_dily_", string(dil), "_odpor_", string(odpor), ".png"));
        close;
        
@@ -113,7 +119,7 @@ for i_dily=1:length(dily_arr)
            plot(mdl_x, "Marker", "none")
            xlim([minx-5 maxx+5]);
            %ylim([miny_x-0.2 maxy_x+0.2]);
-           ylim([-0.4 0.6]);
+           ylim(y_x_lim);
        end
        
        if lr_xb>0
@@ -126,9 +132,9 @@ for i_dily=1:length(dily_arr)
            strcat('Lineární regrese y=', string(round(lr_xa, 2, "significant")), "x",znaminko, string(round(lr_xb, 2, "significant"))), ...
            "95% konfidenční interval"];
        legend(legenda_x);
-       xlabel("Nádoba [L]");
-       ylabel("X5 [cm H2O s/L]");
-       title (strcat("Reaktance: délka trubice ", string(dil), " cm, Rp ", string(odpor) ));
+       xlabel("Nádoba [L]", "FontSize", x_font_size);
+       ylabel("X5 [cm H2O s/L]", "FontSize", y_font_size);
+       title (strcat("Reaktance: délka trubice ", string(dil), " cm, Rp ", string(odpor) ), "FontSize", t_font_size);
        saveas(gcf,strcat("pic\", "reaktance_dily_", string(dil), "_odpor_", string(odpor), ".png"));
        close;
     end 
@@ -220,7 +226,7 @@ for i_dily=1:length(dily_arr)
            plot(mdl_r, "Marker", "none")
            xlim([minx-5 maxx+5]);
            %ylim([miny_r-0.2 maxy_r+0.2]);
-           ylim([2 4]);
+           ylim(y_r_lim);
        else
            print ("PROBLEM!");
        end 
@@ -237,9 +243,9 @@ for i_dily=1:length(dily_arr)
      
        
        legend(legenda1_r);
-       xlabel("Rp");
-       ylabel("R5 [cm H2O s/L]");
-       title (strcat("Rezistance: délka trubice ",string(dil), " cm, nádoba ", string(nadoba), " L" ));
+       xlabel("Rp", "FontSize", x_font_size);
+       ylabel("R5 [cm H2O s/L]", "FontSize", y_font_size);
+       title (strcat("Rezistance: délka trubice ",string(dil), " cm, nádoba ", string(nadoba), " L" ), "FontSize", t_font_size);
        saveas(gcf,strcat("pic\", "rezistance_dily_", string(dil), "_nadoba_", string(nadoba), ".png"));
        close;
        
@@ -248,7 +254,7 @@ for i_dily=1:length(dily_arr)
            plot(mdl_x, "Marker", "none")
            xlim([minx-5 maxx+5]);
            %ylim([miny_x-0.2 maxy_x+0.2]);
-           ylim([-0.4 0.6]);
+           ylim(y_x_lim);
        else
            print ("PROBLEM!");
        end
@@ -262,9 +268,9 @@ for i_dily=1:length(dily_arr)
            strcat('Lineární regrese y=', string(round(lr_xa, 2, "significant")), "x", znaminko, string(round(lr_xb, 2, "significant"))), ...
            "95% konfidenční interval"];
        legend(legenda_x);
-       xlabel("Rp");
-       ylabel("X5 [cm H2O s/L]");
-       title (strcat("Reaktance: délka trubice ",string(dil), " cm, nádoba ", string(nadoba), " L" ));
+       xlabel("Rp", "FontSize", x_font_size);
+       ylabel("X5 [cm H2O s/L]", "FontSize", y_font_size);
+       title (strcat("Reaktance: délka trubice ",string(dil), " cm, nádoba ", string(nadoba), " L" ), "FontSize", t_font_size);
        saveas(gcf,strcat("pic\", "reaktance_dily_", string(dil), "_nadoba_", string(nadoba), ".png"));
        close;
     end 
@@ -345,7 +351,7 @@ for i_nadoba=1:length(nadoba_arr)
            plot(mdl_r, "Marker", "none")
            xlim([minx-5 maxx+5]);
            %ylim([miny_r-0.2 maxy_r+0.2]);
-           ylim([2 4]);
+           ylim(y_r_lim);
        else
            print ("PROBLEM! r - nadoba");
        end 
@@ -362,9 +368,9 @@ for i_nadoba=1:length(nadoba_arr)
      
        
        legend(legenda1_r);
-       xlabel("Délka trubice [cm]");
-       ylabel("R5 [cm H2O s/L]");
-       title (strcat("Rezistance: Rp ",string(odpor), ", nádoba ", string(nadoba), " L" ));
+       xlabel("Délka trubice [cm]", "FontSize", x_font_size);
+       ylabel("R5 [cm H2O s/L]", "FontSize", y_font_size);
+       title (strcat("Rezistance: Rp ",string(odpor), ", nádoba ", string(nadoba), " L" ), "FontSize", t_font_size);
        saveas(gcf,strcat("pic\", "rezistance_odpor_", string(odpor), "_nadoba_", string(nadoba), ".png"));
        close;
        
@@ -373,7 +379,7 @@ for i_nadoba=1:length(nadoba_arr)
            plot(mdl_x, "Marker", "none")
            xlim([minx-5 maxx+5]);
            %ylim([miny_x-0.2 maxy_x+0.2]);
-           ylim([-0.4 0.6]);
+           ylim(y_x_lim);
        else
            print ("PROBLEM! x - nadoba");
        end
@@ -386,9 +392,9 @@ for i_nadoba=1:length(nadoba_arr)
            strcat('Lineární regrese y=', string(round(lr_xa, 2, "significant")), "x", znaminko, string(round(lr_xb, 2, "significant"))), ...
            "95% konfidenční interval"];
        legend(legenda_x);
-      xlabel("Délka trubice [cm]");
-       ylabel("X5 [cm H2O s/L]");
-       title (strcat("Reaktance: Rp ",string(odpor), ", nádoba ", string(nadoba), " L" ));
+      xlabel("Délka trubice [cm]", "FontSize", x_font_size);
+       ylabel("X5 [cm H2O s/L]", "FontSize", y_font_size);
+       title (strcat("Reaktance: Rp ",string(odpor), ", nádoba ", string(nadoba), " L" ), "FontSize", t_font_size);
        saveas(gcf,strcat("pic\", "reaktance_odpor_", string(odpor), "_nadoba_", string(nadoba), ".png"));
        close;
     end 
