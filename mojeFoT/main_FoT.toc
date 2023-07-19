@@ -4,18 +4,21 @@
 \contentsline {section}{Seznam obrázků}{7}{}%
 \contentsline {section}{\numberline {1}Úvod}{9}{}%
 \contentsline {section}{\numberline {2}Přehled současného stavu}{10}{}%
-\contentsline {section}{\numberline {3}Cíle práce}{12}{}%
-\contentsline {section}{\numberline {4}Metody}{13}{}%
-\contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{13}{}%
-\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení tremoflo}{14}{}%
-\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{14}{}%
-\contentsline {subsection}{\numberline {4.4}Průběh měření}{17}{}%
-\contentsline {section}{\numberline {5}Výsledky}{18}{}%
-\contentsline {subsection}{\numberline {5.1}Rezistance}{18}{}%
-\contentsline {subsection}{\numberline {5.2}Reaktance}{18}{}%
-\contentsline {section}{\numberline {6}Diskuse}{26}{}%
-\contentsline {section}{\numberline {7}Závěr}{27}{}%
-\contentsline {section}{Seznam použité literatury}{28}{}%
+\contentsline {subsection}{\numberline {2.1}Spirometrie}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Metoda nucených oscilací}{11}{}%
+\contentsline {subsection}{\numberline {2.3}Přístroj Tremoflo C-100}{11}{}%
+\contentsline {section}{\numberline {3}Cíle práce}{13}{}%
+\contentsline {section}{\numberline {4}Metody}{14}{}%
+\contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení Tremoflo}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{15}{}%
+\contentsline {subsection}{\numberline {4.4}Průběh měření}{18}{}%
+\contentsline {section}{\numberline {5}Výsledky}{19}{}%
+\contentsline {subsection}{\numberline {5.1}Rezistance}{19}{}%
+\contentsline {subsection}{\numberline {5.2}Reaktance}{19}{}%
+\contentsline {section}{\numberline {6}Diskuse}{27}{}%
+\contentsline {section}{\numberline {7}Závěr}{28}{}%
+\contentsline {section}{Seznam použité literatury}{29}{}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -32,4 +35,8 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {section}{\numberline {A}Výsledky měření}{29}{}%
+\babel@toc {czech}{}\relax 
+\babel@toc {czech}{}\relax 
+\babel@toc {czech}{}\relax 
+\babel@toc {czech}{}\relax 
+\contentsline {section}{\numberline {A}Výsledky měření}{30}{}%

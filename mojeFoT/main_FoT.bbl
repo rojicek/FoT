@@ -19,6 +19,21 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{muni}{misc}{}
+      \list{location}{1}{%
+        {Masarykova univerzita}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Funkce respiračního systému}
+      \verb{urlraw}
+      \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
+      \endverb
+    \endentry
     \entry{Vlcek2018}{thesis}{}
       \name{author}{1}{}{%
         {{hash=94bbefa9b50f735660754d36cff143c3}{%
@@ -39,28 +54,13 @@
       \strng{authorbibnamehash}{94bbefa9b50f735660754d36cff143c3}
       \strng{authornamehash}{94bbefa9b50f735660754d36cff143c3}
       \strng{authorfullhash}{94bbefa9b50f735660754d36cff143c3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Akustická oscilometrie}
       \field{type}{Bakalářská práce}
       \field{year}{2018}
-    \endentry
-    \entry{muni}{misc}{}
-      \list{location}{1}{%
-        {Masarykova univerzita}%
-      }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labeltitlesource}{title}
-      \field{title}{Funkce respiračního systému}
-      \verb{urlraw}
-      \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
-      \endverb
     \endentry
     \entry{MEFANET}{misc}{}
       \field{sortinit}{7}
@@ -101,6 +101,26 @@
       \verb https://www.wikiskripta.eu/w/Spirometrie,_plicn%5C%C3%5C%AD_objemy
       \endverb
     \endentry
+    \entry{spirowiki}{misc}{}
+      \list{location}{1}{%
+        {XXXX}%
+      }
+      \list{publisher}{1}{%
+        {XXXX}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikiiskripta}
+      \field{title}{Spirometrie}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.wikiskripta.eu/w/Spirometrie
+      \endverb
+      \verb{url}
+      \verb https://www.wikiskripta.eu/w/Spirometrie
+      \endverb
+    \endentry
     \entry{Oostveen}{misc}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -127,24 +147,16 @@
       \verb https://www.mr-diagnostic.cz/tremoflo
       \endverb
     \endentry
-    \entry{Inertance}{misc}{}
-      \list{location}{1}{%
-        {San Francisco (CA)}%
-      }
-      \list{publisher}{1}{%
-        {Wikimedia Foundation}%
-      }
+    \entry{wwwpics}{misc}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Wikipedia: the free encyclopedia}
-      \field{title}{Inertance}
-      \field{year}{2001}
+      \field{title}{MR: Diagnostics}
       \verb{urlraw}
-      \verb https://en.m.wikipedia.org/wiki/Inertance
+      \verb https://www.mr-diagnostic.cz/tremoflo
       \endverb
       \verb{url}
-      \verb https://en.m.wikipedia.org/wiki/Inertance
+      \verb https://www.mr-diagnostic.cz/tremoflo
       \endverb
     \endentry
     \entry{Poddajnost}{misc}{}
@@ -154,8 +166,8 @@
       \list{publisher}{1}{%
         {Wikimedia Foundation}%
       }
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wikipedia: the free encyclopedia}
       \field{title}{Poddajnost}
@@ -165,6 +177,26 @@
       \endverb
       \verb{url}
       \verb https://cs.m.wikipedia.org/wiki/Poddajnost
+      \endverb
+    \endentry
+    \entry{Inertance}{misc}{}
+      \list{location}{1}{%
+        {San Francisco (CA)}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia: the free encyclopedia}
+      \field{title}{Inertance}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://en.m.wikipedia.org/wiki/Inertance
+      \endverb
+      \verb{url}
+      \verb https://en.m.wikipedia.org/wiki/Inertance
       \endverb
     \endentry
   \enddatalist
