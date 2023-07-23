@@ -23,8 +23,8 @@
       \list{location}{1}{%
         {Masarykova univerzita}%
       }
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{title}{Funkce respiračního systému}
       \verb{urlraw}
@@ -33,6 +33,40 @@
       \verb{url}
       \verb https://www.med.muni.cz/patfyz/pdf/new/Dychaci_systemPP2005.pdf
       \endverb
+    \endentry
+    \entry{StarczewskaDymek2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ec893cd29006400863f1907b51cce35a}{%
+           family={Starczewska-Dymek},
+           familyi={S\bibinithyphendelim D\bibinitperiod},
+           given={Liwia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8fdf9538ed421f455b05c9d98471fae2}{%
+           family={Bożek},
+           familyi={B\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bb40806314bfb29595970a32d9efa383}{%
+           family={Dymek},
+           familyi={D\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b08109f884af488ab1ff7aed2cbd46f3}
+      \strng{fullhash}{b08109f884af488ab1ff7aed2cbd46f3}
+      \strng{bibnamehash}{b08109f884af488ab1ff7aed2cbd46f3}
+      \strng{authorbibnamehash}{b08109f884af488ab1ff7aed2cbd46f3}
+      \strng{authornamehash}{b08109f884af488ab1ff7aed2cbd46f3}
+      \strng{authorfullhash}{b08109f884af488ab1ff7aed2cbd46f3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Via Medica}
+      \field{number}{87}
+      \field{title}{Application of the forced oscillation technique in diagnosing and monitoring of asthma in preschool children}
+      \field{pages}{10}
+      \range{pages}{1}
     \endentry
     \entry{Vlcek2018}{thesis}{}
       \name{author}{1}{}{%
@@ -54,17 +88,164 @@
       \strng{authorbibnamehash}{94bbefa9b50f735660754d36cff143c3}
       \strng{authornamehash}{94bbefa9b50f735660754d36cff143c3}
       \strng{authorfullhash}{94bbefa9b50f735660754d36cff143c3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Akustická oscilometrie}
       \field{type}{Bakalářská práce}
       \field{year}{2018}
     \endentry
+    \entry{Bhattarai27August2020}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ec09cf906a6a65c2613dadb7aa0880d7}{%
+           family={Bhattarai},
+           familyi={B\bibinitperiod},
+           given={Prem},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5989faab9323b87eba26b48446d8993d}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=15d8a52a609fe5bede7c398287cfada9}{%
+           family={Chia},
+           familyi={C\bibinitperiod},
+           given={Collin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=52e7a9c882c25ef5f6bc051acabae6ab}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Heinrich\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3ec8dea84274ea9f73b75a9963fc2eaf}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Sally},
+           giveni={S\bibinitperiod}}}%
+        {{hash=114adf543e0cd95c194916922151fdeb}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=32a4abd0bf1e0a053835da53c01d0ee0}{%
+           family={Sohal},
+           familyi={S\bibinitperiod},
+           given={Sukhwinder\bibnamedelima Singh},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2774c879adeef06bf6d792ac2c118acb}
+      \strng{fullhash}{2774c879adeef06bf6d792ac2c118acb}
+      \strng{bibnamehash}{2774c879adeef06bf6d792ac2c118acb}
+      \strng{authorbibnamehash}{2774c879adeef06bf6d792ac2c118acb}
+      \strng{authornamehash}{2774c879adeef06bf6d792ac2c118acb}
+      \strng{authorfullhash}{2774c879adeef06bf6d792ac2c118acb}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Clin. Med.}
+      \field{number}{9}
+      \field{title}{Clinical Application of Forced Oscillation Technique (FOT) in Early Detection of Airway Changes in Smokers}
+      \field{volume}{2020}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/jcm9092778
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2077-0383/9/9/2778
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2077-0383/9/9/2778
+      \endverb
+    \endentry
+    \entry{OliveiraRibeiro2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=08fb2965bf8907711cc9b786b6637c28}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Caroline\bibnamedelima Oliveira},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=5308c496703810c4950730d8066d584e}{%
+           family={Lopes},
+           familyi={L\bibinitperiod},
+           given={Alvaro\bibnamedelimb Camilo\bibnamedelimb Dias\bibnamedelimb Faria\bibnamedelimb Agnaldo\bibnamedelima José},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dd2a1eb943cd23ace7119b6642e394f3}{%
+           family={Melo},
+           familyi={M\bibinitperiod},
+           given={Pedro\bibnamedelima Lopes},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=00149eb15434be65692720300b72e65a}{%
+           family={Lopes},
+           familyi={L\bibinitperiod},
+           given={Agnaldo\bibnamedelima José},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4806fc6545d5b0e9a5ce88f240f85b51}
+      \strng{fullhash}{4806fc6545d5b0e9a5ce88f240f85b51}
+      \strng{bibnamehash}{4806fc6545d5b0e9a5ce88f240f85b51}
+      \strng{authorbibnamehash}{4806fc6545d5b0e9a5ce88f240f85b51}
+      \strng{authornamehash}{4806fc6545d5b0e9a5ce88f240f85b51}
+      \strng{authorfullhash}{4806fc6545d5b0e9a5ce88f240f85b51}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of COPD}
+      \field{subtitle}{contribution of fractional-order modeling}
+      \field{title}{Forced oscillation technique for early detection of the effects of smoking and COPD}
+      \field{volume}{13}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188181/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188181/
+      \endverb
+    \endentry
+    \entry{Cap2000}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=2e0bf355666636cb492bf3a5a3ec193b}{%
+           family={Čáp},
+           familyi={Č\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bebe86b776da81c2bb317a88f48e40fb}{%
+           family={Bičíková},
+           familyi={B\bibinitperiod},
+           given={Kateřina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f0388b27d0678b4d38b1900d8956093b}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Tomáš},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{97f703fb2e0609986532ff554ba65366}
+      \strng{fullhash}{97f703fb2e0609986532ff554ba65366}
+      \strng{bibnamehash}{97f703fb2e0609986532ff554ba65366}
+      \strng{authorbibnamehash}{97f703fb2e0609986532ff554ba65366}
+      \strng{authornamehash}{97f703fb2e0609986532ff554ba65366}
+      \strng{authorfullhash}{97f703fb2e0609986532ff554ba65366}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{nová metoda měření plicních funkcí}
+      \field{title}{Impulzní oscilometrie}
+      \verb{urlraw}
+      \verb https://www.medvik.cz/bmc/link.do?id=bmc01001763
+      \endverb
+      \verb{url}
+      \verb https://www.medvik.cz/bmc/link.do?id=bmc01001763
+      \endverb
+    \endentry
     \entry{MEFANET}{misc}{}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{subtitle}{Spirometrie}
       \field{title}{MEFANET, síť lékařských fakult ČR a SR}
@@ -76,8 +257,8 @@
       \endverb
     \endentry
     \entry{Medicon}{misc}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{subtitle}{Spirometrie | Polikliniky MEDICON}
       \field{title}{Spirometrie: Polikliniky Medicon}
@@ -89,8 +270,8 @@
       \endverb
     \endentry
     \entry{lekfak}{misc}{}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{subtitle}{Spirometrie, Plicní Objemy}
       \field{title}{Síť lékařských fakult ČR a SR.}
@@ -102,23 +283,71 @@
       \endverb
     \endentry
     \entry{spirowiki}{misc}{}
-      \list{location}{1}{%
-        {XXXX}%
-      }
-      \list{publisher}{1}{%
-        {XXXX}%
-      }
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Wikiiskripta}
+      \field{journaltitle}{Wikiskripta}
       \field{title}{Spirometrie}
-      \field{year}{2023}
+      \field{year}{2011}
       \verb{urlraw}
       \verb https://www.wikiskripta.eu/w/Spirometrie
       \endverb
       \verb{url}
       \verb https://www.wikiskripta.eu/w/Spirometrie
+      \endverb
+    \endentry
+    \entry{Busschots2022}{article}{}
+      \name{author}{5}{}{%
+        {{hash=23e8459582183fc0cd6deae72157f06d}{%
+           family={Busschots},
+           familyi={B\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5edc85920f9c0d05d24c4bd99ee01695}{%
+           family={Pattyn},
+           familyi={P\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fd5a7f18f97f4a217c75202736f22418}{%
+           family={Dries},
+           familyi={D\bibinitperiod},
+           given={Peumans},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2fdf41e6e1b2535f8f3d6ba3a6917010}{%
+           family={Yves},
+           familyi={Y\bibinitperiod},
+           given={Rolain},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3141092199c62b743f7ee0bf562a81fa}{%
+           family={Gerd},
+           familyi={G\bibinitperiod},
+           given={Vandersteen},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{11ad29dec4165c1b1fb1969894eb6b80}
+      \strng{fullhash}{11ad29dec4165c1b1fb1969894eb6b80}
+      \strng{bibnamehash}{11ad29dec4165c1b1fb1969894eb6b80}
+      \strng{authorbibnamehash}{11ad29dec4165c1b1fb1969894eb6b80}
+      \strng{authornamehash}{11ad29dec4165c1b1fb1969894eb6b80}
+      \strng{authorfullhash}{11ad29dec4165c1b1fb1969894eb6b80}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE: Transactions on Instrumentation and measurement}
+      \field{number}{71}
+      \field{subtitle}{10.1109/TIM.2021.3139664}
+      \field{title}{Forced Oscillation Technique Measurement Apparatus Using Fan-Speaker Hybrid}
+      \field{pages}{10}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TIM.2021.3139664
+      \endverb
+      \verb{urlraw}
+      \verb https://researchportal.vub.be/en/publications/forced-oscillation-technique-measurement-apparatus-using-fan-spea
+      \endverb
+      \verb{url}
+      \verb https://researchportal.vub.be/en/publications/forced-oscillation-technique-measurement-apparatus-using-fan-spea
       \endverb
     \endentry
     \entry{Oostveen}{misc}{}
@@ -135,8 +364,8 @@
       \endverb
     \endentry
     \entry{Nasinec}{misc}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{subtitle}{Tremoflo C-100 , Oscilometrie (AOS). tremoFlo C-100, oscilometrie (AOS) / MR Diagnostic}
       \field{title}{Vit Nasinec, V.}
@@ -148,8 +377,8 @@
       \endverb
     \endentry
     \entry{wwwpics}{misc}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{MR: Diagnostics}
       \verb{urlraw}
@@ -166,8 +395,8 @@
       \list{publisher}{1}{%
         {Wikimedia Foundation}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wikipedia: the free encyclopedia}
       \field{title}{Poddajnost}
@@ -186,8 +415,8 @@
       \list{publisher}{1}{%
         {Wikimedia Foundation}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Wikipedia: the free encyclopedia}
       \field{title}{Inertance}
