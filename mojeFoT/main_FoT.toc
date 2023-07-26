@@ -5,20 +5,20 @@
 \contentsline {section}{\numberline {1}Úvod}{9}{}%
 \contentsline {section}{\numberline {2}Přehled současného stavu}{10}{}%
 \contentsline {subsection}{\numberline {2.1}Spirometrie}{10}{}%
-\contentsline {subsection}{\numberline {2.2}Metoda nucených oscilací}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Metoda nucených oscilací}{11}{}%
 \contentsline {subsection}{\numberline {2.3}Přístroj Tremoflo C-100}{11}{}%
 \contentsline {section}{\numberline {3}Cíle práce}{14}{}%
 \contentsline {section}{\numberline {4}Metody}{15}{}%
 \contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{15}{}%
-\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení Tremoflo}{16}{}%
+\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení Tremoflo C-100}{16}{}%
 \contentsline {subsection}{\numberline {4.3}Sestavení modelu}{16}{}%
-\contentsline {subsection}{\numberline {4.4}Průběh měření}{19}{}%
-\contentsline {section}{\numberline {5}Výsledky}{20}{}%
-\contentsline {subsection}{\numberline {5.1}Rezistance}{20}{}%
-\contentsline {subsection}{\numberline {5.2}Reaktance}{20}{}%
-\contentsline {section}{\numberline {6}Diskuse}{28}{}%
-\contentsline {section}{\numberline {7}Závěr}{29}{}%
-\contentsline {section}{Seznam použité literatury}{30}{}%
+\contentsline {subsection}{\numberline {4.4}Průběh měření}{20}{}%
+\contentsline {section}{\numberline {5}Výsledky}{21}{}%
+\contentsline {subsection}{\numberline {5.1}Rezistance}{21}{}%
+\contentsline {subsection}{\numberline {5.2}Reaktance}{21}{}%
+\contentsline {section}{\numberline {6}Diskuse}{29}{}%
+\contentsline {section}{\numberline {7}Závěr}{30}{}%
+\contentsline {section}{Seznam použité literatury}{31}{}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -51,4 +51,6 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {section}{\numberline {A}Výsledky měření}{32}{}%
+\babel@toc {czech}{}\relax 
+\babel@toc {czech}{}\relax 
+\contentsline {section}{\numberline {A}Výsledky měření}{33}{}%

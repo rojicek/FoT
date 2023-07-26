@@ -388,6 +388,69 @@
       \verb https://www.mr-diagnostic.cz/tremoflo
       \endverb
     \endentry
+    \entry{Alamer2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3978ec2b325711a9438971273d942683}{%
+           family={Alamer},
+           familyi={A\bibinitperiod},
+           given={Marwa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3978ec2b325711a9438971273d942683}
+      \strng{fullhash}{3978ec2b325711a9438971273d942683}
+      \strng{bibnamehash}{3978ec2b325711a9438971273d942683}
+      \strng{authorbibnamehash}{3978ec2b325711a9438971273d942683}
+      \strng{authornamehash}{3978ec2b325711a9438971273d942683}
+      \strng{authorfullhash}{3978ec2b325711a9438971273d942683}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{[Diplomová práce, Dalhousie University, Halifax, Nova Scotia, Canada]}
+      \field{number}{93}
+      \field{title}{Repeatability of Respiratory Impedance and Bronchodilatory Response in Asthmatic Children}
+    \endentry
+    \entry{Clement1987}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b9ad742be475e490663762c287a736c9}{%
+           family={Clement},
+           familyi={C\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=16f8cce241d3dbfa4162426d09afa733}{%
+           family={Dumoulin},
+           familyi={D\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6ce57f697a8987df34217ebeead2089e}{%
+           family={Gubbelmans},
+           familyi={G\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a5984de28b073d45b7ad603022facf84}{%
+           family={Hendriks},
+           familyi={H\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{205362cc316c496393b8950b21ac8052}
+      \strng{fullhash}{205362cc316c496393b8950b21ac8052}
+      \strng{bibnamehash}{205362cc316c496393b8950b21ac8052}
+      \strng{authorbibnamehash}{205362cc316c496393b8950b21ac8052}
+      \strng{authornamehash}{205362cc316c496393b8950b21ac8052}
+      \strng{authorfullhash}{205362cc316c496393b8950b21ac8052}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bull Eur Physiopathol Respir.}
+      \field{number}{23}
+      \field{title}{Reference values of total respiratory resistance and reactance between 4 and 26 Hz in children and adolescents aged 4 –20 years}
+      \field{volume}{1987}
+      \field{year}{1987}
+      \field{pages}{441\bibrangedash 448}
+      \range{pages}{8}
+    \endentry
     \entry{Poddajnost}{misc}{}
       \list{location}{1}{%
         {San Francisco (CA)}%
