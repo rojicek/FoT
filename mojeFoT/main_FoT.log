@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  26 JUL 2023 22:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  31 JUL 2023 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,7 +1119,7 @@ syst^^Semu se v sou^^Tcasn^^Se dob^^Te ne-vyu^^Tz^^S^^Pvaj^^S^^P. []Cast^^Teji
 [15
 
 ]
-Overfull \hbox (5.47021pt too wide) in paragraph at lines 41--44
+Overfull \hbox (5.47021pt too wide) in paragraph at lines 41--43
 \OT1/cmr/m/n/12 cic Me-di-cal Sys-tems Inc., Ka-nada). Za^^Tr^^S^^Pzen^^S^^P vy
 ^^Tzaduje ka-lib-raci p^^Tred ka^^Tzd^^Sym pou^^Tzit^^S^^Pm.
  []
@@ -1463,7 +1463,7 @@ in-ter-naci a pa-ra-bo-lick^^Sych re-zistor^^Wu.
 ) [30
 
 ]
-Overfull \hbox (1.11775pt too wide) in paragraph at lines 254--254
+Overfull \hbox (1.11775pt too wide) in paragraph at lines 265--265
 []\OT1/cmr/m/n/12 VL[]CEK, Tom^^Sa^^Ts. \OT1/cmr/m/it/12 Akus-tick^^Sa os-ci-lo
 -me-t-rie\OT1/cmr/m/n/12 . Kladno, 2018. Ba-kal^^Sa^^Trsk^^Sa pr^^Sace. []Cesk^
 ^Se
@@ -1504,7 +1504,7 @@ ers/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 s/cm/cmti12.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw
 /helvetic/uhvb8a.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/helvetic/uhvr8a.pfb>
-Output written on main_FoT.pdf (37 pages, 3266057 bytes).
+Output written on main_FoT.pdf (37 pages, 3266577 bytes).
 PDF statistics:
  233 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
