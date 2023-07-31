@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  31 JUL 2023 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.30)  31 JUL 2023 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,17 +988,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--138
 {C:/Users/e675237/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/e6
 75237/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./obrazky/sym
 bol_cvut_konturova_verze.pdf>]
-Overfull \hbox (35.56094pt too wide) in paragraph at lines 159--160
+<obrazky/zadani.pdf, id=10, 597.51233pt x 845.0471pt>
+File: obrazky/zadani.pdf Graphic file (type pdf)
+<use obrazky/zadani.pdf>
+Package pdftex.def Info: obrazky/zadani.pdf  used on input line 156.
+(pdftex.def)             Requested size: 426.79135pt x 603.61096pt.
+ [1 <./obrazky/zadani.pdf>]
+Overfull \hbox (35.56094pt too wide) in paragraph at lines 166--167
 [] \OT1/cmr/m/n/12 Nem^^Sam z^^Sava^^Tzn^^Sy d^^Wuvod proti u^^Tzit^^S^^P to-ho
 to ^^Tskoln^^S^^Pho d^^S^^Pla ve smyslu \TS1/cmr/m/n/12 §\OT1/cmr/m/n/12 60 Z^^
 Sakona ^^Tc.121/2000 Sb.,
  []
 
-[1
+[2
 
-] [2
 
 ] [3
+
+] [4
 
 ] (main_FoT.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
@@ -1015,7 +1022,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `main_FoT.toc'.
 
 
-[4
+[5
 
 ] (00_seznam_symbolu_a_zkratek.tex
 Overfull \hbox (1.76335pt too wide) in paragraph at lines 12--12
@@ -1042,30 +1049,30 @@ Overfull \hbox (16.88678pt too wide) in paragraph at lines 32--43
  [] 
  []
 
-) [5
+) [6
 
 ] (main_FoT.lot)
 \tf@lot=\write5
 \openout5 = `main_FoT.lot'.
 
- [6
+ [7
 
-] (main_FoT.lof [7
+] (main_FoT.lof [8
 
 ])
 \tf@lof=\write6
 \openout6 = `main_FoT.lof'.
 
- [8] (01_uvod.tex
+ [9] (01_uvod.tex
 Overfull \hbox (12.20078pt too wide) in paragraph at lines 12--14
 \OT1/cmr/m/n/12 kom-po-nent^^Sach. Ve-d-lej^^Ts^^S^^Pm c^^S^^Plem bylo zjis-tit
  jak jsme schopni ovliv-nit v^^Sysledn^^Se nam^^Te^^Tren^^Se
  []
 
-) [9
+) [10
 
 ] (02_prehled_soucasneho_stavu.tex
-<obrazky/spirometrie-wiki.png, id=45, 635.7351pt x 311.9655pt>
+<obrazky/spirometrie-wiki.png, id=69, 635.7351pt x 311.9655pt>
 File: obrazky/spirometrie-wiki.png Graphic file (type png)
 <use obrazky/spirometrie-wiki.png>
 Package pdftex.def Info: obrazky/spirometrie-wiki.png  used on input line 9.
@@ -1082,7 +1089,7 @@ Overfull \hbox (6.57915pt too wide) in paragraph at lines 15--16
 gnos-tick^^Sa me-toda m^^Te^^Tren^^S^^P ven-ti-lace re-spira^^Tcn^^S^^Pho
  []
 
-[10
+[11
 
  <./obrazky/spirometrie-wiki.png>]
 Overfull \hbox (1.54546pt too wide) in paragraph at lines 25--26
@@ -1090,7 +1097,7 @@ Overfull \hbox (1.54546pt too wide) in paragraph at lines 25--26
 ledky srovn^^Sav^^Sany se zn^^Sam^^Symi daty zdrav^^Sych
  []
 
-<obrazky/tremoflo.jpg, id=51, 501.875pt x 501.875pt>
+<obrazky/tremoflo.jpg, id=75, 501.875pt x 501.875pt>
 File: obrazky/tremoflo.jpg Graphic file (type jpg)
 <use obrazky/tremoflo.jpg>
 Package pdftex.def Info: obrazky/tremoflo.jpg  used on input line 29.
@@ -1098,17 +1105,17 @@ Package pdftex.def Info: obrazky/tremoflo.jpg  used on input line 29.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/sw.png, id=52, 967.615pt x 544.0325pt>
+<obrazky/sw.png, id=76, 967.615pt x 544.0325pt>
 File: obrazky/sw.png Graphic file (type png)
 <use obrazky/sw.png>
 Package pdftex.def Info: obrazky/sw.png  used on input line 38.
 (pdftex.def)             Requested size: 426.79135pt x 239.95613pt.
-[11]
+[12]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [12 <./obrazky/tremoflo.jpg>] [13 <./obrazky/sw.png>] (03_cile_prace.tex)
-[14
+) [13 <./obrazky/tremoflo.jpg>] [14 <./obrazky/sw.png>] (03_cile_prace.tex)
+[15
 
 ] (04_metody.tex
 Overfull \hbox (3.8453pt too wide) in paragraph at lines 4--7
@@ -1116,7 +1123,7 @@ Overfull \hbox (3.8453pt too wide) in paragraph at lines 4--7
 syst^^Semu se v sou^^Tcasn^^Se dob^^Te ne-vyu^^Tz^^S^^Pvaj^^S^^P. []Cast^^Teji
  []
 
-[15
+[16
 
 ]
 Overfull \hbox (5.47021pt too wide) in paragraph at lines 41--43
@@ -1130,307 +1137,307 @@ Overfull \hbox (5.85635pt too wide) in paragraph at lines 47--50
 ^^S^^P me-cha-nick^^Sych ana-logi^^S^^P, sklen^^Ten^^Se
  []
 
-[16]
-<obrazky/schema.jpg, id=73, 2188.175pt x 1478.52374pt>
+[17]
+<obrazky/schema.jpg, id=97, 2188.175pt x 1478.52374pt>
 File: obrazky/schema.jpg Graphic file (type jpg)
 <use obrazky/schema.jpg>
 Package pdftex.def Info: obrazky/schema.jpg  used on input line 53.
 (pdftex.def)             Requested size: 426.79135pt x 288.36737pt.
-<obrazky/schemamereni.jpg, id=74, 2188.175pt x 1424.32124pt>
+<obrazky/schemamereni.jpg, id=98, 2188.175pt x 1424.32124pt>
 File: obrazky/schemamereni.jpg Graphic file (type jpg)
 <use obrazky/schemamereni.jpg>
 Package pdftex.def Info: obrazky/schemamereni.jpg  used on input line 60.
 (pdftex.def)             Requested size: 426.79135pt x 277.79585pt.
-<obrazky/fotka.jpg, id=75, 4047.12pt x 3035.34pt>
+<obrazky/fotka.jpg, id=99, 4047.12pt x 3035.34pt>
 File: obrazky/fotka.jpg Graphic file (type jpg)
 <use obrazky/fotka.jpg>
 Package pdftex.def Info: obrazky/fotka.jpg  used on input line 69.
 (pdftex.def)             Requested size: 426.79135pt x 320.08641pt.
- [17] [18 <./obrazky/schema.jpg> <./obrazky/schemamereni.jpg>] [19 <./obrazky/f
-otka.jpg>]) [20
+ [18] [19 <./obrazky/schema.jpg> <./obrazky/schemamereni.jpg>] [20 <./obrazky/f
+otka.jpg>]) [21
 
 ] (05_vysledky.tex
-<obrazky/rezistance_dily_20_odpor_5.png, id=89, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_20_odpor_5.png, id=113, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_20_odpor_5.png Graphic file (type png)
 <use obrazky/rezistance_dily_20_odpor_5.png>
 Package pdftex.def Info: obrazky/rezistance_dily_20_odpor_5.png  used on input 
 line 27.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_20_odpor_5.png, id=90, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_20_odpor_5.png, id=114, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_20_odpor_5.png Graphic file (type png)
 <use obrazky/reaktance_dily_20_odpor_5.png>
 Package pdftex.def Info: obrazky/reaktance_dily_20_odpor_5.png  used on input l
 ine 33.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_20_odpor_20.png, id=91, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_20_odpor_20.png, id=115, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_20_odpor_20.png Graphic file (type png)
 <use obrazky/rezistance_dily_20_odpor_20.png>
 Package pdftex.def Info: obrazky/rezistance_dily_20_odpor_20.png  used on input
  line 44.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_20_odpor_20.png, id=92, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_20_odpor_20.png, id=116, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_20_odpor_20.png Graphic file (type png)
 <use obrazky/reaktance_dily_20_odpor_20.png>
 Package pdftex.def Info: obrazky/reaktance_dily_20_odpor_20.png  used on input 
 line 51.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_20_odpor_50.png, id=93, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_20_odpor_50.png, id=117, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_20_odpor_50.png Graphic file (type png)
 <use obrazky/rezistance_dily_20_odpor_50.png>
 Package pdftex.def Info: obrazky/rezistance_dily_20_odpor_50.png  used on input
  line 61.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_20_odpor_50.png, id=94, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_20_odpor_50.png, id=118, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_20_odpor_50.png Graphic file (type png)
 <use obrazky/reaktance_dily_20_odpor_50.png>
 Package pdftex.def Info: obrazky/reaktance_dily_20_odpor_50.png  used on input 
 line 67.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_40_odpor_5.png, id=95, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_40_odpor_5.png, id=119, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_40_odpor_5.png Graphic file (type png)
 <use obrazky/rezistance_dily_40_odpor_5.png>
 Package pdftex.def Info: obrazky/rezistance_dily_40_odpor_5.png  used on input 
 line 79.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_40_odpor_5.png, id=96, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_40_odpor_5.png, id=120, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_40_odpor_5.png Graphic file (type png)
 <use obrazky/reaktance_dily_40_odpor_5.png>
 Package pdftex.def Info: obrazky/reaktance_dily_40_odpor_5.png  used on input l
 ine 86.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_40_odpor_20.png, id=97, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_40_odpor_20.png, id=121, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_40_odpor_20.png Graphic file (type png)
 <use obrazky/rezistance_dily_40_odpor_20.png>
 Package pdftex.def Info: obrazky/rezistance_dily_40_odpor_20.png  used on input
  line 96.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_40_odpor_20.png, id=98, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_40_odpor_20.png, id=122, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_40_odpor_20.png Graphic file (type png)
 <use obrazky/reaktance_dily_40_odpor_20.png>
 Package pdftex.def Info: obrazky/reaktance_dily_40_odpor_20.png  used on input 
 line 103.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_40_odpor_50.png, id=99, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_40_odpor_50.png, id=123, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_40_odpor_50.png Graphic file (type png)
 <use obrazky/rezistance_dily_40_odpor_50.png>
 Package pdftex.def Info: obrazky/rezistance_dily_40_odpor_50.png  used on input
  line 113.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_40_odpor_50.png, id=100, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_40_odpor_50.png, id=124, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_40_odpor_50.png Graphic file (type png)
 <use obrazky/reaktance_dily_40_odpor_50.png>
 Package pdftex.def Info: obrazky/reaktance_dily_40_odpor_50.png  used on input 
 line 120.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_60_odpor_5.png, id=101, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_60_odpor_5.png, id=125, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_60_odpor_5.png Graphic file (type png)
 <use obrazky/rezistance_dily_60_odpor_5.png>
 Package pdftex.def Info: obrazky/rezistance_dily_60_odpor_5.png  used on input 
 line 134.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_60_odpor_5.png, id=102, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_60_odpor_5.png, id=126, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_60_odpor_5.png Graphic file (type png)
 <use obrazky/reaktance_dily_60_odpor_5.png>
 Package pdftex.def Info: obrazky/reaktance_dily_60_odpor_5.png  used on input l
 ine 140.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_60_odpor_20.png, id=103, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_60_odpor_20.png, id=127, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_60_odpor_20.png Graphic file (type png)
 <use obrazky/rezistance_dily_60_odpor_20.png>
 Package pdftex.def Info: obrazky/rezistance_dily_60_odpor_20.png  used on input
  line 150.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_60_odpor_20.png, id=104, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_60_odpor_20.png, id=128, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_60_odpor_20.png Graphic file (type png)
 <use obrazky/reaktance_dily_60_odpor_20.png>
 Package pdftex.def Info: obrazky/reaktance_dily_60_odpor_20.png  used on input 
 line 156.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_60_odpor_50.png, id=105, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_60_odpor_50.png, id=129, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_60_odpor_50.png Graphic file (type png)
 <use obrazky/rezistance_dily_60_odpor_50.png>
 Package pdftex.def Info: obrazky/rezistance_dily_60_odpor_50.png  used on input
  line 166.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_60_odpor_50.png, id=106, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_60_odpor_50.png, id=130, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_60_odpor_50.png Graphic file (type png)
 <use obrazky/reaktance_dily_60_odpor_50.png>
 Package pdftex.def Info: obrazky/reaktance_dily_60_odpor_50.png  used on input 
 line 172.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_odpor_5_nadoba_35.png, id=107, 421.575pt x 316.0608pt>
+<obrazky/rezistance_odpor_5_nadoba_35.png, id=131, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_odpor_5_nadoba_35.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_nadoba_35.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_nadoba_35.png  used on inpu
 t line 185.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_odpor_5_nadoba_35.png, id=108, 421.575pt x 316.0608pt>
+<obrazky/reaktance_odpor_5_nadoba_35.png, id=132, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_odpor_5_nadoba_35.png Graphic file (type png)
 <use obrazky/reaktance_odpor_5_nadoba_35.png>
 Package pdftex.def Info: obrazky/reaktance_odpor_5_nadoba_35.png  used on input
  line 191.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_odpor_20_nadoba_35.png, id=109, 421.575pt x 316.0608pt>
+<obrazky/rezistance_odpor_20_nadoba_35.png, id=133, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_odpor_20_nadoba_35.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_nadoba_35.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_nadoba_35.png  used on inp
 ut line 201.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_odpor_20_nadoba_35.png, id=110, 421.575pt x 316.0608pt>
+<obrazky/reaktance_odpor_20_nadoba_35.png, id=134, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_odpor_20_nadoba_35.png Graphic file (type png)
 <use obrazky/reaktance_odpor_20_nadoba_35.png>
 Package pdftex.def Info: obrazky/reaktance_odpor_20_nadoba_35.png  used on inpu
 t line 207.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_odpor_50_nadoba_35.png, id=111, 421.575pt x 316.0608pt>
+<obrazky/rezistance_odpor_50_nadoba_35.png, id=135, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_odpor_50_nadoba_35.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_nadoba_35.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_nadoba_35.png  used on inp
 ut line 217.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_odpor_50_nadoba_35.png, id=112, 421.575pt x 316.0608pt>
+<obrazky/reaktance_odpor_50_nadoba_35.png, id=136, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_odpor_50_nadoba_35.png Graphic file (type png)
 <use obrazky/reaktance_odpor_50_nadoba_35.png>
 Package pdftex.def Info: obrazky/reaktance_odpor_50_nadoba_35.png  used on inpu
 t line 223.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_odpor_5_nadoba_54.png, id=113, 421.575pt x 316.0608pt>
+<obrazky/rezistance_odpor_5_nadoba_54.png, id=137, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_odpor_5_nadoba_54.png Graphic file (type png)
 <use obrazky/rezistance_odpor_5_nadoba_54.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_5_nadoba_54.png  used on inpu
 t line 236.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_odpor_5_nadoba_54.png, id=114, 421.575pt x 316.0608pt>
+<obrazky/reaktance_odpor_5_nadoba_54.png, id=138, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_odpor_5_nadoba_54.png Graphic file (type png)
 <use obrazky/reaktance_odpor_5_nadoba_54.png>
 Package pdftex.def Info: obrazky/reaktance_odpor_5_nadoba_54.png  used on input
  line 243.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_odpor_20_nadoba_54.png, id=115, 421.575pt x 316.0608pt>
+<obrazky/rezistance_odpor_20_nadoba_54.png, id=139, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_odpor_20_nadoba_54.png Graphic file (type png)
 <use obrazky/rezistance_odpor_20_nadoba_54.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_20_nadoba_54.png  used on inp
 ut line 253.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_odpor_20_nadoba_54.png, id=116, 421.575pt x 316.0608pt>
+<obrazky/reaktance_odpor_20_nadoba_54.png, id=140, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_odpor_20_nadoba_54.png Graphic file (type png)
 <use obrazky/reaktance_odpor_20_nadoba_54.png>
 Package pdftex.def Info: obrazky/reaktance_odpor_20_nadoba_54.png  used on inpu
 t line 259.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_odpor_50_nadoba_54.png, id=117, 421.575pt x 316.0608pt>
+<obrazky/rezistance_odpor_50_nadoba_54.png, id=141, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_odpor_50_nadoba_54.png Graphic file (type png)
 <use obrazky/rezistance_odpor_50_nadoba_54.png>
 Package pdftex.def Info: obrazky/rezistance_odpor_50_nadoba_54.png  used on inp
 ut line 269.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_odpor_50_nadoba_54.png, id=118, 421.575pt x 316.0608pt>
+<obrazky/reaktance_odpor_50_nadoba_54.png, id=142, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_odpor_50_nadoba_54.png Graphic file (type png)
 <use obrazky/reaktance_odpor_50_nadoba_54.png>
 Package pdftex.def Info: obrazky/reaktance_odpor_50_nadoba_54.png  used on inpu
 t line 275.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_20_nadoba_35.png, id=119, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_20_nadoba_35.png, id=143, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_20_nadoba_35.png Graphic file (type png)
 <use obrazky/rezistance_dily_20_nadoba_35.png>
 Package pdftex.def Info: obrazky/rezistance_dily_20_nadoba_35.png  used on inpu
 t line 286.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_20_nadoba_35.png, id=120, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_20_nadoba_35.png, id=144, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_20_nadoba_35.png Graphic file (type png)
 <use obrazky/reaktance_dily_20_nadoba_35.png>
 Package pdftex.def Info: obrazky/reaktance_dily_20_nadoba_35.png  used on input
  line 292.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_40_nadoba_35.png, id=121, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_40_nadoba_35.png, id=145, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_40_nadoba_35.png Graphic file (type png)
 <use obrazky/rezistance_dily_40_nadoba_35.png>
 Package pdftex.def Info: obrazky/rezistance_dily_40_nadoba_35.png  used on inpu
 t line 302.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_40_nadoba_35.png, id=122, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_40_nadoba_35.png, id=146, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_40_nadoba_35.png Graphic file (type png)
 <use obrazky/reaktance_dily_40_nadoba_35.png>
 Package pdftex.def Info: obrazky/reaktance_dily_40_nadoba_35.png  used on input
  line 308.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_60_nadoba_35.png, id=123, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_60_nadoba_35.png, id=147, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_60_nadoba_35.png Graphic file (type png)
 <use obrazky/rezistance_dily_60_nadoba_35.png>
 Package pdftex.def Info: obrazky/rezistance_dily_60_nadoba_35.png  used on inpu
 t line 318.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_60_nadoba_35.png, id=124, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_60_nadoba_35.png, id=148, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_60_nadoba_35.png Graphic file (type png)
 <use obrazky/reaktance_dily_60_nadoba_35.png>
 Package pdftex.def Info: obrazky/reaktance_dily_60_nadoba_35.png  used on input
  line 324.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_20_nadoba_54.png, id=125, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_20_nadoba_54.png, id=149, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_20_nadoba_54.png Graphic file (type png)
 <use obrazky/rezistance_dily_20_nadoba_54.png>
 Package pdftex.def Info: obrazky/rezistance_dily_20_nadoba_54.png  used on inpu
 t line 336.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_20_nadoba_54.png, id=126, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_20_nadoba_54.png, id=150, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_20_nadoba_54.png Graphic file (type png)
 <use obrazky/reaktance_dily_20_nadoba_54.png>
 Package pdftex.def Info: obrazky/reaktance_dily_20_nadoba_54.png  used on input
  line 342.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_40_nadoba_54.png, id=127, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_40_nadoba_54.png, id=151, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_40_nadoba_54.png Graphic file (type png)
 <use obrazky/rezistance_dily_40_nadoba_54.png>
 Package pdftex.def Info: obrazky/rezistance_dily_40_nadoba_54.png  used on inpu
 t line 352.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_40_nadoba_54.png, id=128, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_40_nadoba_54.png, id=152, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_40_nadoba_54.png Graphic file (type png)
 <use obrazky/reaktance_dily_40_nadoba_54.png>
 Package pdftex.def Info: obrazky/reaktance_dily_40_nadoba_54.png  used on input
  line 358.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/rezistance_dily_60_nadoba_54.png, id=129, 421.575pt x 316.0608pt>
+<obrazky/rezistance_dily_60_nadoba_54.png, id=153, 421.575pt x 316.0608pt>
 File: obrazky/rezistance_dily_60_nadoba_54.png Graphic file (type png)
 <use obrazky/rezistance_dily_60_nadoba_54.png>
 Package pdftex.def Info: obrazky/rezistance_dily_60_nadoba_54.png  used on inpu
 t line 368.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-<obrazky/reaktance_dily_60_nadoba_54.png, id=130, 421.575pt x 316.0608pt>
+<obrazky/reaktance_dily_60_nadoba_54.png, id=154, 421.575pt x 316.0608pt>
 File: obrazky/reaktance_dily_60_nadoba_54.png Graphic file (type png)
 <use obrazky/reaktance_dily_60_nadoba_54.png>
 Package pdftex.def Info: obrazky/reaktance_dily_60_nadoba_54.png  used on input
  line 374.
 (pdftex.def)             Requested size: 213.39568pt x 159.98802pt.
-) [21
+) [22
 
-] [22 <./obrazky/rezistance_dily_20_odpor_5.png (PNG copy)> <./obrazky/reaktanc
+] [23 <./obrazky/rezistance_dily_20_odpor_5.png (PNG copy)> <./obrazky/reaktanc
 e_dily_20_odpor_5.png (PNG copy)> <./obrazky/rezistance_dily_20_odpor_20.png (P
 NG copy)> <./obrazky/reaktance_dily_20_odpor_20.png (PNG copy)> <./obrazky/rezi
 stance_dily_20_odpor_50.png (PNG copy)> <./obrazky/reaktance_dily_20_odpor_50.p
-ng (PNG copy)>] [23 <./obrazky/rezistance_dily_40_odpor_5.png (PNG copy)> <./ob
+ng (PNG copy)>] [24 <./obrazky/rezistance_dily_40_odpor_5.png (PNG copy)> <./ob
 razky/reaktance_dily_40_odpor_5.png (PNG copy)> <./obrazky/rezistance_dily_40_o
 dpor_20.png (PNG copy)> <./obrazky/reaktance_dily_40_odpor_20.png (PNG copy)> <
 ./obrazky/rezistance_dily_40_odpor_50.png (PNG copy)> <./obrazky/reaktance_dily
 _40_odpor_50.png (PNG copy)>]
-[24 <./obrazky/rezistance_dily_60_odpor_5.png (PNG copy)> <./obrazky/reaktance_
+[25 <./obrazky/rezistance_dily_60_odpor_5.png (PNG copy)> <./obrazky/reaktance_
 dily_60_odpor_5.png (PNG copy)> <./obrazky/rezistance_dily_60_odpor_20.png (PNG
  copy)> <./obrazky/reaktance_dily_60_odpor_20.png (PNG copy)> <./obrazky/rezist
 ance_dily_60_odpor_50.png (PNG copy)> <./obrazky/reaktance_dily_60_odpor_50.png
- (PNG copy)>] [25 <./obrazky/rezistance_odpor_5_nadoba_35.png (PNG copy)> <./ob
+ (PNG copy)>] [26 <./obrazky/rezistance_odpor_5_nadoba_35.png (PNG copy)> <./ob
 razky/reaktance_odpor_5_nadoba_35.png (PNG copy)> <./obrazky/rezistance_odpor_2
 0_nadoba_35.png (PNG copy)> <./obrazky/reaktance_odpor_20_nadoba_35.png (PNG co
 py)> <./obrazky/rezistance_odpor_50_nadoba_35.png (PNG copy)> <./obrazky/reakta
-nce_odpor_50_nadoba_35.png (PNG copy)>] [26 <./obrazky/rezistance_odpor_5_nadob
+nce_odpor_50_nadoba_35.png (PNG copy)>] [27 <./obrazky/rezistance_odpor_5_nadob
 a_54.png (PNG copy)> <./obrazky/reaktance_odpor_5_nadoba_54.png (PNG copy)> <./
 obrazky/rezistance_odpor_20_nadoba_54.png (PNG copy)> <./obrazky/reaktance_odpo
 r_20_nadoba_54.png (PNG copy)> <./obrazky/rezistance_odpor_50_nadoba_54.png (PN
-G copy)> <./obrazky/reaktance_odpor_50_nadoba_54.png (PNG copy)>] [27 <./obrazk
+G copy)> <./obrazky/reaktance_odpor_50_nadoba_54.png (PNG copy)>] [28 <./obrazk
 y/rezistance_dily_20_nadoba_35.png (PNG copy)> <./obrazky/reaktance_dily_20_nad
 oba_35.png (PNG copy)> <./obrazky/rezistance_dily_40_nadoba_35.png (PNG copy)> 
 <./obrazky/reaktance_dily_40_nadoba_35.png (PNG copy)> <./obrazky/rezistance_di
 ly_60_nadoba_35.png (PNG copy)> <./obrazky/reaktance_dily_60_nadoba_35.png (PNG
- copy)>] [28 <./obrazky/rezistance_dily_20_nadoba_54.png (PNG copy)> <./obrazky
+ copy)>] [29 <./obrazky/rezistance_dily_20_nadoba_54.png (PNG copy)> <./obrazky
 /reaktance_dily_20_nadoba_54.png (PNG copy)> <./obrazky/rezistance_dily_40_nado
 ba_54.png (PNG copy)> <./obrazky/reaktance_dily_40_nadoba_54.png (PNG copy)> <.
 /obrazky/rezistance_dily_60_nadoba_54.png (PNG copy)> <./obrazky/reaktance_dily
@@ -1446,7 +1453,7 @@ Overfull \hbox (1.91049pt too wide) in paragraph at lines 15--17
 y trend, o^^Tcek^^Savala jsem, ^^Tze kdy^^Tz nap^^Tr^^S^^Pklad
  []
 
-) [29
+) [30
 
 ] (07_zaver.tex
 Overfull \hbox (30.07416pt too wide) in paragraph at lines 3--4
@@ -1460,21 +1467,27 @@ Overfull \hbox (1.36377pt too wide) in paragraph at lines 3--4
 in-ter-naci a pa-ra-bo-lick^^Sych re-zistor^^Wu.
  []
 
-) [30
+
+Overfull \hbox (8.48415pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/12 zistence a re-ak-tance. Se zv^^Tet^^Tsuj^^S^^Pc^^S^^Pm se od-po
+-rem doch^^Saz^^S^^P k ^^Suniku vzdu-chu doch^^Sazej^^S^^Pc^^S^^Pho
+ []
+
+) [31
 
 ]
-Overfull \hbox (1.11775pt too wide) in paragraph at lines 265--265
+Overfull \hbox (1.11775pt too wide) in paragraph at lines 263--263
 []\OT1/cmr/m/n/12 VL[]CEK, Tom^^Sa^^Ts. \OT1/cmr/m/it/12 Akus-tick^^Sa os-ci-lo
 -me-t-rie\OT1/cmr/m/n/12 . Kladno, 2018. Ba-kal^^Sa^^Trsk^^Sa pr^^Sace. []Cesk^
 ^Se
  []
 
-[31
+[32
 
 
-] [32] (08_prilohy.tex (tabulky19.tex)) [33
+] [33] (08_prilohy.tex (tabulky19.tex)) [34
 
-] [34] [35] [36] (main_FoT.aux)
+] [35] [36] [37] (main_FoT.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-16>
@@ -1484,10 +1497,10 @@ Package logreq Info: Writing requests to 'main_FoT.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21443 strings out of 476036
- 441414 string characters out of 5778880
+ 21453 strings out of 476036
+ 441658 string characters out of 5778880
  1910763 words of memory out of 5000000
- 41894 multiletter control sequences out of 15000+600000
+ 41904 multiletter control sequences out of 15000+600000
  528406 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,17n,81p,1408b,3038s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1504,9 +1517,9 @@ ers/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 s/cm/cmti12.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type1/urw
 /helvetic/uhvb8a.pfb><C:/Users/e675237/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/helvetic/uhvr8a.pfb>
-Output written on main_FoT.pdf (37 pages, 3266577 bytes).
+Output written on main_FoT.pdf (38 pages, 3664622 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
+ 257 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 

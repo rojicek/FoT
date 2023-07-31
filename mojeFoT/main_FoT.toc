@@ -1,24 +1,24 @@
 \babel@toc {czech}{}\relax 
-\contentsline {section}{Seznam symbolů zkratek}{5}{}%
-\contentsline {section}{Seznam tabulek}{6}{}%
-\contentsline {section}{Seznam obrázků}{7}{}%
-\contentsline {section}{\numberline {1}Úvod}{9}{}%
-\contentsline {section}{\numberline {2}Přehled současného stavu}{10}{}%
-\contentsline {subsection}{\numberline {2.1}Spirometrie}{10}{}%
-\contentsline {subsection}{\numberline {2.2}Metoda nucených oscilací}{11}{}%
-\contentsline {subsection}{\numberline {2.3}Přístroj Tremoflo C-100}{11}{}%
-\contentsline {section}{\numberline {3}Cíle práce}{14}{}%
-\contentsline {section}{\numberline {4}Metody}{15}{}%
-\contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{15}{}%
-\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení Tremoflo C-100}{16}{}%
-\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{16}{}%
-\contentsline {subsection}{\numberline {4.4}Průběh měření}{20}{}%
-\contentsline {section}{\numberline {5}Výsledky}{21}{}%
-\contentsline {subsection}{\numberline {5.1}Rezistance}{21}{}%
-\contentsline {subsection}{\numberline {5.2}Reaktance}{21}{}%
-\contentsline {section}{\numberline {6}Diskuse}{29}{}%
-\contentsline {section}{\numberline {7}Závěr}{30}{}%
-\contentsline {section}{Seznam použité literatury}{31}{}%
+\contentsline {section}{Seznam symbolů zkratek}{6}{}%
+\contentsline {section}{Seznam tabulek}{7}{}%
+\contentsline {section}{Seznam obrázků}{8}{}%
+\contentsline {section}{\numberline {1}Úvod}{10}{}%
+\contentsline {section}{\numberline {2}Přehled současného stavu}{11}{}%
+\contentsline {subsection}{\numberline {2.1}Spirometrie}{11}{}%
+\contentsline {subsection}{\numberline {2.2}Metoda nucených oscilací}{12}{}%
+\contentsline {subsection}{\numberline {2.3}Přístroj Tremoflo C-100}{12}{}%
+\contentsline {section}{\numberline {3}Cíle práce}{15}{}%
+\contentsline {section}{\numberline {4}Metody}{16}{}%
+\contentsline {subsection}{\numberline {4.1}Akustická oscilometrie}{16}{}%
+\contentsline {subsection}{\numberline {4.2}Kalibrace zařízení Tremoflo C-100}{17}{}%
+\contentsline {subsection}{\numberline {4.3}Sestavení modelu}{17}{}%
+\contentsline {subsection}{\numberline {4.4}Průběh měření}{21}{}%
+\contentsline {section}{\numberline {5}Výsledky}{22}{}%
+\contentsline {subsection}{\numberline {5.1}Rezistance}{22}{}%
+\contentsline {subsection}{\numberline {5.2}Reaktance}{22}{}%
+\contentsline {section}{\numberline {6}Diskuse}{30}{}%
+\contentsline {section}{\numberline {7}Závěr}{31}{}%
+\contentsline {section}{Seznam použité literatury}{32}{}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -53,4 +53,4 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {section}{\numberline {A}Výsledky měření}{33}{}%
+\contentsline {section}{\numberline {A}Výsledky měření}{34}{}%
